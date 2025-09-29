@@ -248,7 +248,6 @@
     <node id="Kings of Leon" />
     <node id="The Kinks" />
     <node id="Kiss (band)" />
-    <node id="AllMusic" />
     <node id="Korn" />
     <node id="Lenny Kravitz" />
     <node id="Lacuna Coil" />
@@ -487,7 +486,6 @@
     <edge source="10cc" target="George Harrison" />
     <edge source="10cc" target="Herman's Hermits" />
     <edge source="10cc" target="The Hollies" />
-    <edge source="10cc" target="AllMusic" />
     <edge source="10cc" target="Paul McCartney" />
     <edge source="10cc" target="The Police" />
     <edge source="10cc" target="Ramones" />
@@ -499,7 +497,6 @@
     <edge source="10cc" target="Frank Zappa" />
     <edge source="10 Years (band)" target="Breaking Benjamin" />
     <edge source="10 Years (band)" target="Deftones" />
-    <edge source="10 Years (band)" target="AllMusic" />
     <edge source="10 Years (band)" target="Korn" />
     <edge source="10 Years (band)" target="Mudvayne" />
     <edge source="10 Years (band)" target="Puddle of Mudd" />
@@ -508,7 +505,6 @@
     <edge source="10 Years (band)" target="Thousand Foot Krutch" />
     <edge source="3 Doors Down" target="Alter Bridge" />
     <edge source="3 Doors Down" target="Hinder" />
-    <edge source="3 Doors Down" target="AllMusic" />
     <edge source="3 Doors Down" target="Lynyrd Skynyrd" />
     <edge source="3 Doors Down" target="Nickelback" />
     <edge source="3 Doors Down" target="Puddle of Mudd" />
@@ -548,7 +544,6 @@
     <edge source="Accept (band)" target="Guns N' Roses" />
     <edge source="Accept (band)" target="Iron Maiden" />
     <edge source="Accept (band)" target="Judas Priest" />
-    <edge source="Accept (band)" target="AllMusic" />
     <edge source="Accept (band)" target="Megadeth" />
     <edge source="Accept (band)" target="Metallica" />
     <edge source="Accept (band)" target="M\u00f6tley Cr\u00fce" />
@@ -572,7 +567,6 @@
     <edge source="AC/DC" target="Jane's Addiction" />
     <edge source="AC/DC" target="Elton John" />
     <edge source="AC/DC" target="Judas Priest" />
-    <edge source="AC/DC" target="AllMusic" />
     <edge source="AC/DC" target="Metallica" />
     <edge source="AC/DC" target="Ted Nugent" />
     <edge source="AC/DC" target="Ozzy Osbourne" />
@@ -632,7 +626,6 @@
     <edge source="Aerosmith" target="Guns N' Roses" />
     <edge source="Aerosmith" target="Joan Jett" />
     <edge source="Aerosmith" target="Kid Rock" />
-    <edge source="Aerosmith" target="AllMusic" />
     <edge source="Aerosmith" target="Lenny Kravitz" />
     <edge source="Aerosmith" target="Led Zeppelin" />
     <edge source="Aerosmith" target="Limp Bizkit" />
@@ -658,17 +651,14 @@
     <edge source="AFI (band)" target="Green Day" />
     <edge source="AFI (band)" target="Guns N' Roses" />
     <edge source="AFI (band)" target="Joy Division" />
-    <edge source="AFI (band)" target="AllMusic" />
     <edge source="AFI (band)" target="Metallica" />
     <edge source="AFI (band)" target="My Chemical Romance" />
     <edge source="AFI (band)" target="The Offspring" />
     <edge source="AFI (band)" target="Panic! at the Disco" />
     <edge source="AFI (band)" target="Pantera" />
     <edge source="Air Supply" target="Cold Chisel" />
-    <edge source="Air Supply" target="AllMusic" />
     <edge source="Air Supply" target="Rod Stewart" />
     <edge source="The Alan Parsons Project" target="The Hollies" />
-    <edge source="The Alan Parsons Project" target="AllMusic" />
     <edge source="The Alan Parsons Project" target="Pink Floyd" />
     <edge source="Alice in Chains" target="AC/DC" />
     <edge source="Alice in Chains" target="Aerosmith" />
@@ -691,7 +681,6 @@
     <edge source="Alice in Chains" target="Hoobastank" />
     <edge source="Alice in Chains" target="Iron Maiden" />
     <edge source="Alice in Chains" target="Elton John" />
-    <edge source="Alice in Chains" target="AllMusic" />
     <edge source="Alice in Chains" target="Korn" />
     <edge source="Alice in Chains" target="Led Zeppelin" />
     <edge source="Alice in Chains" target="Lynyrd Skynyrd" />
@@ -731,13 +720,11 @@
     <edge source="The All-American Rejects" target="Fall Out Boy" />
     <edge source="The All-American Rejects" target="Five for Fighting" />
     <edge source="The All-American Rejects" target="Hoobastank" />
-    <edge source="The All-American Rejects" target="AllMusic" />
     <edge source="The All-American Rejects" target="My Chemical Romance" />
     <edge source="The All-American Rejects" target="Paramore" />
     <edge source="The All-American Rejects" target="Weezer" />
     <edge source="The Allman Brothers Band" target="Chuck Berry" />
     <edge source="The Allman Brothers Band" target="Eric Clapton" />
-    <edge source="The Allman Brothers Band" target="AllMusic" />
     <edge source="The Allman Brothers Band" target="Led Zeppelin" />
     <edge source="The Allman Brothers Band" target="Lynyrd Skynyrd" />
     <edge source="The Allman Brothers Band" target="John Mellencamp" />
@@ -773,16 +760,13 @@
     <edge source="America (band)" target="Gin Blossoms" />
     <edge source="America (band)" target="George Harrison" />
     <edge source="America (band)" target="Elton John" />
-    <edge source="America (band)" target="AllMusic" />
     <edge source="America (band)" target="The Mamas &amp; the Papas" />
     <edge source="America (band)" target="Steely Dan" />
     <edge source="America (band)" target="Three Dog Night" />
     <edge source="America (band)" target="The Who" />
     <edge source="The Animals" target="Chuck Berry" />
-    <edge source="The Animals" target="AllMusic" />
     <edge source="The Animals" target="Bruce Springsteen" />
     <edge source="Adam Ant" target="Eddie Cochran" />
-    <edge source="Adam Ant" target="AllMusic" />
     <edge source="Adam Ant" target="Paul McCartney" />
     <edge source="Adam Ant" target="Morrissey" />
     <edge source="Adam Ant" target="Stevie Nicks" />
@@ -803,7 +787,6 @@
     <edge source="Anthrax (American band)" target="Jane's Addiction" />
     <edge source="Anthrax (American band)" target="Judas Priest" />
     <edge source="Anthrax (American band)" target="Killswitch Engage" />
-    <edge source="Anthrax (American band)" target="AllMusic" />
     <edge source="Anthrax (American band)" target="Korn" />
     <edge source="Anthrax (American band)" target="Limp Bizkit" />
     <edge source="Anthrax (American band)" target="Living Colour" />
@@ -843,7 +826,6 @@
     <edge source="Arctic Monkeys" target="Bob Dylan" />
     <edge source="Arctic Monkeys" target="Foo Fighters" />
     <edge source="Arctic Monkeys" target="Jimi Hendrix" />
-    <edge source="Arctic Monkeys" target="AllMusic" />
     <edge source="Arctic Monkeys" target="Led Zeppelin" />
     <edge source="Arctic Monkeys" target="John Lennon" />
     <edge source="Arctic Monkeys" target="Metallica" />
@@ -865,7 +847,6 @@
     <edge source="Audioslave" target="Elvis Costello" />
     <edge source="Audioslave" target="Funkadelic" />
     <edge source="Audioslave" target="Jimi Hendrix" />
-    <edge source="Audioslave" target="AllMusic" />
     <edge source="Audioslave" target="Led Zeppelin" />
     <edge source="Audioslave" target="Rage Against the Machine" />
     <edge source="Audioslave" target="Soundgarden" />
@@ -886,7 +867,6 @@
     <edge source="Avenged Sevenfold" target="Iron Maiden" />
     <edge source="Avenged Sevenfold" target="Elton John" />
     <edge source="Avenged Sevenfold" target="Killswitch Engage" />
-    <edge source="Avenged Sevenfold" target="AllMusic" />
     <edge source="Avenged Sevenfold" target="Korn" />
     <edge source="Avenged Sevenfold" target="Lacuna Coil" />
     <edge source="Avenged Sevenfold" target="Led Zeppelin" />
@@ -906,7 +886,6 @@
     <edge source="Awolnation" target="The Cars" />
     <edge source="Awolnation" target="Fall Out Boy" />
     <edge source="Awolnation" target="Goo Goo Dolls" />
-    <edge source="Awolnation" target="AllMusic" />
     <edge source="Awolnation" target="Midnight Oil" />
     <edge source="Awolnation" target="Pearl Jam" />
     <edge source="Awolnation" target="Red Hot Chili Peppers" />
@@ -915,7 +894,6 @@
     <edge source="Bad Company" target="Bon Jovi" />
     <edge source="Bad Company" target="Deep Purple" />
     <edge source="Bad Company" target="Guns N' Roses" />
-    <edge source="Bad Company" target="AllMusic" />
     <edge source="Bad Company" target="Led Zeppelin" />
     <edge source="Bad Company" target="Lynyrd Skynyrd" />
     <edge source="Bad Company" target="Ted Nugent" />
@@ -943,7 +921,6 @@
     <edge source="The Band" target="George Harrison" />
     <edge source="The Band" target="Elton John" />
     <edge source="The Band" target="Janis Joplin" />
-    <edge source="The Band" target="AllMusic" />
     <edge source="The Band" target="Led Zeppelin" />
     <edge source="The Band" target="Van Morrison" />
     <edge source="The Band" target="Pink Floyd" />
@@ -962,13 +939,11 @@
     <edge source="Barenaked Ladies" target="Bob Dylan" />
     <edge source="Barenaked Ladies" target="Peter Gabriel" />
     <edge source="Barenaked Ladies" target="Gin Blossoms" />
-    <edge source="Barenaked Ladies" target="AllMusic" />
     <edge source="Barenaked Ladies" target="Paul McCartney" />
     <edge source="Barenaked Ladies" target="Steely Dan" />
     <edge source="Barenaked Ladies" target="U2" />
     <edge source="Bay City Rollers" target="David Bowie" />
     <edge source="Bay City Rollers" target="The Cars" />
-    <edge source="Bay City Rollers" target="AllMusic" />
     <edge source="Bay City Rollers" target="Mitch Ryder" />
     <edge source="The Beach Boys" target="Chuck Berry" />
     <edge source="The Beach Boys" target="Christopher Cross" />
@@ -979,7 +954,6 @@
     <edge source="The Beach Boys" target="Grateful Dead" />
     <edge source="The Beach Boys" target="Bill Haley &amp; His Comets" />
     <edge source="The Beach Boys" target="Hall &amp; Oates" />
-    <edge source="The Beach Boys" target="AllMusic" />
     <edge source="The Beach Boys" target="Roy Orbison" />
     <edge source="The Beach Boys" target="Ramones" />
     <edge source="The Beach Boys" target="Lou Reed" />
@@ -989,7 +963,6 @@
     <edge source="The Beach Boys" target="Ritchie Valens" />
     <edge source="The Beach Boys" target="Frank Zappa" />
     <edge source="Beastie Boys" target="Kid Rock" />
-    <edge source="Beastie Boys" target="AllMusic" />
     <edge source="Beastie Boys" target="Limp Bizkit" />
     <edge source="Beastie Boys" target="R.E.M." />
     <edge source="Beastie Boys" target="Rage Against the Machine" />
@@ -1007,7 +980,6 @@
     <edge source="The Beatles" target="Herman's Hermits" />
     <edge source="The Beatles" target="Buddy Holly" />
     <edge source="The Beatles" target="Elton John" />
-    <edge source="The Beatles" target="AllMusic" />
     <edge source="The Beatles" target="John Lennon" />
     <edge source="The Beatles" target="Jerry Lee Lewis" />
     <edge source="The Beatles" target="Little Richard" />
@@ -1024,7 +996,6 @@
     <edge source="Bee Gees" target="Phil Collins" />
     <edge source="Bee Gees" target="Peter Frampton" />
     <edge source="Bee Gees" target="Glenn Frey" />
-    <edge source="Bee Gees" target="AllMusic" />
     <edge source="Bee Gees" target="John Lennon" />
     <edge source="Bee Gees" target="Jerry Lee Lewis" />
     <edge source="Bee Gees" target="Paul McCartney" />
@@ -1063,7 +1034,6 @@
     <edge source="Pat Benatar" target="Cheap Trick" />
     <edge source="Pat Benatar" target="Melissa Etheridge" />
     <edge source="Pat Benatar" target="Fleetwood Mac" />
-    <edge source="Pat Benatar" target="AllMusic" />
     <edge source="Pat Benatar" target="John Lennon" />
     <edge source="Pat Benatar" target="Loverboy" />
     <edge source="Pat Benatar" target="John Mellencamp" />
@@ -1073,7 +1043,6 @@
     <edge source="Chuck Berry" target="Bo Diddley" />
     <edge source="Chuck Berry" target="Bob Dylan" />
     <edge source="Chuck Berry" target="Buddy Holly" />
-    <edge source="Chuck Berry" target="AllMusic" />
     <edge source="Chuck Berry" target="John Lennon" />
     <edge source="Chuck Berry" target="Little Richard" />
     <edge source="Chuck Berry" target="Ted Nugent" />
@@ -1090,7 +1059,6 @@
     <edge source="Billy Talent" target="Blink-182" />
     <edge source="Billy Talent" target="Green Day" />
     <edge source="Billy Talent" target="Guns N' Roses" />
-    <edge source="Billy Talent" target="AllMusic" />
     <edge source="Billy Talent" target="My Chemical Romance" />
     <edge source="Billy Talent" target="Paramore" />
     <edge source="Billy Talent" target="Pearl Jam" />
@@ -1134,7 +1102,6 @@
     <edge source="Black Sabbath" target="Jimi Hendrix" />
     <edge source="Black Sabbath" target="Iron Maiden" />
     <edge source="Black Sabbath" target="Judas Priest" />
-    <edge source="Black Sabbath" target="AllMusic" />
     <edge source="Black Sabbath" target="Korn" />
     <edge source="Black Sabbath" target="Led Zeppelin" />
     <edge source="Black Sabbath" target="John Lennon" />
@@ -1163,7 +1130,6 @@
     <edge source="Black Stone Cherry" target="Def Leppard" />
     <edge source="Black Stone Cherry" target="Halestorm" />
     <edge source="Black Stone Cherry" target="Highly Suspect" />
-    <edge source="Black Stone Cherry" target="AllMusic" />
     <edge source="Black Stone Cherry" target="Lynyrd Skynyrd" />
     <edge source="Black Stone Cherry" target="Nickelback" />
     <edge source="Black Stone Cherry" target="Shinedown" />
@@ -1179,7 +1145,6 @@
     <edge source="Black Veil Brides" target="Dropkick Murphys" />
     <edge source="Black Veil Brides" target="Halestorm" />
     <edge source="Black Veil Brides" target="Billy Idol" />
-    <edge source="Black Veil Brides" target="AllMusic" />
     <edge source="Black Veil Brides" target="Metallica" />
     <edge source="Black Veil Brides" target="M\u00f6tley Cr\u00fce" />
     <edge source="Black Veil Brides" target="Ozzy Osbourne" />
@@ -1194,7 +1159,6 @@
     <edge source="Blink-182" target="Good Charlotte" />
     <edge source="Blink-182" target="Green Day" />
     <edge source="Blink-182" target="Jimmy Eat World" />
-    <edge source="Blink-182" target="AllMusic" />
     <edge source="Blink-182" target="Avril Lavigne" />
     <edge source="Blink-182" target="Metallica" />
     <edge source="Blink-182" target="Mumford &amp; Sons" />
@@ -1213,7 +1177,6 @@
     <edge source="Blondie (band)" target="Phil Collins" />
     <edge source="Blondie (band)" target="Alice Cooper" />
     <edge source="Blondie (band)" target="Buddy Holly" />
-    <edge source="Blondie (band)" target="AllMusic" />
     <edge source="Blondie (band)" target="Meat Loaf" />
     <edge source="Blondie (band)" target="No Doubt" />
     <edge source="Blondie (band)" target="Iggy Pop" />
@@ -1226,7 +1189,6 @@
     <edge source="Blue October" target="Peter Gabriel" />
     <edge source="Blue October" target="Goo Goo Dolls" />
     <edge source="Blue October" target="Kid Rock" />
-    <edge source="Blue October" target="AllMusic" />
     <edge source="Blue October" target="Pearl Jam" />
     <edge source="Blue October" target="Red Hot Chili Peppers" />
     <edge source="Blue October" target="U2" />
@@ -1236,16 +1198,13 @@
     <edge source="Blues Traveler" target="Bob Seger" />
     <edge source="James Blunt" target="Sheryl Crow" />
     <edge source="James Blunt" target="Elton John" />
-    <edge source="James Blunt" target="AllMusic" />
     <edge source="Blur (band)" target="Beck" />
     <edge source="Blur (band)" target="David Bowie" />
     <edge source="Blur (band)" target="Depeche Mode" />
-    <edge source="Blur (band)" target="AllMusic" />
     <edge source="Blur (band)" target="Led Zeppelin" />
     <edge source="Blur (band)" target="Pink Floyd" />
     <edge source="Bon Jovi" target="Chuck Berry" />
     <edge source="Bon Jovi" target="Joe Cocker" />
-    <edge source="Bon Jovi" target="AllMusic" />
     <edge source="Bon Jovi" target="Led Zeppelin" />
     <edge source="Bon Jovi" target="Ratt" />
     <edge source="Bon Jovi" target="The Rolling Stones" />
@@ -1283,7 +1242,6 @@
     <edge source="Bowling for Soup" target="Blues Traveler" />
     <edge source="Bowling for Soup" target="Elvis Costello" />
     <edge source="Bowling for Soup" target="Green Day" />
-    <edge source="Bowling for Soup" target="AllMusic" />
     <edge source="Bowling for Soup" target="M\u00f6tley Cr\u00fce" />
     <edge source="Bowling for Soup" target="Quiet Riot" />
     <edge source="Bowling for Soup" target="Ramones" />
@@ -1300,7 +1258,6 @@
     <edge source="Boys Like Girls" target="Good Charlotte" />
     <edge source="Boys Like Girls" target="Hoobastank" />
     <edge source="Boys Like Girls" target="Jimmy Eat World" />
-    <edge source="Boys Like Girls" target="AllMusic" />
     <edge source="Boys Like Girls" target="Avril Lavigne" />
     <edge source="Boys Like Girls" target="Simple Plan" />
     <edge source="Boys Like Girls" target="Third Eye Blind" />
@@ -1316,7 +1273,6 @@
     <edge source="Breaking Benjamin" target="Five Finger Death Punch" />
     <edge source="Breaking Benjamin" target="Godsmack" />
     <edge source="Breaking Benjamin" target="Goo Goo Dolls" />
-    <edge source="Breaking Benjamin" target="AllMusic" />
     <edge source="Breaking Benjamin" target="Korn" />
     <edge source="Breaking Benjamin" target="Nickelback" />
     <edge source="Breaking Benjamin" target="Papa Roach" />
@@ -1338,7 +1294,6 @@
     <edge source="Bring Me the Horizon" target="Deftones" />
     <edge source="Bring Me the Horizon" target="Jane's Addiction" />
     <edge source="Bring Me the Horizon" target="Killswitch Engage" />
-    <edge source="Bring Me the Horizon" target="AllMusic" />
     <edge source="Bring Me the Horizon" target="Linkin Park" />
     <edge source="Bring Me the Horizon" target="Metallica" />
     <edge source="Bring Me the Horizon" target="Panic! at the Disco" />
@@ -1353,7 +1308,6 @@
     <edge source="Jackson Browne" target="Green Day" />
     <edge source="Jackson Browne" target="Don Henley" />
     <edge source="Jackson Browne" target="Kings of Leon" />
-    <edge source="Jackson Browne" target="AllMusic" />
     <edge source="Jackson Browne" target="Avril Lavigne" />
     <edge source="Jackson Browne" target="John Lennon" />
     <edge source="Jackson Browne" target="Roy Orbison" />
@@ -1368,7 +1322,6 @@
     <edge source="Buckcherry" target="The Cult" />
     <edge source="Buckcherry" target="Deftones" />
     <edge source="Buckcherry" target="Guns N' Roses" />
-    <edge source="Buckcherry" target="AllMusic" />
     <edge source="Buckcherry" target="Lenny Kravitz" />
     <edge source="Buckcherry" target="Lacuna Coil" />
     <edge source="Buckcherry" target="Limp Bizkit" />
@@ -1405,7 +1358,6 @@
     <edge source="Bullet for My Valentine" target="Iron Maiden" />
     <edge source="Bullet for My Valentine" target="Judas Priest" />
     <edge source="Bullet for My Valentine" target="Killswitch Engage" />
-    <edge source="Bullet for My Valentine" target="AllMusic" />
     <edge source="Bullet for My Valentine" target="Korn" />
     <edge source="Bullet for My Valentine" target="Lacuna Coil" />
     <edge source="Bullet for My Valentine" target="Led Zeppelin" />
@@ -1421,7 +1373,6 @@
     <edge source="Bullet for My Valentine" target="Bruce Springsteen" />
     <edge source="Bullet for My Valentine" target="Rob Zombie" />
     <edge source="Chris de Burgh" target="Bob Dylan" />
-    <edge source="Chris de Burgh" target="AllMusic" />
     <edge source="Chris de Burgh" target="Supertramp" />
     <edge source="Bush (British band)" target="Bryan Adams" />
     <edge source="Bush (British band)" target="Alice in Chains" />
@@ -1432,7 +1383,6 @@
     <edge source="Bush (British band)" target="Bob Dylan" />
     <edge source="Bush (British band)" target="INXS" />
     <edge source="Bush (British band)" target="Jane's Addiction" />
-    <edge source="Bush (British band)" target="AllMusic" />
     <edge source="Bush (British band)" target="Led Zeppelin" />
     <edge source="Bush (British band)" target="John Lennon" />
     <edge source="Bush (British band)" target="Nickelback" />
@@ -1449,7 +1399,6 @@
     <edge source="The Byrds" target="Donovan" />
     <edge source="The Byrds" target="Bob Dylan" />
     <edge source="The Byrds" target="Jefferson Airplane" />
-    <edge source="The Byrds" target="AllMusic" />
     <edge source="The Byrds" target="Roy Orbison" />
     <edge source="The Byrds" target="Tom Petty and the Heartbreakers" />
     <edge source="The Byrds" target="R.E.M." />
@@ -1478,7 +1427,6 @@
     <edge source="Canned Heat" target="Jimi Hendrix" />
     <edge source="Canned Heat" target="Jefferson Airplane" />
     <edge source="Canned Heat" target="Janis Joplin" />
-    <edge source="Canned Heat" target="AllMusic" />
     <edge source="Canned Heat" target="Jerry Lee Lewis" />
     <edge source="Canned Heat" target="Little Richard" />
     <edge source="Canned Heat" target="John Mayall" />
@@ -1489,7 +1437,6 @@
     <edge source="The Cab" target="Boys Like Girls" />
     <edge source="The Cab" target="Dashboard Confessional" />
     <edge source="The Cab" target="Fall Out Boy" />
-    <edge source="The Cab" target="AllMusic" />
     <edge source="The Cab" target="Avril Lavigne" />
     <edge source="The Cab" target="Panic! at the Disco" />
     <edge source="The Cab" target="Simple Plan" />
@@ -1499,15 +1446,12 @@
     <edge source="Catfish and the Bottlemen" target="Arctic Monkeys" />
     <edge source="Catfish and the Bottlemen" target="Coldplay" />
     <edge source="Catfish and the Bottlemen" target="Green Day" />
-    <edge source="Catfish and the Bottlemen" target="AllMusic" />
     <edge source="Catfish and the Bottlemen" target="Van Morrison" />
     <edge source="Harry Chapin" target="Kenny Loggins" />
     <edge source="Harry Chapin" target="James Taylor" />
-    <edge source="Tracy Chapman" target="AllMusic" />
     <edge source="Tracy Chapman" target="Alanis Morissette" />
     <edge source="Cheap Trick" target="Green Day" />
     <edge source="Cheap Trick" target="Kid Rock" />
-    <edge source="Cheap Trick" target="AllMusic" />
     <edge source="Cheap Trick" target="Led Zeppelin" />
     <edge source="Cheap Trick" target="Pearl Jam" />
     <edge source="Cheap Trick" target="Elvis Presley" />
@@ -1517,7 +1461,6 @@
     <edge source="Chevelle (band)" target="Evanescence" />
     <edge source="Chevelle (band)" target="Finger Eleven" />
     <edge source="Chevelle (band)" target="Halestorm" />
-    <edge source="Chevelle (band)" target="AllMusic" />
     <edge source="Chevelle (band)" target="Nickelback" />
     <edge source="Chevelle (band)" target="Shinedown" />
     <edge source="Chevelle (band)" target="Staind" />
@@ -1530,7 +1473,6 @@
     <edge source="Chicago (band)" target="Foo Fighters" />
     <edge source="Chicago (band)" target="Jimi Hendrix" />
     <edge source="Chicago (band)" target="Janis Joplin" />
-    <edge source="Chicago (band)" target="AllMusic" />
     <edge source="Chicago (band)" target="Huey Lewis and the News" />
     <edge source="Chicago (band)" target="Kenny Loggins" />
     <edge source="Chicago (band)" target="Stevie Nicks" />
@@ -1539,11 +1481,9 @@
     <edge source="Chicago (band)" target="Rod Stewart" />
     <edge source="Chubby Checker" target="Fats Domino" />
     <edge source="Chubby Checker" target="Jimi Hendrix" />
-    <edge source="Chubby Checker" target="AllMusic" />
     <edge source="Chubby Checker" target="Jerry Lee Lewis" />
     <edge source="Chubby Checker" target="Elvis Presley" />
     <edge source="Cinderella (band)" target="Bon Jovi" />
-    <edge source="Cinderella (band)" target="AllMusic" />
     <edge source="Cinderella (band)" target="Lynyrd Skynyrd" />
     <edge source="Cinderella (band)" target="M\u00f6tley Cr\u00fce" />
     <edge source="Cinderella (band)" target="Ozzy Osbourne" />
@@ -1564,7 +1504,6 @@
     <edge source="Eric Clapton" target="Herman's Hermits" />
     <edge source="Eric Clapton" target="Buddy Holly" />
     <edge source="Eric Clapton" target="Elton John" />
-    <edge source="Eric Clapton" target="AllMusic" />
     <edge source="Eric Clapton" target="John Lennon" />
     <edge source="Eric Clapton" target="Manfred Mann" />
     <edge source="Eric Clapton" target="John Mayer" />
@@ -1585,7 +1524,6 @@
     <edge source="The Clash" target="Elvis Costello" />
     <edge source="The Clash" target="Dropkick Murphys" />
     <edge source="The Clash" target="Green Day" />
-    <edge source="The Clash" target="AllMusic" />
     <edge source="The Clash" target="No Doubt" />
     <edge source="The Clash" target="Ramones" />
     <edge source="The Clash" target="Rise Against" />
@@ -1598,7 +1536,6 @@
     <edge source="Eddie Cochran" target="Fats Domino" />
     <edge source="Eddie Cochran" target="Jimi Hendrix" />
     <edge source="Eddie Cochran" target="Buddy Holly" />
-    <edge source="Eddie Cochran" target="AllMusic" />
     <edge source="Eddie Cochran" target="Led Zeppelin" />
     <edge source="Eddie Cochran" target="John Lennon" />
     <edge source="Eddie Cochran" target="Paul McCartney" />
@@ -1630,7 +1567,6 @@
     <edge source="Coheed and Cambria" target="Foo Fighters" />
     <edge source="Coheed and Cambria" target="Iron Maiden" />
     <edge source="Coheed and Cambria" target="Jane's Addiction" />
-    <edge source="Coheed and Cambria" target="AllMusic" />
     <edge source="Coheed and Cambria" target="Led Zeppelin" />
     <edge source="Coheed and Cambria" target="Linkin Park" />
     <edge source="Coheed and Cambria" target="Pink Floyd" />
@@ -1642,7 +1578,6 @@
     <edge source="Cold Chisel" target="Joe Cocker" />
     <edge source="Cold Chisel" target="Deep Purple" />
     <edge source="Cold Chisel" target="INXS" />
-    <edge source="Cold Chisel" target="AllMusic" />
     <edge source="Cold Chisel" target="Little River Band" />
     <edge source="Cold Chisel" target="Midnight Oil" />
     <edge source="Cold Chisel" target="Ted Nugent" />
@@ -1676,7 +1611,6 @@
     <edge source="Collective Soul" target="Gin Blossoms" />
     <edge source="Collective Soul" target="Hootie &amp; the Blowfish" />
     <edge source="Collective Soul" target="Elton John" />
-    <edge source="Collective Soul" target="AllMusic" />
     <edge source="Collective Soul" target="Matchbox Twenty" />
     <edge source="Collective Soul" target="Elvis Presley" />
     <edge source="Collective Soul" target="Van Halen" />
@@ -1690,7 +1624,6 @@
     <edge source="Phil Collins" target="Peter Gabriel" />
     <edge source="Phil Collins" target="George Harrison" />
     <edge source="Phil Collins" target="Elton John" />
-    <edge source="Phil Collins" target="AllMusic" />
     <edge source="Phil Collins" target="Led Zeppelin" />
     <edge source="Phil Collins" target="Manfred Mann Chapter Three" />
     <edge source="Phil Collins" target="Paul McCartney" />
@@ -1718,7 +1651,6 @@
     <edge source="Alice Cooper" target="Jane's Addiction" />
     <edge source="Alice Cooper" target="Elton John" />
     <edge source="Alice Cooper" target="Judas Priest" />
-    <edge source="Alice Cooper" target="AllMusic" />
     <edge source="Alice Cooper" target="Led Zeppelin" />
     <edge source="Alice Cooper" target="John Lennon" />
     <edge source="Alice Cooper" target="Marilyn Manson" />
@@ -1746,7 +1678,6 @@
     <edge source="Alice Cooper (band)" target="Alice Cooper" />
     <edge source="Alice Cooper (band)" target="The Doors" />
     <edge source="Alice Cooper (band)" target="Guns N' Roses" />
-    <edge source="Alice Cooper (band)" target="AllMusic" />
     <edge source="Alice Cooper (band)" target="Manfred Mann" />
     <edge source="Alice Cooper (band)" target="New York Dolls" />
     <edge source="Alice Cooper (band)" target="Nine Inch Nails" />
@@ -1772,7 +1703,6 @@
     <edge source="Chris Cornell" target="Jimi Hendrix" />
     <edge source="Chris Cornell" target="Imagine Dragons" />
     <edge source="Chris Cornell" target="Joy Division" />
-    <edge source="Chris Cornell" target="AllMusic" />
     <edge source="Chris Cornell" target="Led Zeppelin" />
     <edge source="Chris Cornell" target="John Lennon" />
     <edge source="Chris Cornell" target="Linkin Park" />
@@ -1794,7 +1724,6 @@
     <edge source="Elvis Costello" target="Grateful Dead" />
     <edge source="Elvis Costello" target="Green Day" />
     <edge source="Elvis Costello" target="Elton John" />
-    <edge source="Elvis Costello" target="AllMusic" />
     <edge source="Elvis Costello" target="Paul McCartney" />
     <edge source="Elvis Costello" target="John Mellencamp" />
     <edge source="Elvis Costello" target="Van Morrison" />
@@ -1814,7 +1743,6 @@
     <edge source="Counting Crows" target="The Band" />
     <edge source="Counting Crows" target="Sheryl Crow" />
     <edge source="Counting Crows" target="Bob Dylan" />
-    <edge source="Counting Crows" target="AllMusic" />
     <edge source="Counting Crows" target="Midnight Oil" />
     <edge source="Counting Crows" target="Van Morrison" />
     <edge source="Counting Crows" target="R.E.M." />
@@ -1832,7 +1760,6 @@
     <edge source="Cream (band)" target="Bob Dylan" />
     <edge source="Cream (band)" target="George Harrison" />
     <edge source="Cream (band)" target="Jimi Hendrix" />
-    <edge source="Cream (band)" target="AllMusic" />
     <edge source="Cream (band)" target="Led Zeppelin" />
     <edge source="Cream (band)" target="John Mayall &amp; the Bluesbreakers" />
     <edge source="Cream (band)" target="Paul McCartney" />
@@ -1845,7 +1772,6 @@
     <edge source="Creed (band)" target="Def Leppard" />
     <edge source="Creed (band)" target="The Doors" />
     <edge source="Creed (band)" target="Finger Eleven" />
-    <edge source="Creed (band)" target="AllMusic" />
     <edge source="Creed (band)" target="Led Zeppelin" />
     <edge source="Creed (band)" target="Metallica" />
     <edge source="Creed (band)" target="Pearl Jam" />
@@ -1857,7 +1783,6 @@
     <edge source="Creedence Clearwater Revival" target="Grateful Dead" />
     <edge source="Creedence Clearwater Revival" target="George Harrison" />
     <edge source="Creedence Clearwater Revival" target="Jefferson Airplane" />
-    <edge source="Creedence Clearwater Revival" target="AllMusic" />
     <edge source="Creedence Clearwater Revival" target="Little Richard" />
     <edge source="Creedence Clearwater Revival" target="Roy Orbison" />
     <edge source="Creedence Clearwater Revival" target="Elvis Presley" />
@@ -1876,7 +1801,6 @@
     <edge source="Sheryl Crow" target="George Harrison" />
     <edge source="Sheryl Crow" target="Don Henley" />
     <edge source="Sheryl Crow" target="Kid Rock" />
-    <edge source="Sheryl Crow" target="AllMusic" />
     <edge source="Sheryl Crow" target="John Lennon" />
     <edge source="Sheryl Crow" target="Kenny Loggins" />
     <edge source="Sheryl Crow" target="Paul McCartney" />
@@ -1887,7 +1811,6 @@
     <edge source="Crowded House" target="Beck" />
     <edge source="Crowded House" target="Sheryl Crow" />
     <edge source="Crowded House" target="Fleetwood Mac" />
-    <edge source="Crowded House" target="AllMusic" />
     <edge source="Crowded House" target="Men at Work" />
     <edge source="Crowded House" target="Pearl Jam" />
     <edge source="Crowded House" target="Tom Petty and the Heartbreakers" />
@@ -1899,7 +1822,6 @@
     <edge source="The Cult" target="Guns N' Roses" />
     <edge source="The Cult" target="Jane's Addiction" />
     <edge source="The Cult" target="Joy Division" />
-    <edge source="The Cult" target="AllMusic" />
     <edge source="The Cult" target="Led Zeppelin" />
     <edge source="The Cult" target="Metallica" />
     <edge source="The Cult" target="Morrissey" />
@@ -1917,7 +1839,6 @@
     <edge source="The Cure" target="Deftones" />
     <edge source="The Cure" target="Depeche Mode" />
     <edge source="The Cure" target="Jimi Hendrix" />
-    <edge source="The Cure" target="AllMusic" />
     <edge source="The Cure" target="Korn" />
     <edge source="The Cure" target="Marilyn Manson" />
     <edge source="The Cure" target="Paul McCartney" />
@@ -1925,7 +1846,6 @@
     <edge source="The Cure" target="Pink Floyd" />
     <edge source="Damn Yankees (band)" target="Bad Company" />
     <edge source="Damn Yankees (band)" target="Alice Cooper" />
-    <edge source="Damn Yankees (band)" target="AllMusic" />
     <edge source="Damn Yankees (band)" target="Lynyrd Skynyrd" />
     <edge source="Damn Yankees (band)" target="Ted Nugent" />
     <edge source="Charlie Daniels" target="Bob Dylan" />
@@ -1939,7 +1859,6 @@
     <edge source="Dashboard Confessional" target="Crowded House" />
     <edge source="Dashboard Confessional" target="Green Day" />
     <edge source="Dashboard Confessional" target="The Hives" />
-    <edge source="Dashboard Confessional" target="AllMusic" />
     <edge source="Dashboard Confessional" target="John Lennon" />
     <edge source="Dashboard Confessional" target="Morrissey" />
     <edge source="Dashboard Confessional" target="The Police" />
@@ -1985,10 +1904,8 @@
     <edge source="Days of the New" target="Dave Matthews Band" />
     <edge source="Days of the New" target="Finger Eleven" />
     <edge source="Days of the New" target="Guns N' Roses" />
-    <edge source="Days of the New" target="AllMusic" />
     <edge source="Days of the New" target="Metallica" />
     <edge source="Days of the New" target="Velvet Revolver" />
-    <edge source="Death Cab for Cutie" target="AllMusic" />
     <edge source="Death Cab for Cutie" target="Modest Mouse" />
     <edge source="Death Cab for Cutie" target="Neil Young" />
     <edge source="Deep Purple" target="Aerosmith" />
@@ -2012,7 +1929,6 @@
     <edge source="Deep Purple" target="Iron Maiden" />
     <edge source="Deep Purple" target="Jefferson Starship" />
     <edge source="Deep Purple" target="Judas Priest" />
-    <edge source="Deep Purple" target="AllMusic" />
     <edge source="Deep Purple" target="Led Zeppelin" />
     <edge source="Deep Purple" target="Jerry Lee Lewis" />
     <edge source="Deep Purple" target="Little Richard" />
@@ -2060,7 +1976,6 @@
     <edge source="Def Leppard" target="Joan Jett" />
     <edge source="Def Leppard" target="Judas Priest" />
     <edge source="Def Leppard" target="The Kinks" />
-    <edge source="Def Leppard" target="AllMusic" />
     <edge source="Def Leppard" target="Led Zeppelin" />
     <edge source="Def Leppard" target="Lynyrd Skynyrd" />
     <edge source="Def Leppard" target="Paul McCartney" />
@@ -2085,7 +2000,6 @@
     <edge source="Deftones" target="Depeche Mode" />
     <edge source="Deftones" target="Duran Duran" />
     <edge source="Deftones" target="Faith No More" />
-    <edge source="Deftones" target="AllMusic" />
     <edge source="Deftones" target="Korn" />
     <edge source="Deftones" target="Linkin Park" />
     <edge source="Deftones" target="Metallica" />
@@ -2105,7 +2019,6 @@
     <edge source="Depeche Mode" target="Deftones" />
     <edge source="Depeche Mode" target="Duran Duran" />
     <edge source="Depeche Mode" target="Jane's Addiction" />
-    <edge source="Depeche Mode" target="AllMusic" />
     <edge source="Depeche Mode" target="John Lennon" />
     <edge source="Depeche Mode" target="Linkin Park" />
     <edge source="Depeche Mode" target="Marilyn Manson" />
@@ -2127,7 +2040,6 @@
     <edge source="Bo Diddley" target="Elvis Costello" />
     <edge source="Bo Diddley" target="Grateful Dead" />
     <edge source="Bo Diddley" target="Buddy Holly" />
-    <edge source="Bo Diddley" target="AllMusic" />
     <edge source="Bo Diddley" target="Jerry Lee Lewis" />
     <edge source="Bo Diddley" target="Little Richard" />
     <edge source="Bo Diddley" target="New York Dolls" />
@@ -2138,7 +2050,6 @@
     <edge source="Dio (band)" target="Black Sabbath" />
     <edge source="Dio (band)" target="Blue \u00d6yster Cult" />
     <edge source="Dio (band)" target="Judas Priest" />
-    <edge source="Dio (band)" target="AllMusic" />
     <edge source="Dio (band)" target="Metallica" />
     <edge source="Dio (band)" target="The Offspring" />
     <edge source="Dio (band)" target="Ozzy Osbourne" />
@@ -2151,7 +2062,6 @@
     <edge source="Dire Straits" target="Eric Clapton" />
     <edge source="Dire Straits" target="Bob Dylan" />
     <edge source="Dire Straits" target="Bryan Ferry" />
-    <edge source="Dire Straits" target="AllMusic" />
     <edge source="Dire Straits" target="Tom Petty and the Heartbreakers" />
     <edge source="Dire Straits" target="Roxy Music" />
     <edge source="Dire Straits" target="Bruce Springsteen" />
@@ -2183,7 +2093,6 @@
     <edge source="Fats Domino" target="Chuck Berry" />
     <edge source="Fats Domino" target="Cheap Trick" />
     <edge source="Fats Domino" target="Elton John" />
-    <edge source="Fats Domino" target="AllMusic" />
     <edge source="Fats Domino" target="Lenny Kravitz" />
     <edge source="Fats Domino" target="Led Zeppelin" />
     <edge source="Fats Domino" target="John Lennon" />
@@ -2203,7 +2112,6 @@
     <edge source="Donovan" target="Jimi Hendrix" />
     <edge source="Donovan" target="Herman's Hermits" />
     <edge source="Donovan" target="Jefferson Airplane" />
-    <edge source="Donovan" target="AllMusic" />
     <edge source="Donovan" target="Led Zeppelin" />
     <edge source="Donovan" target="John Lennon" />
     <edge source="Donovan" target="Paul McCartney" />
@@ -2219,7 +2127,6 @@
     <edge source="The Doobie Brothers" target="Sheryl Crow" />
     <edge source="The Doobie Brothers" target="Melissa Etheridge" />
     <edge source="The Doobie Brothers" target="Peter Frampton" />
-    <edge source="The Doobie Brothers" target="AllMusic" />
     <edge source="The Doobie Brothers" target="John Lennon" />
     <edge source="The Doobie Brothers" target="Kenny Loggins" />
     <edge source="The Doobie Brothers" target="Bruce Springsteen" />
@@ -2231,7 +2138,6 @@
     <edge source="The Doors" target="Foo Fighters" />
     <edge source="The Doors" target="Jane's Addiction" />
     <edge source="The Doors" target="Jefferson Airplane" />
-    <edge source="The Doors" target="AllMusic" />
     <edge source="The Doors" target="Van Morrison" />
     <edge source="The Doors" target="Pearl Jam" />
     <edge source="The Doors" target="Iggy Pop" />
@@ -2242,7 +2148,6 @@
     <edge source="Dropkick Murphys" target="AC/DC" />
     <edge source="Dropkick Murphys" target="Aerosmith" />
     <edge source="Dropkick Murphys" target="Fall Out Boy" />
-    <edge source="Dropkick Murphys" target="AllMusic" />
     <edge source="Dropkick Murphys" target="Sex Pistols" />
     <edge source="Dropkick Murphys" target="Bruce Springsteen" />
     <edge source="Drowning Pool" target="AC/DC" />
@@ -2269,7 +2174,6 @@
     <edge source="Duran Duran" target="David Bowie" />
     <edge source="Duran Duran" target="Def Leppard" />
     <edge source="Duran Duran" target="Elton John" />
-    <edge source="Duran Duran" target="AllMusic" />
     <edge source="Duran Duran" target="Korn" />
     <edge source="Duran Duran" target="Led Zeppelin" />
     <edge source="Duran Duran" target="John Lennon" />
@@ -2305,7 +2209,6 @@
     <edge source="Bob Dylan" target="Buddy Holly" />
     <edge source="Bob Dylan" target="Billy Joel" />
     <edge source="Bob Dylan" target="Elton John" />
-    <edge source="Bob Dylan" target="AllMusic" />
     <edge source="Bob Dylan" target="John Lennon" />
     <edge source="Bob Dylan" target="Little Richard" />
     <edge source="Bob Dylan" target="Paul McCartney" />
@@ -2328,7 +2231,6 @@
     <edge source="Eagles (band)" target="Dan Fogelberg" />
     <edge source="Eagles (band)" target="Glenn Frey" />
     <edge source="Eagles (band)" target="Don Henley" />
-    <edge source="Eagles (band)" target="AllMusic" />
     <edge source="Eagles (band)" target="Stevie Nicks" />
     <edge source="Eagles (band)" target="Linda Ronstadt" />
     <edge source="Eagles (band)" target="Bob Seger" />
@@ -2351,7 +2253,6 @@
     <edge source="Electric Light Orchestra" target="Black Sabbath" />
     <edge source="Electric Light Orchestra" target="Bob Dylan" />
     <edge source="Electric Light Orchestra" target="George Harrison" />
-    <edge source="Electric Light Orchestra" target="AllMusic" />
     <edge source="Electric Light Orchestra" target="Led Zeppelin" />
     <edge source="Electric Light Orchestra" target="Roy Orbison" />
     <edge source="Electric Light Orchestra" target="Tom Petty" />
@@ -2368,7 +2269,6 @@
     <edge source="Europe (band)" target="Bon Jovi" />
     <edge source="Europe (band)" target="Deep Purple" />
     <edge source="Europe (band)" target="Def Leppard" />
-    <edge source="Europe (band)" target="AllMusic" />
     <edge source="Europe (band)" target="Led Zeppelin" />
     <edge source="Europe (band)" target="Metallica" />
     <edge source="Europe (band)" target="Pearl Jam" />
@@ -2385,7 +2285,6 @@
     <edge source="Evanescence" target="Foo Fighters" />
     <edge source="Evanescence" target="Guns N' Roses" />
     <edge source="Evanescence" target="Halestorm" />
-    <edge source="Evanescence" target="AllMusic" />
     <edge source="Evanescence" target="Korn" />
     <edge source="Evanescence" target="Nine Inch Nails" />
     <edge source="Evanescence" target="Pantera" />
@@ -2401,7 +2300,6 @@
     <edge source="Everclear (band)" target="Gin Blossoms" />
     <edge source="Everclear (band)" target="Godsmack" />
     <edge source="Everclear (band)" target="Green Day" />
-    <edge source="Everclear (band)" target="AllMusic" />
     <edge source="Everclear (band)" target="Van Morrison" />
     <edge source="Everclear (band)" target="Tom Petty" />
     <edge source="Everclear (band)" target="Sonic Youth" />
@@ -2409,7 +2307,6 @@
     <edge source="Everclear (band)" target="Stone Temple Pilots" />
     <edge source="Everlast" target="Beastie Boys" />
     <edge source="Everlast" target="Bob Dylan" />
-    <edge source="Everlast" target="AllMusic" />
     <edge source="Everlast" target="Limp Bizkit" />
     <edge source="Everlast" target="Tom Petty" />
     <edge source="Everlast" target="Rage Against the Machine" />
@@ -2445,7 +2342,6 @@
     <edge source="Faith No More" target="The Cure" />
     <edge source="Faith No More" target="Deftones" />
     <edge source="Faith No More" target="Five Finger Death Punch" />
-    <edge source="Faith No More" target="AllMusic" />
     <edge source="Faith No More" target="Korn" />
     <edge source="Faith No More" target="Led Zeppelin" />
     <edge source="Faith No More" target="Limp Bizkit" />
@@ -2466,7 +2362,6 @@
     <edge source="Fall Out Boy" target="Green Day" />
     <edge source="Fall Out Boy" target="Billy Joel" />
     <edge source="Fall Out Boy" target="The Kinks" />
-    <edge source="Fall Out Boy" target="AllMusic" />
     <edge source="Fall Out Boy" target="John Mayer" />
     <edge source="Fall Out Boy" target="Metallica" />
     <edge source="Fall Out Boy" target="Panic! at the Disco" />
@@ -2480,14 +2375,12 @@
     <edge source="Bryan Ferry" target="David Bowie" />
     <edge source="Bryan Ferry" target="Duran Duran" />
     <edge source="Bryan Ferry" target="Bob Dylan" />
-    <edge source="Bryan Ferry" target="AllMusic" />
     <edge source="Bryan Ferry" target="John Lennon" />
     <edge source="Bryan Ferry" target="Pink Floyd" />
     <edge source="Bryan Ferry" target="Roxy Music" />
     <edge source="Bryan Ferry" target="Rod Stewart" />
     <edge source="Filter (band)" target="Alice Cooper" />
     <edge source="Filter (band)" target="Deftones" />
-    <edge source="Filter (band)" target="AllMusic" />
     <edge source="Filter (band)" target="Korn" />
     <edge source="Filter (band)" target="Harry Nilsson" />
     <edge source="Filter (band)" target="Nine Inch Nails" />
@@ -2521,7 +2414,6 @@
     <edge source="Five Finger Death Punch" target="Godsmack" />
     <edge source="Five Finger Death Punch" target="Iron Maiden" />
     <edge source="Five Finger Death Punch" target="Killswitch Engage" />
-    <edge source="Five Finger Death Punch" target="AllMusic" />
     <edge source="Five Finger Death Punch" target="Korn" />
     <edge source="Five Finger Death Punch" target="Megadeth" />
     <edge source="Five Finger Death Punch" target="The Offspring" />
@@ -2533,15 +2425,12 @@
     <edge source="Five for Fighting" target="Bon Jovi" />
     <edge source="Five for Fighting" target="Billy Joel" />
     <edge source="Five for Fighting" target="Elton John" />
-    <edge source="Five for Fighting" target="AllMusic" />
     <edge source="Five for Fighting" target="Tom Petty" />
     <edge source="Five for Fighting" target="REO Speedwagon" />
     <edge source="Five for Fighting" target="Bruce Springsteen" />
     <edge source="Five for Fighting" target="Whitesnake" />
-    <edge source="The Fixx" target="AllMusic" />
     <edge source="The Fixx" target="Roxy Music" />
     <edge source="The Flaming Lips" target="Beck" />
-    <edge source="The Flaming Lips" target="AllMusic" />
     <edge source="The Flaming Lips" target="Modest Mouse" />
     <edge source="The Flaming Lips" target="Morrissey" />
     <edge source="The Flaming Lips" target="Pink Floyd" />
@@ -2557,7 +2446,6 @@
     <edge source="Fleetwood Mac" target="Deep Purple" />
     <edge source="Fleetwood Mac" target="George Harrison" />
     <edge source="Fleetwood Mac" target="Jimi Hendrix" />
-    <edge source="Fleetwood Mac" target="AllMusic" />
     <edge source="Fleetwood Mac" target="Manfred Mann Chapter Three" />
     <edge source="Fleetwood Mac" target="John Mayall" />
     <edge source="Fleetwood Mac" target="John Mayall &amp; the Bluesbreakers" />
@@ -2580,13 +2468,11 @@
     <edge source="Florence and the Machine" target="Foo Fighters" />
     <edge source="Florence and the Machine" target="Buddy Holly" />
     <edge source="Florence and the Machine" target="Jefferson Airplane" />
-    <edge source="Florence and the Machine" target="AllMusic" />
     <edge source="Florence and the Machine" target="Stevie Nicks" />
     <edge source="Florence and the Machine" target="U2" />
     <edge source="Flyleaf (band)" target="3 Doors Down" />
     <edge source="Flyleaf (band)" target="Breaking Benjamin" />
     <edge source="Flyleaf (band)" target="Jane's Addiction" />
-    <edge source="Flyleaf (band)" target="AllMusic" />
     <edge source="Flyleaf (band)" target="P.O.D." />
     <edge source="Flyleaf (band)" target="Seether" />
     <edge source="Flyleaf (band)" target="Staind" />
@@ -2594,7 +2480,6 @@
     <edge source="Flyleaf (band)" target="Three Days Grace" />
     <edge source="Foals (band)" target="Arcade Fire" />
     <edge source="Foals (band)" target="Arctic Monkeys" />
-    <edge source="Foals (band)" target="AllMusic" />
     <edge source="Foals (band)" target="Nine Inch Nails" />
     <edge source="Foals (band)" target="Paramore" />
     <edge source="Foals (band)" target="Radiohead" />
@@ -2639,10 +2524,8 @@
     <edge source="Foreigner (band)" target="Rod Stewart" />
     <edge source="Foreigner (band)" target="Van Halen" />
     <edge source="Foster the People" target="The Beach Boys" />
-    <edge source="Foster the People" target="AllMusic" />
     <edge source="The Four Seasons (band)" target="The Beatles" />
     <edge source="The Four Seasons (band)" target="Bob Dylan" />
-    <edge source="The Four Seasons (band)" target="AllMusic" />
     <edge source="Peter Frampton" target="Bee Gees" />
     <edge source="Peter Frampton" target="David Bowie" />
     <edge source="Peter Frampton" target="Eddie Cochran" />
@@ -2650,7 +2533,6 @@
     <edge source="Peter Frampton" target="George Harrison" />
     <edge source="Peter Frampton" target="Jimi Hendrix" />
     <edge source="Peter Frampton" target="Buddy Holly" />
-    <edge source="Peter Frampton" target="AllMusic" />
     <edge source="Peter Frampton" target="Jerry Lee Lewis" />
     <edge source="Peter Frampton" target="Harry Nilsson" />
     <edge source="Peter Frampton" target="Pearl Jam" />
@@ -2670,7 +2552,6 @@
     <edge source="The Fray" target="Counting Crows" />
     <edge source="The Fray" target="Jimmy Eat World" />
     <edge source="The Fray" target="Billy Joel" />
-    <edge source="The Fray" target="AllMusic" />
     <edge source="The Fray" target="John Lennon" />
     <edge source="The Fray" target="Pearl Jam" />
     <edge source="The Fray" target="Bruce Springsteen" />
@@ -2685,12 +2566,10 @@
     <edge source="Fuel (band)" target="Puddle of Mudd" />
     <edge source="Fuel (band)" target="Shinedown" />
     <edge source="Fuel (band)" target="Volbeat" />
-    <edge source="Fun (band)" target="AllMusic" />
     <edge source="Fun (band)" target="Nickelback" />
     <edge source="Fun (band)" target="Panic! at the Disco" />
     <edge source="Fun (band)" target="Paramore" />
     <edge source="Funkadelic" target="Jimi Hendrix" />
-    <edge source="Funkadelic" target="AllMusic" />
     <edge source="Funkadelic" target="Parliament-Funkadelic" />
     <edge source="Funkadelic" target="Sly and the Family Stone" />
     <edge source="Peter Gabriel" target="Arcade Fire" />
@@ -2698,7 +2577,6 @@
     <edge source="Peter Gabriel" target="David Bowie" />
     <edge source="Peter Gabriel" target="Coldplay" />
     <edge source="Peter Gabriel" target="Phil Collins" />
-    <edge source="Peter Gabriel" target="AllMusic" />
     <edge source="Peter Gabriel" target="John Lennon" />
     <edge source="Peter Gabriel" target="Pink Floyd" />
     <edge source="Peter Gabriel" target="Radiohead" />
@@ -2709,7 +2587,6 @@
     <edge source="Garbage (band)" target="David Bowie" />
     <edge source="Garbage (band)" target="Depeche Mode" />
     <edge source="Garbage (band)" target="Jane's Addiction" />
-    <edge source="Garbage (band)" target="AllMusic" />
     <edge source="Garbage (band)" target="Alanis Morissette" />
     <edge source="Garbage (band)" target="Nine Inch Nails" />
     <edge source="Garbage (band)" target="The Pretenders" />
@@ -2723,7 +2600,6 @@
     <edge source="Genesis (band)" target="Echo &amp; the Bunnymen" />
     <edge source="Genesis (band)" target="Peter Gabriel" />
     <edge source="Genesis (band)" target="Iron Maiden" />
-    <edge source="Genesis (band)" target="AllMusic" />
     <edge source="Genesis (band)" target="Mike and the Mechanics" />
     <edge source="Genesis (band)" target="Pink Floyd" />
     <edge source="Genesis (band)" target="Simple Minds" />
@@ -2740,18 +2616,15 @@
     <edge source="Ghost (Swedish band)" target="Guns N' Roses" />
     <edge source="Ghost (Swedish band)" target="Iron Maiden" />
     <edge source="Ghost (Swedish band)" target="Judas Priest" />
-    <edge source="Ghost (Swedish band)" target="AllMusic" />
     <edge source="Ghost (Swedish band)" target="Metallica" />
     <edge source="Ghost (Swedish band)" target="Pink Floyd" />
     <edge source="Ghost (Swedish band)" target="Slayer" />
     <edge source="Ghost (Swedish band)" target="Volbeat" />
     <edge source="Gin Blossoms" target="Collective Soul" />
     <edge source="Gin Blossoms" target="Elton John" />
-    <edge source="Gin Blossoms" target="AllMusic" />
     <edge source="Gary Glitter" target="David Bowie" />
     <edge source="Gary Glitter" target="Joan Jett" />
     <edge source="Gary Glitter" target="Elton John" />
-    <edge source="Gary Glitter" target="AllMusic" />
     <edge source="Gary Glitter" target="Elvis Presley" />
     <edge source="Gary Glitter" target="Slade" />
     <edge source="Gary Glitter" target="The Who" />
@@ -2759,13 +2632,11 @@
     <edge source="The Go-Go's" target="Billy Idol" />
     <edge source="The Go-Go's" target="Billy Joel" />
     <edge source="The Go-Go's" target="Elton John" />
-    <edge source="The Go-Go's" target="AllMusic" />
     <edge source="The Go-Go's" target="The Police" />
     <edge source="Godsmack" target="Aerosmith" />
     <edge source="Godsmack" target="Alice in Chains" />
     <edge source="Godsmack" target="Black Sabbath" />
     <edge source="Godsmack" target="Evanescence" />
-    <edge source="Godsmack" target="AllMusic" />
     <edge source="Godsmack" target="Led Zeppelin" />
     <edge source="Godsmack" target="Limp Bizkit" />
     <edge source="Godsmack" target="Metallica" />
@@ -2775,9 +2646,7 @@
     <edge source="Golden Earring" target="Aerosmith" />
     <edge source="Golden Earring" target="Eric Clapton" />
     <edge source="Golden Earring" target="Jimi Hendrix" />
-    <edge source="Golden Earring" target="AllMusic" />
     <edge source="Golden Earring" target="Led Zeppelin" />
-    <edge source="Goo Goo Dolls" target="AllMusic" />
     <edge source="Goo Goo Dolls" target="Mot\u00f6rhead" />
     <edge source="Goo Goo Dolls" target="Supertramp" />
     <edge source="Good Charlotte" target="Avenged Sevenfold" />
@@ -2788,7 +2657,6 @@
     <edge source="Good Charlotte" target="The Cure" />
     <edge source="Good Charlotte" target="Fall Out Boy" />
     <edge source="Good Charlotte" target="Green Day" />
-    <edge source="Good Charlotte" target="AllMusic" />
     <edge source="Good Charlotte" target="Linkin Park" />
     <edge source="Good Charlotte" target="No Doubt" />
     <edge source="Good Charlotte" target="The Offspring" />
@@ -2800,7 +2668,6 @@
     <edge source="Good Charlotte" target="Sum 41" />
     <edge source="Good Charlotte" target="Tenacious D" />
     <edge source="Grand Funk Railroad" target="Peter Frampton" />
-    <edge source="Grand Funk Railroad" target="AllMusic" />
     <edge source="Grand Funk Railroad" target="Bob Seger" />
     <edge source="Grand Funk Railroad" target="Frank Zappa" />
     <edge source="Grateful Dead" target="Blues Traveler" />
@@ -2816,7 +2683,6 @@
     <edge source="Great White" target="Guns N' Roses" />
     <edge source="Great White" target="Iron Maiden" />
     <edge source="Great White" target="Judas Priest" />
-    <edge source="Great White" target="AllMusic" />
     <edge source="Great White" target="Megadeth" />
     <edge source="Great White" target="M\u00f6tley Cr\u00fce" />
     <edge source="Great White" target="Ozzy Osbourne" />
@@ -2830,7 +2696,6 @@
     <edge source="Green Day" target="Cheap Trick" />
     <edge source="Green Day" target="Fall Out Boy" />
     <edge source="Green Day" target="Hall &amp; Oates" />
-    <edge source="Green Day" target="AllMusic" />
     <edge source="Green Day" target="Avril Lavigne" />
     <edge source="Green Day" target="John Lennon" />
     <edge source="Green Day" target="Tom Petty and the Heartbreakers" />
@@ -2846,7 +2711,6 @@
     <edge source="Greta Van Fleet" target="Eric Clapton" />
     <edge source="Greta Van Fleet" target="Joe Cocker" />
     <edge source="Greta Van Fleet" target="Elton John" />
-    <edge source="Greta Van Fleet" target="AllMusic" />
     <edge source="Greta Van Fleet" target="Led Zeppelin" />
     <edge source="Greta Van Fleet" target="Robert Plant" />
     <edge source="Greta Van Fleet" target="Bob Seger" />
@@ -2871,7 +2735,6 @@
     <edge source="Guns N' Roses" target="Iron Maiden" />
     <edge source="Guns N' Roses" target="Jane's Addiction" />
     <edge source="Guns N' Roses" target="Elton John" />
-    <edge source="Guns N' Roses" target="AllMusic" />
     <edge source="Guns N' Roses" target="Led Zeppelin" />
     <edge source="Guns N' Roses" target="John Lennon" />
     <edge source="Guns N' Roses" target="Metallica" />
@@ -2896,7 +2759,6 @@
     <edge source="Halestorm" target="Bullet for My Valentine" />
     <edge source="Halestorm" target="Evanescence" />
     <edge source="Halestorm" target="Guns N' Roses" />
-    <edge source="Halestorm" target="AllMusic" />
     <edge source="Halestorm" target="Ozzy Osbourne" />
     <edge source="Halestorm" target="Shinedown" />
     <edge source="Bill Haley &amp; His Comets" target="Bill Haley &amp; His Comets" />
@@ -2981,7 +2843,6 @@
     <edge source="Don Henley" target="Glenn Frey" />
     <edge source="Don Henley" target="Billy Joel" />
     <edge source="Don Henley" target="Elton John" />
-    <edge source="Don Henley" target="AllMusic" />
     <edge source="Don Henley" target="Stevie Nicks" />
     <edge source="Don Henley" target="Pink Floyd" />
     <edge source="Don Henley" target="Linda Ronstadt" />
@@ -2993,7 +2854,6 @@
     <edge source="Highly Suspect" target="Deftones" />
     <edge source="Highly Suspect" target="Halestorm" />
     <edge source="Highly Suspect" target="Jimi Hendrix" />
-    <edge source="Highly Suspect" target="AllMusic" />
     <edge source="Highly Suspect" target="Pink Floyd" />
     <edge source="Highly Suspect" target="Stone Temple Pilots" />
     <edge source="Hinder" target="3 Doors Down" />
@@ -3005,7 +2865,6 @@
     <edge source="Hinder" target="Def Leppard" />
     <edge source="Hinder" target="Foo Fighters" />
     <edge source="Hinder" target="Guns N' Roses" />
-    <edge source="Hinder" target="AllMusic" />
     <edge source="Hinder" target="Led Zeppelin" />
     <edge source="Hinder" target="M\u00f6tley Cr\u00fce" />
     <edge source="Hinder" target="Nickelback" />
@@ -3047,7 +2906,6 @@
     <edge source="Buddy Holly" target="Grateful Dead" />
     <edge source="Buddy Holly" target="Bill Haley &amp; His Comets" />
     <edge source="Buddy Holly" target="Elton John" />
-    <edge source="Buddy Holly" target="AllMusic" />
     <edge source="Buddy Holly" target="John Lennon" />
     <edge source="Buddy Holly" target="Jerry Lee Lewis" />
     <edge source="Buddy Holly" target="Paul McCartney" />
@@ -3065,7 +2923,6 @@
     <edge source="Icehouse (band)" target="Coldplay" />
     <edge source="Icehouse (band)" target="Hall &amp; Oates" />
     <edge source="Icehouse (band)" target="INXS" />
-    <edge source="Icehouse (band)" target="AllMusic" />
     <edge source="Icehouse (band)" target="Midnight Oil" />
     <edge source="Icehouse (band)" target="Lou Reed" />
     <edge source="Icehouse (band)" target="Roxy Music" />
@@ -3075,7 +2932,6 @@
     <edge source="Billy Idol" target="Def Leppard" />
     <edge source="Billy Idol" target="Green Day" />
     <edge source="Billy Idol" target="Tommy James and the Shondells" />
-    <edge source="Billy Idol" target="AllMusic" />
     <edge source="Billy Idol" target="Lou Reed" />
     <edge source="Billy Idol" target="Sex Pistols" />
     <edge source="Billy Idol" target="Simple Minds" />
@@ -3085,7 +2941,6 @@
     <edge source="Imagine Dragons" target="The Beatles" />
     <edge source="Imagine Dragons" target="Coldplay" />
     <edge source="Imagine Dragons" target="Foster the People" />
-    <edge source="Imagine Dragons" target="AllMusic" />
     <edge source="Imagine Dragons" target="Linkin Park" />
     <edge source="Imagine Dragons" target="Mumford &amp; Sons" />
     <edge source="Imagine Dragons" target="Nickelback" />
@@ -3101,7 +2956,6 @@
     <edge source="Incubus (band)" target="Foo Fighters" />
     <edge source="Incubus (band)" target="Hoobastank" />
     <edge source="Incubus (band)" target="Jimmy Eat World" />
-    <edge source="Incubus (band)" target="AllMusic" />
     <edge source="Incubus (band)" target="Korn" />
     <edge source="Incubus (band)" target="Linkin Park" />
     <edge source="Incubus (band)" target="Pearl Jam" />
@@ -3125,7 +2979,6 @@
     <edge source="INXS" target="Jane's Addiction" />
     <edge source="INXS" target="Elton John" />
     <edge source="INXS" target="The Kinks" />
-    <edge source="INXS" target="AllMusic" />
     <edge source="INXS" target="Led Zeppelin" />
     <edge source="INXS" target="Matchbox Twenty" />
     <edge source="INXS" target="Men at Work" />
@@ -3144,7 +2997,6 @@
     <edge source="Iron Maiden" target="Golden Earring" />
     <edge source="Iron Maiden" target="Jimi Hendrix" />
     <edge source="Iron Maiden" target="Judas Priest" />
-    <edge source="Iron Maiden" target="AllMusic" />
     <edge source="Iron Maiden" target="Led Zeppelin" />
     <edge source="Iron Maiden" target="Metallica" />
     <edge source="Iron Maiden" target="Pink Floyd" />
@@ -3156,12 +3008,10 @@
     <edge source="The J. Geils Band" target="Dropkick Murphys" />
     <edge source="The J. Geils Band" target="Peter Frampton" />
     <edge source="The J. Geils Band" target="Kid Rock" />
-    <edge source="The J. Geils Band" target="AllMusic" />
     <edge source="The J. Geils Band" target="Rod Stewart" />
     <edge source="The J. Geils Band" target="James Taylor" />
     <edge source="The J. Geils Band" target="U2" />
     <edge source="The Jam" target="Chuck Berry" />
-    <edge source="The Jam" target="AllMusic" />
     <edge source="The Jam" target="Little Richard" />
     <edge source="The Jam" target="Sex Pistols" />
     <edge source="Tommy James and the Shondells" target="Billy Idol" />
@@ -3170,7 +3020,6 @@
     <edge source="Jane's Addiction" target="Foo Fighters" />
     <edge source="Jane's Addiction" target="Guns N' Roses" />
     <edge source="Jane's Addiction" target="Joy Division" />
-    <edge source="Jane's Addiction" target="AllMusic" />
     <edge source="Jane's Addiction" target="Korn" />
     <edge source="Jane's Addiction" target="Led Zeppelin" />
     <edge source="Jane's Addiction" target="Limp Bizkit" />
@@ -3190,17 +3039,14 @@
     <edge source="Jefferson Airplane" target="Donovan" />
     <edge source="Jefferson Airplane" target="Grateful Dead" />
     <edge source="Jefferson Airplane" target="Jefferson Starship" />
-    <edge source="Jefferson Airplane" target="AllMusic" />
     <edge source="Jefferson Airplane" target="Frank Zappa" />
     <edge source="Jefferson Starship" target="Canned Heat" />
     <edge source="Jefferson Starship" target="Grateful Dead" />
     <edge source="Jefferson Starship" target="Jefferson Airplane" />
-    <edge source="Jefferson Starship" target="AllMusic" />
     <edge source="Jefferson Starship" target="Ten Years After" />
     <edge source="The Jesus and Mary Chain" target="Death Cab for Cutie" />
     <edge source="The Jesus and Mary Chain" target="Bo Diddley" />
     <edge source="The Jesus and Mary Chain" target="Jimmy Eat World" />
-    <edge source="The Jesus and Mary Chain" target="AllMusic" />
     <edge source="The Jesus and Mary Chain" target="The Monkees" />
     <edge source="The Jesus and Mary Chain" target="New York Dolls" />
     <edge source="The Jesus and Mary Chain" target="Nine Inch Nails" />
@@ -3236,7 +3082,6 @@
     <edge source="Jimmy Eat World" target="Beastie Boys" />
     <edge source="Jimmy Eat World" target="Foo Fighters" />
     <edge source="Jimmy Eat World" target="Green Day" />
-    <edge source="Jimmy Eat World" target="AllMusic" />
     <edge source="Jimmy Eat World" target="My Chemical Romance" />
     <edge source="Jimmy Eat World" target="Nine Inch Nails" />
     <edge source="Jimmy Eat World" target="Radiohead" />
@@ -3248,7 +3093,6 @@
     <edge source="Billy Joel" target="Bob Dylan" />
     <edge source="Billy Joel" target="Don Henley" />
     <edge source="Billy Joel" target="Elton John" />
-    <edge source="Billy Joel" target="AllMusic" />
     <edge source="Billy Joel" target="John Lennon" />
     <edge source="Billy Joel" target="John Mayer" />
     <edge source="Billy Joel" target="Paul McCartney" />
@@ -3269,7 +3113,6 @@
     <edge source="Elton John" target="George Harrison" />
     <edge source="Elton John" target="Buddy Holly" />
     <edge source="Elton John" target="Billy Joel" />
-    <edge source="Elton John" target="AllMusic" />
     <edge source="Elton John" target="John Lennon" />
     <edge source="Elton John" target="Jerry Lee Lewis" />
     <edge source="Elton John" target="Little Richard" />
@@ -3300,7 +3143,6 @@
     <edge source="Journey (band)" target="The Doobie Brothers" />
     <edge source="Journey (band)" target="Electric Light Orchestra" />
     <edge source="Journey (band)" target="Judas Priest" />
-    <edge source="Journey (band)" target="AllMusic" />
     <edge source="Journey (band)" target="Loverboy" />
     <edge source="Journey (band)" target="The Outfield" />
     <edge source="Journey (band)" target="REO Speedwagon" />
@@ -3310,7 +3152,6 @@
     <edge source="Journey (band)" target="Frank Zappa" />
     <edge source="Joy Division" target="David Bowie" />
     <edge source="Joy Division" target="Jimi Hendrix" />
-    <edge source="Joy Division" target="AllMusic" />
     <edge source="Joy Division" target="Iggy Pop" />
     <edge source="Joy Division" target="Elvis Presley" />
     <edge source="Joy Division" target="Lou Reed" />
@@ -3327,7 +3168,6 @@
     <edge source="Judas Priest" target="Jimi Hendrix" />
     <edge source="Judas Priest" target="Iron Maiden" />
     <edge source="Judas Priest" target="Janis Joplin" />
-    <edge source="Judas Priest" target="AllMusic" />
     <edge source="Judas Priest" target="Led Zeppelin" />
     <edge source="Judas Priest" target="Little Richard" />
     <edge source="Judas Priest" target="Megadeth" />
@@ -3359,7 +3199,6 @@
     <edge source="Kansas (band)" target="Blue \u00d6yster Cult" />
     <edge source="Kansas (band)" target="Cheap Trick" />
     <edge source="Kansas (band)" target="Deep Purple" />
-    <edge source="Kansas (band)" target="AllMusic" />
     <edge source="Kansas (band)" target="Kenny Loggins" />
     <edge source="Kansas (band)" target="The Marshall Tucker Band" />
     <edge source="Kansas (band)" target="Meat Loaf" />
@@ -3370,13 +3209,11 @@
     <edge source="Keane (band)" target="Depeche Mode" />
     <edge source="Keane (band)" target="Fall Out Boy" />
     <edge source="Keane (band)" target="Elton John" />
-    <edge source="Keane (band)" target="AllMusic" />
     <edge source="Keane (band)" target="U2" />
     <edge source="Kid Rock" target="Aerosmith" />
     <edge source="Kid Rock" target="Beastie Boys" />
     <edge source="Kid Rock" target="Sheryl Crow" />
     <edge source="Kid Rock" target="Billy Joel" />
-    <edge source="Kid Rock" target="AllMusic" />
     <edge source="Kid Rock" target="Korn" />
     <edge source="Kid Rock" target="Limp Bizkit" />
     <edge source="Kid Rock" target="Lynyrd Skynyrd" />
@@ -3395,7 +3232,6 @@
     <edge source="The Killers" target="Green Day" />
     <edge source="The Killers" target="Elton John" />
     <edge source="The Killers" target="Joy Division" />
-    <edge source="The Killers" target="AllMusic" />
     <edge source="The Killers" target="Morrissey" />
     <edge source="The Killers" target="Elvis Presley" />
     <edge source="The Killers" target="Radiohead" />
@@ -3408,7 +3244,6 @@
     <edge source="Killswitch Engage" target="Faith No More" />
     <edge source="Killswitch Engage" target="Five Finger Death Punch" />
     <edge source="Killswitch Engage" target="Iron Maiden" />
-    <edge source="Killswitch Engage" target="AllMusic" />
     <edge source="Killswitch Engage" target="Lacuna Coil" />
     <edge source="Killswitch Engage" target="Marilyn Manson" />
     <edge source="Killswitch Engage" target="Megadeth" />
@@ -3426,7 +3261,6 @@
     <edge source="Kings of Leon" target="U2" />
     <edge source="The Kinks" target="Peter Frampton" />
     <edge source="The Kinks" target="Jefferson Airplane" />
-    <edge source="The Kinks" target="AllMusic" />
     <edge source="The Kinks" target="Jerry Lee Lewis" />
     <edge source="The Kinks" target="Little Richard" />
     <edge source="The Kinks" target="Manfred Mann" />
@@ -3447,7 +3281,6 @@
     <edge source="Kiss (band)" target="Guns N' Roses" />
     <edge source="Kiss (band)" target="Billy Joel" />
     <edge source="Kiss (band)" target="Judas Priest" />
-    <edge source="Kiss (band)" target="AllMusic" />
     <edge source="Kiss (band)" target="M\u00f6tley Cr\u00fce" />
     <edge source="Kiss (band)" target="New York Dolls" />
     <edge source="Kiss (band)" target="Ozzy Osbourne" />
@@ -3456,8 +3289,6 @@
     <edge source="Kiss (band)" target="Thin Lizzy" />
     <edge source="Kiss (band)" target="Van Halen" />
     <edge source="Kiss (band)" target="Whitesnake" />
-    <edge source="AllMusic" target="Bryan Adams" />
-    <edge source="AllMusic" target="Little Richard" />
     <edge source="Korn" target="Alice in Chains" />
     <edge source="Korn" target="Avenged Sevenfold" />
     <edge source="Korn" target="Charlie Daniels" />
@@ -3467,7 +3298,6 @@
     <edge source="Korn" target="Buddy Holly" />
     <edge source="Korn" target="Iron Maiden" />
     <edge source="Korn" target="Judas Priest" />
-    <edge source="Korn" target="AllMusic" />
     <edge source="Korn" target="Led Zeppelin" />
     <edge source="Korn" target="Limp Bizkit" />
     <edge source="Korn" target="Metallica" />
@@ -3501,7 +3331,6 @@
     <edge source="Lacuna Coil" target="Depeche Mode" />
     <edge source="Lacuna Coil" target="Guns N' Roses" />
     <edge source="Lacuna Coil" target="Killswitch Engage" />
-    <edge source="Lacuna Coil" target="AllMusic" />
     <edge source="Lacuna Coil" target="Megadeth" />
     <edge source="Lacuna Coil" target="Metallica" />
     <edge source="Lacuna Coil" target="Nine Inch Nails" />
@@ -3512,7 +3341,6 @@
     <edge source="Lamb of God (band)" target="Black Sabbath" />
     <edge source="Lamb of God (band)" target="Five Finger Death Punch" />
     <edge source="Lamb of God (band)" target="Killswitch Engage" />
-    <edge source="Lamb of God (band)" target="AllMusic" />
     <edge source="Lamb of God (band)" target="Korn" />
     <edge source="Lamb of God (band)" target="Megadeth" />
     <edge source="Lamb of God (band)" target="Metallica" />
@@ -3555,7 +3383,6 @@
     <edge source="Led Zeppelin" target="Janis Joplin" />
     <edge source="Led Zeppelin" target="Joy Division" />
     <edge source="Led Zeppelin" target="Kings of Leon" />
-    <edge source="Led Zeppelin" target="AllMusic" />
     <edge source="Led Zeppelin" target="Megadeth" />
     <edge source="Led Zeppelin" target="M\u00f6tley Cr\u00fce" />
     <edge source="Led Zeppelin" target="Pearl Jam" />
@@ -3588,7 +3415,6 @@
     <edge source="Jerry Lee Lewis" target="The Big Bopper" />
     <edge source="Jerry Lee Lewis" target="John Fogerty" />
     <edge source="Jerry Lee Lewis" target="Elton John" />
-    <edge source="Jerry Lee Lewis" target="AllMusic" />
     <edge source="Jerry Lee Lewis" target="Little Richard" />
     <edge source="Jerry Lee Lewis" target="Roy Orbison" />
     <edge source="Jerry Lee Lewis" target="Elvis Presley" />
@@ -3603,7 +3429,6 @@
     <edge source="Limp Bizkit" target="Faith No More" />
     <edge source="Limp Bizkit" target="Jane's Addiction" />
     <edge source="Limp Bizkit" target="Kid Rock" />
-    <edge source="Limp Bizkit" target="AllMusic" />
     <edge source="Limp Bizkit" target="Korn" />
     <edge source="Limp Bizkit" target="Linkin Park" />
     <edge source="Limp Bizkit" target="Marilyn Manson" />
@@ -3637,7 +3462,6 @@
     <edge source="Linkin Park" target="Iron Maiden" />
     <edge source="Linkin Park" target="Jane's Addiction" />
     <edge source="Linkin Park" target="Kings of Leon" />
-    <edge source="Linkin Park" target="AllMusic" />
     <edge source="Linkin Park" target="Led Zeppelin" />
     <edge source="Linkin Park" target="Limp Bizkit" />
     <edge source="Linkin Park" target="Paul McCartney" />
@@ -3678,7 +3502,6 @@
     <edge source="Little Richard" target="Buddy Holly" />
     <edge source="Little Richard" target="Elton John" />
     <edge source="Little Richard" target="Janis Joplin" />
-    <edge source="Little Richard" target="AllMusic" />
     <edge source="Little Richard" target="Lenny Kravitz" />
     <edge source="Little Richard" target="Led Zeppelin" />
     <edge source="Little Richard" target="John Lennon" />
@@ -3701,7 +3524,6 @@
     <edge source="Little River Band" target="Cold Chisel" />
     <edge source="Little River Band" target="Fleetwood Mac" />
     <edge source="Little River Band" target="Glenn Frey" />
-    <edge source="Little River Band" target="AllMusic" />
     <edge source="Little River Band" target="Linda Ronstadt" />
     <edge source="Little River Band" target="Supertramp" />
     <edge source="Little River Band" target="Thin Lizzy" />
@@ -3710,16 +3532,13 @@
     <edge source="Live (band)" target="Counting Crows" />
     <edge source="Live (band)" target="Fleetwood Mac" />
     <edge source="Live (band)" target="Peter Gabriel" />
-    <edge source="Live (band)" target="AllMusic" />
     <edge source="Live (band)" target="Stone Temple Pilots" />
     <edge source="Live (band)" target="Talking Heads" />
     <edge source="Living Colour" target="Guns N' Roses" />
-    <edge source="Living Colour" target="AllMusic" />
     <edge source="Living Colour" target="Little Richard" />
     <edge source="Living Colour" target="The Rolling Stones" />
     <edge source="Living Colour" target="Steve Vai" />
     <edge source="Kenny Loggins" target="Fleetwood Mac" />
-    <edge source="Kenny Loggins" target="AllMusic" />
     <edge source="Kenny Loggins" target="Stevie Nicks" />
     <edge source="Loverboy" target="Bryan Adams" />
     <edge source="Loverboy" target="Pat Benatar" />
@@ -3727,7 +3546,6 @@
     <edge source="Loverboy" target="Def Leppard" />
     <edge source="Loverboy" target="The Guess Who" />
     <edge source="Loverboy" target="Judas Priest" />
-    <edge source="Loverboy" target="AllMusic" />
     <edge source="Loverboy" target="REO Speedwagon" />
     <edge source="Loverboy" target="ZZ Top" />
     <edge source="The Lovin' Spoonful" target="Chuck Berry" />
@@ -3738,7 +3556,6 @@
     <edge source="The Lovin' Spoonful" target="George Harrison" />
     <edge source="The Lovin' Spoonful" target="Herman's Hermits" />
     <edge source="The Lovin' Spoonful" target="Buddy Holly" />
-    <edge source="The Lovin' Spoonful" target="AllMusic" />
     <edge source="The Lovin' Spoonful" target="John Lennon" />
     <edge source="The Lovin' Spoonful" target="The Monkees" />
     <edge source="The Lovin' Spoonful" target="Elvis Presley" />
@@ -3763,7 +3580,6 @@
     <edge source="Lynyrd Skynyrd" target="Cheap Trick" />
     <edge source="Lynyrd Skynyrd" target="Charlie Daniels" />
     <edge source="Lynyrd Skynyrd" target="Kid Rock" />
-    <edge source="Lynyrd Skynyrd" target="AllMusic" />
     <edge source="Lynyrd Skynyrd" target="The Rolling Stones" />
     <edge source="Lynyrd Skynyrd" target="Sex Pistols" />
     <edge source="Lynyrd Skynyrd" target="Neil Young" />
@@ -3771,7 +3587,6 @@
     <edge source="Manfred Mann" target="Bob Dylan" />
     <edge source="Manfred Mann" target="Manfred Mann's Earth Band" />
     <edge source="Manfred Mann" target="Manfred Mann Chapter Three" />
-    <edge source="Manfred Mann (musician)" target="AllMusic" />
     <edge source="Manfred Mann (musician)" target="Manfred Mann" />
     <edge source="Manfred Mann (musician)" target="Manfred Mann's Earth Band" />
     <edge source="Manfred Mann (musician)" target="Manfred Mann Chapter Three" />
@@ -3779,7 +3594,6 @@
     <edge source="Manfred Mann's Earth Band" target="Bad Company" />
     <edge source="Manfred Mann's Earth Band" target="The Beatles" />
     <edge source="Manfred Mann's Earth Band" target="Bob Dylan" />
-    <edge source="Manfred Mann's Earth Band" target="AllMusic" />
     <edge source="Manfred Mann's Earth Band" target="The Lovin' Spoonful" />
     <edge source="Manfred Mann's Earth Band" target="Manfred Mann Chapter Three" />
     <edge source="Manfred Mann's Earth Band" target="The Police" />
@@ -3793,7 +3607,6 @@
     <edge source="Marilyn Manson" target="Alice Cooper" />
     <edge source="Marilyn Manson" target="Five Finger Death Punch" />
     <edge source="Marilyn Manson" target="Elton John" />
-    <edge source="Marilyn Manson" target="AllMusic" />
     <edge source="Marilyn Manson" target="Korn" />
     <edge source="Marilyn Manson" target="Avril Lavigne" />
     <edge source="Marilyn Manson" target="Linkin Park" />
@@ -3812,7 +3625,6 @@
     <edge source="Marilyn Manson (band)" target="The Doors" />
     <edge source="Marilyn Manson (band)" target="Five Finger Death Punch" />
     <edge source="Marilyn Manson (band)" target="Jimi Hendrix" />
-    <edge source="Marilyn Manson (band)" target="AllMusic" />
     <edge source="Marilyn Manson (band)" target="Korn" />
     <edge source="Marilyn Manson (band)" target="Avril Lavigne" />
     <edge source="Marilyn Manson (band)" target="Led Zeppelin" />
@@ -3830,7 +3642,6 @@
     <edge source="Marilyn Manson (band)" target="Rob Zombie" />
     <edge source="The Marshall Tucker Band" target="The Allman Brothers Band" />
     <edge source="The Marshall Tucker Band" target="Charlie Daniels" />
-    <edge source="The Marshall Tucker Band" target="AllMusic" />
     <edge source="The Marshall Tucker Band" target="Led Zeppelin" />
     <edge source="The Marshall Tucker Band" target="Lynyrd Skynyrd" />
     <edge source="Matchbox Twenty" target="Counting Crows" />
@@ -3844,13 +3655,11 @@
     <edge source="John Mayer" target="Grateful Dead" />
     <edge source="John Mayer" target="Jimi Hendrix" />
     <edge source="John Mayer" target="Billy Joel" />
-    <edge source="John Mayer" target="AllMusic" />
     <edge source="John Mayer" target="Stevie Ray Vaughan" />
     <edge source="John Mayall" target="Canned Heat" />
     <edge source="John Mayall" target="Eric Clapton" />
     <edge source="John Mayall" target="Fleetwood Mac" />
     <edge source="John Mayall" target="Jimi Hendrix" />
-    <edge source="John Mayall" target="AllMusic" />
     <edge source="John Mayall" target="Manfred Mann" />
     <edge source="John Mayall" target="John Mayall &amp; the Bluesbreakers" />
     <edge source="John Mayall" target="The Mothers of Invention" />
@@ -3860,7 +3669,6 @@
     <edge source="John Mayall &amp; the Bluesbreakers" target="Eric Clapton" />
     <edge source="John Mayall &amp; the Bluesbreakers" target="Fleetwood Mac" />
     <edge source="John Mayall &amp; the Bluesbreakers" target="Jimi Hendrix" />
-    <edge source="John Mayall &amp; the Bluesbreakers" target="AllMusic" />
     <edge source="John Mayall &amp; the Bluesbreakers" target="Manfred Mann" />
     <edge source="John Mayall &amp; the Bluesbreakers" target="John Mayall &amp; the Bluesbreakers" />
     <edge source="John Mayall &amp; the Bluesbreakers" target="The Mothers of Invention" />
@@ -3895,7 +3703,6 @@
     <edge source="Meat Loaf" target="Fleetwood Mac" />
     <edge source="Meat Loaf" target="Grateful Dead" />
     <edge source="Meat Loaf" target="Green Day" />
-    <edge source="Meat Loaf" target="AllMusic" />
     <edge source="Meat Loaf" target="Van Morrison" />
     <edge source="Meat Loaf" target="Ted Nugent" />
     <edge source="Meat Loaf" target="Bob Seger" />
@@ -3913,7 +3720,6 @@
     <edge source="Megadeth" target="Halestorm" />
     <edge source="Megadeth" target="Iron Maiden" />
     <edge source="Megadeth" target="Judas Priest" />
-    <edge source="Megadeth" target="AllMusic" />
     <edge source="Megadeth" target="Korn" />
     <edge source="Megadeth" target="Lacuna Coil" />
     <edge source="Megadeth" target="Led Zeppelin" />
@@ -3940,7 +3746,6 @@
     <edge source="John Mellencamp" target="Bob Dylan" />
     <edge source="John Mellencamp" target="John Fogerty" />
     <edge source="John Mellencamp" target="Billy Joel" />
-    <edge source="John Mellencamp" target="AllMusic" />
     <edge source="John Mellencamp" target="Van Morrison" />
     <edge source="John Mellencamp" target="New York Dolls" />
     <edge source="John Mellencamp" target="Elvis Presley" />
@@ -3948,7 +3753,6 @@
     <edge source="John Mellencamp" target="Rod Stewart" />
     <edge source="John Mellencamp" target="Neil Young" />
     <edge source="Men at Work" target="Fleetwood Mac" />
-    <edge source="Men at Work" target="AllMusic" />
     <edge source="Men at Work" target="Frank Zappa" />
     <edge source="Metallica" target="AC/DC" />
     <edge source="Metallica" target="Aerosmith" />
@@ -3964,7 +3768,6 @@
     <edge source="Metallica" target="Iron Maiden" />
     <edge source="Metallica" target="Elton John" />
     <edge source="Metallica" target="Judas Priest" />
-    <edge source="Metallica" target="AllMusic" />
     <edge source="Metallica" target="Korn" />
     <edge source="Metallica" target="Avril Lavigne" />
     <edge source="Metallica" target="Led Zeppelin" />
@@ -3999,7 +3802,6 @@
     <edge source="Midnight Oil" target="The Jam" />
     <edge source="Midnight Oil" target="The Killers" />
     <edge source="Midnight Oil" target="Kings of Leon" />
-    <edge source="Midnight Oil" target="AllMusic" />
     <edge source="Midnight Oil" target="Led Zeppelin" />
     <edge source="Midnight Oil" target="Pearl Jam" />
     <edge source="Midnight Oil" target="R.E.M." />
@@ -4012,21 +3814,18 @@
     <edge source="Mike and the Mechanics" target="Steely Dan" />
     <edge source="Modest Mouse" target="The Flaming Lips" />
     <edge source="Modest Mouse" target="Buddy Holly" />
-    <edge source="Modest Mouse" target="AllMusic" />
     <edge source="Eddie Money" target="David Bowie" />
     <edge source="Eddie Money" target="Jimi Hendrix" />
     <edge source="Eddie Money" target="Kenny Loggins" />
     <edge source="Eddie Money" target="Van Morrison" />
     <edge source="The Monkees" target="The Beatles" />
     <edge source="The Monkees" target="George Harrison" />
-    <edge source="The Monkees" target="AllMusic" />
     <edge source="The Monkees" target="Paul McCartney" />
     <edge source="The Monkees" target="Sex Pistols" />
     <edge source="The Monkees" target="Neil Young" />
     <edge source="Montgomery Gentry" target="The Allman Brothers Band" />
     <edge source="Montgomery Gentry" target="Charlie Daniels" />
     <edge source="Montgomery Gentry" target="Five for Fighting" />
-    <edge source="Montgomery Gentry" target="AllMusic" />
     <edge source="Montgomery Gentry" target="Lynyrd Skynyrd" />
     <edge source="The Moody Blues" target="10cc" />
     <edge source="The Moody Blues" target="David Bowie" />
@@ -4035,7 +3834,6 @@
     <edge source="The Moody Blues" target="Electric Light Orchestra" />
     <edge source="The Moody Blues" target="George Harrison" />
     <edge source="The Moody Blues" target="Judas Priest" />
-    <edge source="The Moody Blues" target="AllMusic" />
     <edge source="The Moody Blues" target="Led Zeppelin" />
     <edge source="The Moody Blues" target="John Lennon" />
     <edge source="The Moody Blues" target="Paul McCartney" />
@@ -4045,7 +3843,6 @@
     <edge source="Alanis Morissette" target="Barenaked Ladies" />
     <edge source="Alanis Morissette" target="Dave Matthews Band" />
     <edge source="Alanis Morissette" target="Foo Fighters" />
-    <edge source="Alanis Morissette" target="AllMusic" />
     <edge source="Alanis Morissette" target="Avril Lavigne" />
     <edge source="Alanis Morissette" target="Matchbox Twenty" />
     <edge source="Alanis Morissette" target="No Doubt" />
@@ -4064,7 +3861,6 @@
     <edge source="Van Morrison" target="Bob Dylan" />
     <edge source="Van Morrison" target="Jimi Hendrix" />
     <edge source="Van Morrison" target="Elton John" />
-    <edge source="Van Morrison" target="AllMusic" />
     <edge source="Van Morrison" target="John Mellencamp" />
     <edge source="Van Morrison" target="Tom Petty" />
     <edge source="Van Morrison" target="Elvis Presley" />
@@ -4077,7 +3873,6 @@
     <edge source="Morrissey" target="David Bowie" />
     <edge source="Morrissey" target="Jeff Buckley" />
     <edge source="Morrissey" target="Bob Dylan" />
-    <edge source="Morrissey" target="AllMusic" />
     <edge source="Morrissey" target="Paul McCartney" />
     <edge source="Morrissey" target="New York Dolls" />
     <edge source="Morrissey" target="Iggy Pop" />
@@ -4093,7 +3888,6 @@
     <edge source="The Mothers of Invention" target="Canned Heat" />
     <edge source="The Mothers of Invention" target="Deep Purple" />
     <edge source="The Mothers of Invention" target="Bob Dylan" />
-    <edge source="The Mothers of Invention" target="AllMusic" />
     <edge source="The Mothers of Invention" target="John Lennon" />
     <edge source="The Mothers of Invention" target="The Monkees" />
     <edge source="The Mothers of Invention" target="Simon &amp; Garfunkel" />
@@ -4104,7 +3898,6 @@
     <edge source="Mudvayne" target="Black Sabbath" />
     <edge source="Mudvayne" target="Breaking Benjamin" />
     <edge source="Mudvayne" target="Deftones" />
-    <edge source="Mudvayne" target="AllMusic" />
     <edge source="Mudvayne" target="Korn" />
     <edge source="Mudvayne" target="Metallica" />
     <edge source="Mudvayne" target="Pantera" />
@@ -4119,7 +3912,6 @@
     <edge source="Muse (band)" target="Depeche Mode" />
     <edge source="Muse (band)" target="Jimi Hendrix" />
     <edge source="Muse (band)" target="Kaiser Chiefs" />
-    <edge source="Muse (band)" target="AllMusic" />
     <edge source="Muse (band)" target="Led Zeppelin" />
     <edge source="Muse (band)" target="Linkin Park" />
     <edge source="Muse (band)" target="Queens of the Stone Age" />
@@ -4137,7 +3929,6 @@
     <edge source="My Chemical Romance" target="Iron Maiden" />
     <edge source="My Chemical Romance" target="Joy Division" />
     <edge source="My Chemical Romance" target="Killswitch Engage" />
-    <edge source="My Chemical Romance" target="AllMusic" />
     <edge source="My Chemical Romance" target="Linkin Park" />
     <edge source="My Chemical Romance" target="Megadeth" />
     <edge source="My Chemical Romance" target="Metallica" />
@@ -4164,7 +3955,6 @@
     <edge source="New York Dolls" target="Green Day" />
     <edge source="New York Dolls" target="Guns N' Roses" />
     <edge source="New York Dolls" target="Billy Idol" />
-    <edge source="New York Dolls" target="AllMusic" />
     <edge source="New York Dolls" target="John Lennon" />
     <edge source="New York Dolls" target="Marilyn Manson" />
     <edge source="New York Dolls" target="Morrissey" />
@@ -4189,7 +3979,6 @@
     <edge source="Nickelback" target="Creedence Clearwater Revival" />
     <edge source="Nickelback" target="Don Henley" />
     <edge source="Nickelback" target="Hinder" />
-    <edge source="Nickelback" target="AllMusic" />
     <edge source="Nickelback" target="Led Zeppelin" />
     <edge source="Nickelback" target="Metallica" />
     <edge source="Nickelback" target="Ozzy Osbourne" />
@@ -4244,7 +4033,6 @@
     <edge source="Nine Inch Nails" target="Jane's Addiction" />
     <edge source="Nine Inch Nails" target="Elton John" />
     <edge source="Nine Inch Nails" target="Joy Division" />
-    <edge source="Nine Inch Nails" target="AllMusic" />
     <edge source="Nine Inch Nails" target="Linkin Park" />
     <edge source="Nine Inch Nails" target="Marilyn Manson" />
     <edge source="Nine Inch Nails" target="Nine Inch Nails" />
@@ -4264,7 +4052,6 @@
     <edge source="Nirvana (band)" target="Creedence Clearwater Revival" />
     <edge source="Nirvana (band)" target="Foo Fighters" />
     <edge source="Nirvana (band)" target="Joan Jett" />
-    <edge source="Nirvana (band)" target="AllMusic" />
     <edge source="Nirvana (band)" target="Led Zeppelin" />
     <edge source="Nirvana (band)" target="Paul McCartney" />
     <edge source="Nirvana (band)" target="R.E.M." />
@@ -4275,7 +4062,6 @@
     <edge source="No Doubt" target="Eric Clapton" />
     <edge source="No Doubt" target="The Clash" />
     <edge source="No Doubt" target="Elvis Costello" />
-    <edge source="No Doubt" target="AllMusic" />
     <edge source="No Doubt" target="Paul McCartney" />
     <edge source="No Doubt" target="Panic! at the Disco" />
     <edge source="No Doubt" target="Paramore" />
@@ -4314,7 +4100,6 @@
     <edge source="The Offspring" target="Foo Fighters" />
     <edge source="The Offspring" target="Green Day" />
     <edge source="The Offspring" target="Killswitch Engage" />
-    <edge source="The Offspring" target="AllMusic" />
     <edge source="The Offspring" target="Avril Lavigne" />
     <edge source="The Offspring" target="Led Zeppelin" />
     <edge source="The Offspring" target="Linkin Park" />
@@ -4340,7 +4125,6 @@
     <edge source="Roy Orbison" target="Jefferson Airplane" />
     <edge source="Roy Orbison" target="Billy Joel" />
     <edge source="Roy Orbison" target="Elton John" />
-    <edge source="Roy Orbison" target="AllMusic" />
     <edge source="Roy Orbison" target="Led Zeppelin" />
     <edge source="Roy Orbison" target="John Lennon" />
     <edge source="Roy Orbison" target="Jerry Lee Lewis" />
@@ -4361,7 +4145,6 @@
     <edge source="Ozzy Osbourne" target="Faith No More" />
     <edge source="Ozzy Osbourne" target="Guns N' Roses" />
     <edge source="Ozzy Osbourne" target="Elton John" />
-    <edge source="Ozzy Osbourne" target="AllMusic" />
     <edge source="Ozzy Osbourne" target="John Lennon" />
     <edge source="Ozzy Osbourne" target="Marilyn Manson" />
     <edge source="Ozzy Osbourne" target="Metallica" />
@@ -4390,12 +4173,10 @@
     <edge source="Our Lady Peace" target="Sum 41" />
     <edge source="Our Lady Peace" target="Van Halen" />
     <edge source="The Outfield" target="Iron Maiden" />
-    <edge source="The Outfield" target="AllMusic" />
     <edge source="The Outfield" target="Pearl Jam" />
     <edge source="P.O.D." target="AC/DC" />
     <edge source="P.O.D." target="Alter Bridge" />
     <edge source="P.O.D." target="Buckcherry" />
-    <edge source="P.O.D." target="AllMusic" />
     <edge source="P.O.D." target="Metallica" />
     <edge source="P.O.D." target="Run-DMC" />
     <edge source="P.O.D." target="Shinedown" />
@@ -4407,7 +4188,6 @@
     <edge source="Panic! at the Disco" target="Death Cab for Cutie" />
     <edge source="Panic! at the Disco" target="Fall Out Boy" />
     <edge source="Panic! at the Disco" target="Green Day" />
-    <edge source="Panic! at the Disco" target="AllMusic" />
     <edge source="Panic! at the Disco" target="My Chemical Romance" />
     <edge source="Panic! at the Disco" target="Weezer" />
     <edge source="Pantera" target="AC/DC" />
@@ -4423,7 +4203,6 @@
     <edge source="Pantera" target="Godsmack" />
     <edge source="Pantera" target="Iron Maiden" />
     <edge source="Pantera" target="Judas Priest" />
-    <edge source="Pantera" target="AllMusic" />
     <edge source="Pantera" target="Korn" />
     <edge source="Pantera" target="Led Zeppelin" />
     <edge source="Pantera" target="Limp Bizkit" />
@@ -4454,7 +4233,6 @@
     <edge source="Papa Roach" target="Halestorm" />
     <edge source="Papa Roach" target="Jimi Hendrix" />
     <edge source="Papa Roach" target="Hinder" />
-    <edge source="Papa Roach" target="AllMusic" />
     <edge source="Papa Roach" target="Led Zeppelin" />
     <edge source="Papa Roach" target="Limp Bizkit" />
     <edge source="Papa Roach" target="Linkin Park" />
@@ -4481,7 +4259,6 @@
     <edge source="Paramore" target="Foo Fighters" />
     <edge source="Paramore" target="Green Day" />
     <edge source="Paramore" target="Jimmy Eat World" />
-    <edge source="Paramore" target="AllMusic" />
     <edge source="Paramore" target="Avril Lavigne" />
     <edge source="Paramore" target="John Mayer" />
     <edge source="Paramore" target="My Chemical Romance" />
@@ -4494,11 +4271,9 @@
     <edge source="Paramore" target="U2" />
     <edge source="Paramore" target="Weezer" />
     <edge source="Parliament (band)" target="Funkadelic" />
-    <edge source="Parliament (band)" target="AllMusic" />
     <edge source="Parliament (band)" target="Parliament-Funkadelic" />
     <edge source="Parliament-Funkadelic" target="Funkadelic" />
     <edge source="Parliament-Funkadelic" target="Jimi Hendrix" />
-    <edge source="Parliament-Funkadelic" target="AllMusic" />
     <edge source="Parliament-Funkadelic" target="Red Hot Chili Peppers" />
     <edge source="Parliament-Funkadelic" target="Frank Zappa" />
     <edge source="Pearl Jam" target="Aerosmith" />
@@ -4506,7 +4281,6 @@
     <edge source="Pearl Jam" target="Foo Fighters" />
     <edge source="Pearl Jam" target="Grateful Dead" />
     <edge source="Pearl Jam" target="Jimi Hendrix" />
-    <edge source="Pearl Jam" target="AllMusic" />
     <edge source="Pearl Jam" target="Led Zeppelin" />
     <edge source="Pearl Jam" target="Nine Inch Nails" />
     <edge source="Pearl Jam" target="Tom Petty and the Heartbreakers" />
@@ -4525,7 +4299,6 @@
     <edge source="A Perfect Circle" target="Deftones" />
     <edge source="A Perfect Circle" target="Foo Fighters" />
     <edge source="A Perfect Circle" target="Guns N' Roses" />
-    <edge source="A Perfect Circle" target="AllMusic" />
     <edge source="A Perfect Circle" target="Led Zeppelin" />
     <edge source="A Perfect Circle" target="John Lennon" />
     <edge source="A Perfect Circle" target="Nine Inch Nails" />
@@ -4575,7 +4348,6 @@
     <edge source="Tom Petty and the Heartbreakers" target="Neil Young" />
     <edge source="Pink Floyd" target="David Bowie" />
     <edge source="Pink Floyd" target="Jimi Hendrix" />
-    <edge source="Pink Floyd" target="AllMusic" />
     <edge source="Pink Floyd" target="John Lennon" />
     <edge source="Pink Floyd" target="Paul McCartney" />
     <edge source="Pink Floyd" target="Nine Inch Nails" />
@@ -4591,7 +4363,6 @@
     <edge source="Pixies (band)" target="Jimi Hendrix" />
     <edge source="Pixies (band)" target="Buddy Holly" />
     <edge source="Pixies (band)" target="Kings of Leon" />
-    <edge source="Pixies (band)" target="AllMusic" />
     <edge source="Pixies (band)" target="Modest Mouse" />
     <edge source="Pixies (band)" target="A Perfect Circle" />
     <edge source="Pixies (band)" target="Tom Petty and the Heartbreakers" />
@@ -4618,7 +4389,6 @@
     <edge source="Robert Plant" target="Neil Young" />
     <edge source="The Police" target="Bryan Adams" />
     <edge source="The Police" target="Eddie Cochran" />
-    <edge source="The Police" target="AllMusic" />
     <edge source="The Police" target="Led Zeppelin" />
     <edge source="The Police" target="John Mayer" />
     <edge source="The Police" target="Bruce Springsteen" />
@@ -4632,7 +4402,6 @@
     <edge source="Iggy Pop" target="Green Day" />
     <edge source="Iggy Pop" target="Guns N' Roses" />
     <edge source="Iggy Pop" target="Joy Division" />
-    <edge source="Iggy Pop" target="AllMusic" />
     <edge source="Iggy Pop" target="Little Richard" />
     <edge source="Iggy Pop" target="Morrissey" />
     <edge source="Iggy Pop" target="Nine Inch Nails" />
@@ -4654,7 +4423,6 @@
     <edge source="Pop Evil" target="Theory of a Deadman" />
     <edge source="Pop Evil" target="Whitesnake" />
     <edge source="The Presidents of the United States of America (band)" target="Guns N' Roses" />
-    <edge source="The Pretenders" target="AllMusic" />
     <edge source="The Pretenders" target="Mot\u00f6rhead" />
     <edge source="The Pretenders" target="Stevie Nicks" />
     <edge source="The Pretenders" target="Sex Pistols" />
@@ -4675,7 +4443,6 @@
     <edge source="The Pretty Reckless" target="Guns N' Roses" />
     <edge source="The Pretty Reckless" target="Halestorm" />
     <edge source="The Pretty Reckless" target="Joan Jett" />
-    <edge source="The Pretty Reckless" target="AllMusic" />
     <edge source="The Pretty Reckless" target="Led Zeppelin" />
     <edge source="The Pretty Reckless" target="Marilyn Manson" />
     <edge source="The Pretty Reckless" target="Alanis Morissette" />
@@ -4693,7 +4460,6 @@
     <edge source="Primus (band)" target="Faith No More" />
     <edge source="Primus (band)" target="Peter Gabriel" />
     <edge source="Primus (band)" target="Jane's Addiction" />
-    <edge source="Primus (band)" target="AllMusic" />
     <edge source="Primus (band)" target="Korn" />
     <edge source="Primus (band)" target="Limp Bizkit" />
     <edge source="Primus (band)" target="Metallica" />
@@ -4717,7 +4483,6 @@
     <edge source="Puddle of Mudd" target="Godsmack" />
     <edge source="Puddle of Mudd" target="Hinder" />
     <edge source="Puddle of Mudd" target="Iron Maiden" />
-    <edge source="Puddle of Mudd" target="AllMusic" />
     <edge source="Puddle of Mudd" target="Led Zeppelin" />
     <edge source="Puddle of Mudd" target="Linkin Park" />
     <edge source="Puddle of Mudd" target="Nickelback" />
@@ -4744,7 +4509,6 @@
     <edge source="Queen (band)" target="Elton John" />
     <edge source="Queen (band)" target="Judas Priest" />
     <edge source="Queen (band)" target="Kid Rock" />
-    <edge source="Queen (band)" target="AllMusic" />
     <edge source="Queen (band)" target="Led Zeppelin" />
     <edge source="Queen (band)" target="John Lennon" />
     <edge source="Queen (band)" target="Little Richard" />
@@ -4774,7 +4538,6 @@
     <edge source="Queens of the Stone Age" target="Jimi Hendrix" />
     <edge source="Queens of the Stone Age" target="Elton John" />
     <edge source="Queens of the Stone Age" target="Judas Priest" />
-    <edge source="Queens of the Stone Age" target="AllMusic" />
     <edge source="Queens of the Stone Age" target="Nine Inch Nails" />
     <edge source="Queens of the Stone Age" target="A Perfect Circle" />
     <edge source="Queens of the Stone Age" target="Iggy Pop" />
@@ -4789,7 +4552,6 @@
     <edge source="Quiet Riot" target="David Bowie" />
     <edge source="Quiet Riot" target="Alice Cooper" />
     <edge source="Quiet Riot" target="Deep Purple" />
-    <edge source="Quiet Riot" target="AllMusic" />
     <edge source="Quiet Riot" target="M\u00f6tley Cr\u00fce" />
     <edge source="Quiet Riot" target="Ozzy Osbourne" />
     <edge source="Quiet Riot" target="The Police" />
@@ -4803,7 +4565,6 @@
     <edge source="R.E.M." target="Alice in Chains" />
     <edge source="R.E.M." target="Beck" />
     <edge source="R.E.M." target="Collective Soul" />
-    <edge source="R.E.M." target="AllMusic" />
     <edge source="R.E.M." target="Led Zeppelin" />
     <edge source="R.E.M." target="John Lennon" />
     <edge source="R.E.M." target="Paul McCartney" />
@@ -4820,7 +4581,6 @@
     <edge source="Radiohead" target="Bob Dylan" />
     <edge source="Radiohead" target="Green Day" />
     <edge source="Radiohead" target="Joy Division" />
-    <edge source="Radiohead" target="AllMusic" />
     <edge source="Radiohead" target="Alanis Morissette" />
     <edge source="Radiohead" target="Pink Floyd" />
     <edge source="Radiohead" target="R.E.M." />
@@ -4835,7 +4595,6 @@
     <edge source="Rage Against the Machine" target="Chris Cornell" />
     <edge source="Rage Against the Machine" target="Bob Dylan" />
     <edge source="Rage Against the Machine" target="Iron Maiden" />
-    <edge source="Rage Against the Machine" target="AllMusic" />
     <edge source="Rage Against the Machine" target="Led Zeppelin" />
     <edge source="Rage Against the Machine" target="Limp Bizkit" />
     <edge source="Rage Against the Machine" target="Living Colour" />
@@ -4855,7 +4614,6 @@
     <edge source="Rainbow (rock band)" target="Roxy Music" />
     <edge source="Rammstein" target="Depeche Mode" />
     <edge source="Rammstein" target="Iron Maiden" />
-    <edge source="Rammstein" target="AllMusic" />
     <edge source="Rammstein" target="Korn" />
     <edge source="Rammstein" target="Limp Bizkit" />
     <edge source="Rammstein" target="Marilyn Manson" />
@@ -4872,7 +4630,6 @@
     <edge source="Ramones" target="Guns N' Roses" />
     <edge source="Ramones" target="Iron Maiden" />
     <edge source="Ramones" target="Elton John" />
-    <edge source="Ramones" target="AllMusic" />
     <edge source="Ramones" target="Led Zeppelin" />
     <edge source="Ramones" target="Paul McCartney" />
     <edge source="Ramones" target="Metallica" />
@@ -4890,7 +4647,6 @@
     <edge source="Ratt" target="Great White" />
     <edge source="Ratt" target="Iron Maiden" />
     <edge source="Ratt" target="Judas Priest" />
-    <edge source="Ratt" target="AllMusic" />
     <edge source="Ratt" target="Led Zeppelin" />
     <edge source="Ratt" target="Megadeth" />
     <edge source="Ratt" target="M\u00f6tley Cr\u00fce" />
@@ -4907,7 +4663,6 @@
     <edge source="Red Hot Chili Peppers" target="Jane's Addiction" />
     <edge source="Red Hot Chili Peppers" target="Joy Division" />
     <edge source="Red Hot Chili Peppers" target="Kid Rock" />
-    <edge source="Red Hot Chili Peppers" target="AllMusic" />
     <edge source="Red Hot Chili Peppers" target="Korn" />
     <edge source="Red Hot Chili Peppers" target="Led Zeppelin" />
     <edge source="Red Hot Chili Peppers" target="Limp Bizkit" />
@@ -4928,7 +4683,6 @@
     <edge source="Lou Reed" target="David Bowie" />
     <edge source="Lou Reed" target="Bob Dylan" />
     <edge source="Lou Reed" target="The Killers" />
-    <edge source="Lou Reed" target="AllMusic" />
     <edge source="Lou Reed" target="Lenny Kravitz" />
     <edge source="Lou Reed" target="Metallica" />
     <edge source="Lou Reed" target="Morrissey" />
@@ -4947,7 +4701,6 @@
     <edge source="Chris Rea" target="Peter Gabriel" />
     <edge source="Chris Rea" target="Billy Joel" />
     <edge source="Chris Rea" target="Elton John" />
-    <edge source="Chris Rea" target="AllMusic" />
     <edge source="Chris Rea" target="Joe Walsh" />
     <edge source="Rise Against" target="Awolnation" />
     <edge source="Rise Against" target="Billy Talent" />
@@ -4958,7 +4711,6 @@
     <edge source="Rise Against" target="Foo Fighters" />
     <edge source="Rise Against" target="Guns N' Roses" />
     <edge source="Rise Against" target="Killswitch Engage" />
-    <edge source="Rise Against" target="AllMusic" />
     <edge source="Rise Against" target="My Chemical Romance" />
     <edge source="Rise Against" target="Papa Roach" />
     <edge source="Rise Against" target="Rage Against the Machine" />
@@ -4967,7 +4719,6 @@
     <edge source="Rise Against" target="The Used" />
     <edge source="Sixto Rodriguez" target="Dave Matthews Band" />
     <edge source="Sixto Rodriguez" target="Bob Dylan" />
-    <edge source="Sixto Rodriguez" target="AllMusic" />
     <edge source="Sixto Rodriguez" target="Elvis Presley" />
     <edge source="The Rolling Stones" target="April Wine" />
     <edge source="The Rolling Stones" target="Chuck Berry" />
@@ -4982,7 +4733,6 @@
     <edge source="The Rolling Stones" target="Guns N' Roses" />
     <edge source="The Rolling Stones" target="Buddy Holly" />
     <edge source="The Rolling Stones" target="Elton John" />
-    <edge source="The Rolling Stones" target="AllMusic" />
     <edge source="The Rolling Stones" target="Led Zeppelin" />
     <edge source="The Rolling Stones" target="Little Richard" />
     <edge source="The Rolling Stones" target="Living Colour" />
@@ -5007,7 +4757,6 @@
     <edge source="Linda Ronstadt" target="Buddy Holly" />
     <edge source="Linda Ronstadt" target="Elton John" />
     <edge source="Linda Ronstadt" target="Janis Joplin" />
-    <edge source="Linda Ronstadt" target="AllMusic" />
     <edge source="Linda Ronstadt" target="Lenny Kravitz" />
     <edge source="Linda Ronstadt" target="John Lennon" />
     <edge source="Linda Ronstadt" target="Stevie Nicks" />
@@ -5027,7 +4776,6 @@
     <edge source="Roxy Music" target="Bryan Ferry" />
     <edge source="Roxy Music" target="Jimi Hendrix" />
     <edge source="Roxy Music" target="Elton John" />
-    <edge source="Roxy Music" target="AllMusic" />
     <edge source="Roxy Music" target="Led Zeppelin" />
     <edge source="Roxy Music" target="John Lennon" />
     <edge source="Roxy Music" target="Pink Floyd" />
@@ -5042,7 +4790,6 @@
     <edge source="Royal Blood (band)" target="Coldplay" />
     <edge source="Royal Blood (band)" target="Foo Fighters" />
     <edge source="Royal Blood (band)" target="Elton John" />
-    <edge source="Royal Blood (band)" target="AllMusic" />
     <edge source="Royal Blood (band)" target="Iggy Pop" />
     <edge source="Royal Blood (band)" target="Queens of the Stone Age" />
     <edge source="Run-DMC" target="Aerosmith" />
@@ -5050,7 +4797,6 @@
     <edge source="Run-DMC" target="Harry Chapin" />
     <edge source="Run-DMC" target="Faith No More" />
     <edge source="Run-DMC" target="Kid Rock" />
-    <edge source="Run-DMC" target="AllMusic" />
     <edge source="Run-DMC" target="Korn" />
     <edge source="Run-DMC" target="John Lennon" />
     <edge source="Run-DMC" target="Limp Bizkit" />
@@ -5070,7 +4816,6 @@
     <edge source="Rush (band)" target="Iron Maiden" />
     <edge source="Rush (band)" target="Jane's Addiction" />
     <edge source="Rush (band)" target="Judas Priest" />
-    <edge source="Rush (band)" target="AllMusic" />
     <edge source="Rush (band)" target="Led Zeppelin" />
     <edge source="Rush (band)" target="Living Colour" />
     <edge source="Rush (band)" target="Manfred Mann's Earth Band" />
@@ -5097,7 +4842,6 @@
     <edge source="Rush (band)" target="U2" />
     <edge source="Rush (band)" target="The Yardbirds" />
     <edge source="Mitch Ryder" target="Deep Purple" />
-    <edge source="Mitch Ryder" target="AllMusic" />
     <edge source="Mitch Ryder" target="John Mellencamp" />
     <edge source="Mitch Ryder" target="Ted Nugent" />
     <edge source="Mitch Ryder" target="Lou Reed" />
@@ -5105,7 +4849,6 @@
     <edge source="Mitch Ryder" target="Bruce Springsteen" />
     <edge source="Saliva (band)" target="Aerosmith" />
     <edge source="Saliva (band)" target="Drowning Pool" />
-    <edge source="Saliva (band)" target="AllMusic" />
     <edge source="Saliva (band)" target="M\u00f6tley Cr\u00fce" />
     <edge source="Saliva (band)" target="P.O.D." />
     <edge source="Saliva (band)" target="Pop Evil" />
@@ -5126,7 +4869,6 @@
     <edge source="Sam Fender" target="Joy Division" />
     <edge source="Sam Fender" target="The Killers" />
     <edge source="Sam Fender" target="Kings of Leon" />
-    <edge source="Sam Fender" target="AllMusic" />
     <edge source="Sam Fender" target="Metallica" />
     <edge source="Sam Fender" target="The Rolling Stones" />
     <edge source="Sam Fender" target="Bruce Springsteen" />
@@ -5137,7 +4879,6 @@
     <edge source="Santana (band)" target="Bob Dylan" />
     <edge source="Santana (band)" target="Fleetwood Mac" />
     <edge source="Santana (band)" target="Grateful Dead" />
-    <edge source="Santana (band)" target="AllMusic" />
     <edge source="Santana (band)" target="The Who" />
     <edge source="Joe Satriani" target="Blue \u00d6yster Cult" />
     <edge source="Joe Satriani" target="Eric Clapton" />
@@ -5148,7 +4889,6 @@
     <edge source="Joe Satriani" target="Deep Purple" />
     <edge source="Joe Satriani" target="Peter Frampton" />
     <edge source="Joe Satriani" target="Jimi Hendrix" />
-    <edge source="Joe Satriani" target="AllMusic" />
     <edge source="Joe Satriani" target="Metallica" />
     <edge source="Joe Satriani" target="Red Hot Chili Peppers" />
     <edge source="Joe Satriani" target="Third Eye Blind" />
@@ -5165,7 +4905,6 @@
     <edge source="Scorpions (band)" target="Def Leppard" />
     <edge source="Scorpions (band)" target="Guns N' Roses" />
     <edge source="Scorpions (band)" target="Judas Priest" />
-    <edge source="Scorpions (band)" target="AllMusic" />
     <edge source="Scorpions (band)" target="Led Zeppelin" />
     <edge source="Scorpions (band)" target="Megadeth" />
     <edge source="Scorpions (band)" target="Metallica" />
@@ -5174,7 +4913,6 @@
     <edge source="Scorpions (band)" target="Queensr\u00ffche" />
     <edge source="Scorpions (band)" target="Whitesnake" />
     <edge source="The Script" target="Coldplay" />
-    <edge source="The Script" target="AllMusic" />
     <edge source="The Script" target="Paul McCartney" />
     <edge source="The Script" target="Van Morrison" />
     <edge source="The Script" target="Snow Patrol" />
@@ -5186,7 +4924,6 @@
     <edge source="Seether" target="Deftones" />
     <edge source="Seether" target="Evanescence" />
     <edge source="Seether" target="Finger Eleven" />
-    <edge source="Seether" target="AllMusic" />
     <edge source="Seether" target="Nickelback" />
     <edge source="Seether" target="Nine Inch Nails" />
     <edge source="Seether" target="Papa Roach" />
@@ -5201,7 +4938,6 @@
     <edge source="Bob Seger" target="Grand Funk Railroad" />
     <edge source="Bob Seger" target="Don Henley" />
     <edge source="Bob Seger" target="Kid Rock" />
-    <edge source="Bob Seger" target="AllMusic" />
     <edge source="Bob Seger" target="Little Richard" />
     <edge source="Bob Seger" target="Van Morrison" />
     <edge source="Bob Seger" target="Elvis Presley" />
@@ -5215,7 +4951,6 @@
     <edge source="Sepultura" target="Deftones" />
     <edge source="Sepultura" target="Iron Maiden" />
     <edge source="Sepultura" target="Judas Priest" />
-    <edge source="Sepultura" target="AllMusic" />
     <edge source="Sepultura" target="Korn" />
     <edge source="Sepultura" target="Led Zeppelin" />
     <edge source="Sepultura" target="Megadeth" />
@@ -5237,7 +4972,6 @@
     <edge source="Sex Pistols" target="Guns N' Roses" />
     <edge source="Sex Pistols" target="Billy Idol" />
     <edge source="Sex Pistols" target="Joy Division" />
-    <edge source="Sex Pistols" target="AllMusic" />
     <edge source="Sex Pistols" target="Paul McCartney" />
     <edge source="Sex Pistols" target="Morrissey" />
     <edge source="Sex Pistols" target="New York Dolls" />
@@ -5253,7 +4987,6 @@
     <edge source="Shinedown" target="Godsmack" />
     <edge source="Shinedown" target="Halestorm" />
     <edge source="Shinedown" target="Iron Maiden" />
-    <edge source="Shinedown" target="AllMusic" />
     <edge source="Shinedown" target="Lynyrd Skynyrd" />
     <edge source="Shinedown" target="Metallica" />
     <edge source="Shinedown" target="Papa Roach" />
@@ -5272,7 +5005,6 @@
     <edge source="Silverchair" target="The Doors" />
     <edge source="Silverchair" target="Peter Gabriel" />
     <edge source="Silverchair" target="INXS" />
-    <edge source="Silverchair" target="AllMusic" />
     <edge source="Silverchair" target="Led Zeppelin" />
     <edge source="Silverchair" target="Midnight Oil" />
     <edge source="Silverchair" target="The Offspring" />
@@ -5285,7 +5017,6 @@
     <edge source="Simple Minds" target="Peter Gabriel" />
     <edge source="Simple Minds" target="Billy Idol" />
     <edge source="Simple Minds" target="INXS" />
-    <edge source="Simple Minds" target="AllMusic" />
     <edge source="Simple Minds" target="Stevie Nicks" />
     <edge source="Simple Minds" target="Tom Petty" />
     <edge source="Simple Minds" target="Lou Reed" />
@@ -5300,7 +5031,6 @@
     <edge source="Simple Plan" target="Good Charlotte" />
     <edge source="Simple Plan" target="Green Day" />
     <edge source="Simple Plan" target="Elton John" />
-    <edge source="Simple Plan" target="AllMusic" />
     <edge source="Simple Plan" target="Avril Lavigne" />
     <edge source="Simple Plan" target="My Chemical Romance" />
     <edge source="Simple Plan" target="The Offspring" />
@@ -5312,7 +5042,6 @@
     <edge source="Skid Row (American band)" target="Halestorm" />
     <edge source="Skid Row (American band)" target="Jimi Hendrix" />
     <edge source="Skid Row (American band)" target="INXS" />
-    <edge source="Skid Row (American band)" target="AllMusic" />
     <edge source="Skid Row (American band)" target="M\u00f6tley Cr\u00fce" />
     <edge source="Skid Row (American band)" target="Pantera" />
     <edge source="Skid Row (American band)" target="Ratt" />
@@ -5324,7 +5053,6 @@
     <edge source="Skillet (band)" target="Buckcherry" />
     <edge source="Skillet (band)" target="Godsmack" />
     <edge source="Skillet (band)" target="Halestorm" />
-    <edge source="Skillet (band)" target="AllMusic" />
     <edge source="Skillet (band)" target="Korn" />
     <edge source="Skillet (band)" target="Nickelback" />
     <edge source="Skillet (band)" target="P.O.D." />
@@ -5349,7 +5077,6 @@
     <edge source="Slade" target="Def Leppard" />
     <edge source="Slade" target="Jimi Hendrix" />
     <edge source="Slade" target="Elton John" />
-    <edge source="Slade" target="AllMusic" />
     <edge source="Slade" target="Little Richard" />
     <edge source="Slade" target="The Lovin' Spoonful" />
     <edge source="Slade" target="The Moody Blues" />
@@ -5372,7 +5099,6 @@
     <edge source="Slayer" target="Iron Maiden" />
     <edge source="Slayer" target="Judas Priest" />
     <edge source="Slayer" target="Killswitch Engage" />
-    <edge source="Slayer" target="AllMusic" />
     <edge source="Slayer" target="Lacuna Coil" />
     <edge source="Slayer" target="Led Zeppelin" />
     <edge source="Slayer" target="Megadeth" />
@@ -5395,7 +5121,6 @@
     <edge source="Slipknot (band)" target="Jimi Hendrix" />
     <edge source="Slipknot (band)" target="Iron Maiden" />
     <edge source="Slipknot (band)" target="Judas Priest" />
-    <edge source="Slipknot (band)" target="AllMusic" />
     <edge source="Slipknot (band)" target="Korn" />
     <edge source="Slipknot (band)" target="Led Zeppelin" />
     <edge source="Slipknot (band)" target="Limp Bizkit" />
@@ -5421,7 +5146,6 @@
     <edge source="Small Faces" target="Bad Company" />
     <edge source="Small Faces" target="Bob Dylan" />
     <edge source="Small Faces" target="Peter Frampton" />
-    <edge source="Small Faces" target="AllMusic" />
     <edge source="Small Faces" target="Paul McCartney" />
     <edge source="Small Faces" target="Elvis Presley" />
     <edge source="Small Faces" target="Roxy Music" />
@@ -5434,7 +5158,6 @@
     <edge source="Smash Mouth" target="Def Leppard" />
     <edge source="Smash Mouth" target="John Fogerty" />
     <edge source="Smash Mouth" target="Gin Blossoms" />
-    <edge source="Smash Mouth" target="AllMusic" />
     <edge source="Smash Mouth" target="The Monkees" />
     <edge source="Smash Mouth" target="Alanis Morissette" />
     <edge source="Smash Mouth" target="Run-DMC" />
@@ -5455,7 +5178,6 @@
     <edge source="The Smashing Pumpkins" target="Jane's Addiction" />
     <edge source="The Smashing Pumpkins" target="Joy Division" />
     <edge source="The Smashing Pumpkins" target="Judas Priest" />
-    <edge source="The Smashing Pumpkins" target="AllMusic" />
     <edge source="The Smashing Pumpkins" target="Marilyn Manson" />
     <edge source="The Smashing Pumpkins" target="Metallica" />
     <edge source="The Smashing Pumpkins" target="M\u00f6tley Cr\u00fce" />
@@ -5480,17 +5202,14 @@
     <edge source="The Smiths" target="Bryan Ferry" />
     <edge source="The Smiths" target="Jimi Hendrix" />
     <edge source="The Smiths" target="Joy Division" />
-    <edge source="The Smiths" target="AllMusic" />
     <edge source="The Smiths" target="Modest Mouse" />
     <edge source="The Smiths" target="Morrissey" />
     <edge source="The Smiths" target="New York Dolls" />
     <edge source="The Smiths" target="Radiohead" />
     <edge source="The Smiths" target="Talking Heads" />
-    <edge source="Smokie (band)" target="AllMusic" />
     <edge source="Snow Patrol" target="Coldplay" />
     <edge source="Snow Patrol" target="INXS" />
     <edge source="Snow Patrol" target="Jane's Addiction" />
-    <edge source="Snow Patrol" target="AllMusic" />
     <edge source="Snow Patrol" target="John Lennon" />
     <edge source="Snow Patrol" target="Ozzy Osbourne" />
     <edge source="Snow Patrol" target="U2" />
@@ -5500,7 +5219,6 @@
     <edge source="Social Distortion" target="Bob Dylan" />
     <edge source="Social Distortion" target="Flogging Molly" />
     <edge source="Social Distortion" target="Foo Fighters" />
-    <edge source="Social Distortion" target="AllMusic" />
     <edge source="Social Distortion" target="New York Dolls" />
     <edge source="Social Distortion" target="The Offspring" />
     <edge source="Social Distortion" target="Pearl Jam" />
@@ -5510,7 +5228,6 @@
     <edge source="Sonic Youth" target="Black Sabbath" />
     <edge source="Sonic Youth" target="Elvis Costello" />
     <edge source="Sonic Youth" target="Jimi Hendrix" />
-    <edge source="Sonic Youth" target="AllMusic" />
     <edge source="Sonic Youth" target="Pearl Jam" />
     <edge source="Sonic Youth" target="Lou Reed" />
     <edge source="Sonic Youth" target="The Rolling Stones" />
@@ -5524,7 +5241,6 @@
     <edge source="Soundgarden" target="Foo Fighters" />
     <edge source="Soundgarden" target="Guns N' Roses" />
     <edge source="Soundgarden" target="Joy Division" />
-    <edge source="Soundgarden" target="AllMusic" />
     <edge source="Soundgarden" target="Led Zeppelin" />
     <edge source="Soundgarden" target="Metallica" />
     <edge source="Soundgarden" target="Nine Inch Nails" />
@@ -5565,7 +5281,6 @@
     <edge source="Staind" target="Finger Eleven" />
     <edge source="Staind" target="Godsmack" />
     <edge source="Staind" target="Halestorm" />
-    <edge source="Staind" target="AllMusic" />
     <edge source="Staind" target="Korn" />
     <edge source="Staind" target="Led Zeppelin" />
     <edge source="Staind" target="Limp Bizkit" />
@@ -5593,7 +5308,6 @@
     <edge source="Ringo Starr" target="George Harrison" />
     <edge source="Ringo Starr" target="Buddy Holly" />
     <edge source="Ringo Starr" target="Elton John" />
-    <edge source="Ringo Starr" target="AllMusic" />
     <edge source="Ringo Starr" target="Lenny Kravitz" />
     <edge source="Ringo Starr" target="John Lennon" />
     <edge source="Ringo Starr" target="Paul McCartney" />
@@ -5604,7 +5318,6 @@
     <edge source="Starset" target="Breaking Benjamin" />
     <edge source="Starset" target="Deftones" />
     <edge source="Starset" target="Halestorm" />
-    <edge source="Starset" target="AllMusic" />
     <edge source="Starset" target="Led Zeppelin" />
     <edge source="Starset" target="Linkin Park" />
     <edge source="Starset" target="Nine Inch Nails" />
@@ -5613,7 +5326,6 @@
     <edge source="Starset" target="Thirty Seconds to Mars" />
     <edge source="Starship (band)" target="Jefferson Airplane" />
     <edge source="Starship (band)" target="Jefferson Starship" />
-    <edge source="Starship (band)" target="AllMusic" />
     <edge source="Starship (band)" target="Whitesnake" />
     <edge source="Status Quo (band)" target="10cc" />
     <edge source="Status Quo (band)" target="The Beach Boys" />
@@ -5621,7 +5333,6 @@
     <edge source="Status Quo (band)" target="Deep Purple" />
     <edge source="Status Quo (band)" target="Fleetwood Mac" />
     <edge source="Status Quo (band)" target="John Fogerty" />
-    <edge source="Status Quo (band)" target="AllMusic" />
     <edge source="Status Quo (band)" target="Lynyrd Skynyrd" />
     <edge source="Status Quo (band)" target="Ozzy Osbourne" />
     <edge source="Status Quo (band)" target="Steve Winwood" />
@@ -5634,11 +5345,9 @@
     <edge source="Steely Dan" target="Steve Miller Band" />
     <edge source="Steely Dan" target="Steve Winwood" />
     <edge source="Steppenwolf (band)" target="Eddie Cochran" />
-    <edge source="Steppenwolf (band)" target="AllMusic" />
     <edge source="Steppenwolf (band)" target="Rod Stewart" />
     <edge source="Steppenwolf (band)" target="Three Dog Night" />
     <edge source="Steve Miller Band" target="Chuck Berry" />
-    <edge source="Steve Miller Band" target="AllMusic" />
     <edge source="Steve Miller Band" target="Paul McCartney" />
     <edge source="Rod Stewart" target="Bryan Adams" />
     <edge source="Rod Stewart" target="Eric Clapton" />
@@ -5665,7 +5374,6 @@
     <edge source="Sting (musician)" target="Peter Gabriel" />
     <edge source="Sting (musician)" target="Billy Joel" />
     <edge source="Sting (musician)" target="Elton John" />
-    <edge source="Sting (musician)" target="AllMusic" />
     <edge source="Sting (musician)" target="Manfred Mann" />
     <edge source="Sting (musician)" target="John Mayer" />
     <edge source="Sting (musician)" target="Paul McCartney" />
@@ -5682,14 +5390,12 @@
     <edge source="Stone Sour" target="Avenged Sevenfold" />
     <edge source="Stone Sour" target="Godsmack" />
     <edge source="Stone Sour" target="Halestorm" />
-    <edge source="Stone Sour" target="AllMusic" />
     <edge source="Stone Sour" target="Pink Floyd" />
     <edge source="Stone Sour" target="Theory of a Deadman" />
     <edge source="Stone Temple Pilots" target="Aerosmith" />
     <edge source="Stone Temple Pilots" target="Alice in Chains" />
     <edge source="Stone Temple Pilots" target="David Bowie" />
     <edge source="Stone Temple Pilots" target="Bob Dylan" />
-    <edge source="Stone Temple Pilots" target="AllMusic" />
     <edge source="Stone Temple Pilots" target="Led Zeppelin" />
     <edge source="Stone Temple Pilots" target="Linkin Park" />
     <edge source="Stone Temple Pilots" target="Megadeth" />
@@ -5702,20 +5408,17 @@
     <edge source="Stone Temple Pilots" target="Neil Young" />
     <edge source="The Strokes" target="Arctic Monkeys" />
     <edge source="The Strokes" target="Kings of Leon" />
-    <edge source="The Strokes" target="AllMusic" />
     <edge source="The Strokes" target="Pearl Jam" />
     <edge source="The Strokes" target="Radiohead" />
     <edge source="The Strokes" target="Lou Reed" />
     <edge source="The Strokes" target="The White Stripes" />
     <edge source="Styx (band)" target="Jimi Hendrix" />
-    <edge source="Styx (band)" target="AllMusic" />
     <edge source="Styx (band)" target="REO Speedwagon" />
     <edge source="Sublime (band)" target="ABBA" />
     <edge source="Sublime (band)" target="Beastie Boys" />
     <edge source="Sublime (band)" target="The Doors" />
     <edge source="Sublime (band)" target="Grateful Dead" />
     <edge source="Sublime (band)" target="Jimi Hendrix" />
-    <edge source="Sublime (band)" target="AllMusic" />
     <edge source="Sublime (band)" target="No Doubt" />
     <edge source="Sublime (band)" target="Red Hot Chili Peppers" />
     <edge source="Sublime (band)" target="Sublime with Rome" />
@@ -5735,7 +5438,6 @@
     <edge source="Sum 41" target="Guns N' Roses" />
     <edge source="Sum 41" target="Iron Maiden" />
     <edge source="Sum 41" target="Judas Priest" />
-    <edge source="Sum 41" target="AllMusic" />
     <edge source="Sum 41" target="Korn" />
     <edge source="Sum 41" target="Avril Lavigne" />
     <edge source="Sum 41" target="John Lennon" />
@@ -5753,7 +5455,6 @@
     <edge source="Sum 41" target="Tenacious D" />
     <edge source="Sum 41" target="Weezer" />
     <edge source="Supertramp" target="Alice Cooper" />
-    <edge source="Supertramp" target="AllMusic" />
     <edge source="Supertramp" target="Pink Floyd" />
     <edge source="Survivor (band)" target="Bryan Adams" />
     <edge source="Survivor (band)" target="Cheap Trick" />
@@ -5789,7 +5490,6 @@
     <edge source="System of a Down" target="Iron Maiden" />
     <edge source="System of a Down" target="Jane's Addiction" />
     <edge source="System of a Down" target="The Kinks" />
-    <edge source="System of a Down" target="AllMusic" />
     <edge source="System of a Down" target="Led Zeppelin" />
     <edge source="System of a Down" target="Metallica" />
     <edge source="System of a Down" target="Morrissey" />
@@ -5803,7 +5503,6 @@
     <edge source="System of a Down" target="Frank Zappa" />
     <edge source="T. Rex (band)" target="David Bowie" />
     <edge source="T. Rex (band)" target="Joy Division" />
-    <edge source="T. Rex (band)" target="AllMusic" />
     <edge source="T. Rex (band)" target="Morrissey" />
     <edge source="T. Rex (band)" target="My Chemical Romance" />
     <edge source="T. Rex (band)" target="New York Dolls" />
@@ -5815,7 +5514,6 @@
     <edge source="Talking Heads" target="David Bowie" />
     <edge source="Talking Heads" target="Crash Test Dummies" />
     <edge source="Talking Heads" target="INXS" />
-    <edge source="Talking Heads" target="AllMusic" />
     <edge source="Talking Heads" target="No Doubt" />
     <edge source="Talking Heads" target="Parliament-Funkadelic" />
     <edge source="Talking Heads" target="Radiohead" />
@@ -5841,7 +5539,6 @@
     <edge source="Tenacious D" target="Jimmy Eat World" />
     <edge source="Tenacious D" target="Judas Priest" />
     <edge source="Tenacious D" target="Kid Rock" />
-    <edge source="Tenacious D" target="AllMusic" />
     <edge source="Tenacious D" target="Led Zeppelin" />
     <edge source="Tenacious D" target="Meat Loaf" />
     <edge source="Tenacious D" target="Metallica" />
@@ -5854,13 +5551,11 @@
     <edge source="Tesla (band)" target="Bad Company" />
     <edge source="Tesla (band)" target="Alice Cooper" />
     <edge source="Tesla (band)" target="Def Leppard" />
-    <edge source="Tesla (band)" target="AllMusic" />
     <edge source="Tesla (band)" target="Led Zeppelin" />
     <edge source="Theory of a Deadman" target="Alter Bridge" />
     <edge source="Theory of a Deadman" target="Black Stone Cherry" />
     <edge source="Theory of a Deadman" target="Breaking Benjamin" />
     <edge source="Theory of a Deadman" target="Hinder" />
-    <edge source="Theory of a Deadman" target="AllMusic" />
     <edge source="Theory of a Deadman" target="Lenny Kravitz" />
     <edge source="Theory of a Deadman" target="M\u00f6tley Cr\u00fce" />
     <edge source="Theory of a Deadman" target="Nickelback" />
@@ -5880,7 +5575,6 @@
     <edge source="Thin Lizzy" target="Jimi Hendrix" />
     <edge source="Thin Lizzy" target="Iron Maiden" />
     <edge source="Thin Lizzy" target="Judas Priest" />
-    <edge source="Thin Lizzy" target="AllMusic" />
     <edge source="Thin Lizzy" target="Manfred Mann's Earth Band" />
     <edge source="Thin Lizzy" target="Metallica" />
     <edge source="Thin Lizzy" target="Van Morrison" />
@@ -5902,7 +5596,6 @@
     <edge source="Third Eye Blind" target="Green Day" />
     <edge source="Third Eye Blind" target="Jane's Addiction" />
     <edge source="Third Eye Blind" target="Jimmy Eat World" />
-    <edge source="Third Eye Blind" target="AllMusic" />
     <edge source="Third Eye Blind" target="Limp Bizkit" />
     <edge source="Third Eye Blind" target="The Rolling Stones" />
     <edge source="Third Eye Blind" target="Smash Mouth" />
@@ -5912,7 +5605,6 @@
     <edge source="Thirty Seconds to Mars" target="Alice Cooper" />
     <edge source="Thirty Seconds to Mars" target="Chris Cornell" />
     <edge source="Thirty Seconds to Mars" target="The Cure" />
-    <edge source="Thirty Seconds to Mars" target="AllMusic" />
     <edge source="Thirty Seconds to Mars" target="Linkin Park" />
     <edge source="Thirty Seconds to Mars" target="Our Lady Peace" />
     <edge source="Thirty Seconds to Mars" target="Pink Floyd" />
@@ -5921,7 +5613,6 @@
     <edge source="Thirty Seconds to Mars" target="U2" />
     <edge source="Thirty Seconds to Mars" target="The Used" />
     <edge source="George Thorogood" target="Bo Diddley" />
-    <edge source="George Thorogood" target="AllMusic" />
     <edge source="Thousand Foot Krutch" target="Breaking Benjamin" />
     <edge source="Thousand Foot Krutch" target="Finger Eleven" />
     <edge source="Thousand Foot Krutch" target="Our Lady Peace" />
@@ -5937,7 +5628,6 @@
     <edge source="Three Days Grace" target="Godsmack" />
     <edge source="Three Days Grace" target="Halestorm" />
     <edge source="Three Days Grace" target="Hoobastank" />
-    <edge source="Three Days Grace" target="AllMusic" />
     <edge source="Three Days Grace" target="Linkin Park" />
     <edge source="Three Days Grace" target="Nickelback" />
     <edge source="Three Days Grace" target="Nine Inch Nails" />
@@ -5949,7 +5639,6 @@
     <edge source="Three Days Grace" target="The Tragically Hip" />
     <edge source="Three Days Grace" target="Van Halen" />
     <edge source="Three Days Grace" target="Volbeat" />
-    <edge source="Three Dog Night" target="AllMusic" />
     <edge source="Three Dog Night" target="Harry Nilsson" />
     <edge source="Three Dog Night" target="Whitesnake" />
     <edge source="Tool (band)" target="Alice in Chains" />
@@ -5960,7 +5649,6 @@
     <edge source="Tool (band)" target="Faith No More" />
     <edge source="Tool (band)" target="Peter Gabriel" />
     <edge source="Tool (band)" target="Jane's Addiction" />
-    <edge source="Tool (band)" target="AllMusic" />
     <edge source="Tool (band)" target="Korn" />
     <edge source="Tool (band)" target="Lenny Kravitz" />
     <edge source="Tool (band)" target="Led Zeppelin" />
@@ -5980,7 +5668,6 @@
     <edge source="Toto (band)" target="Christopher Cross" />
     <edge source="Toto (band)" target="George Harrison" />
     <edge source="Toto (band)" target="Don Henley" />
-    <edge source="Toto (band)" target="AllMusic" />
     <edge source="Toto (band)" target="Huey Lewis and the News" />
     <edge source="Toto (band)" target="Paul McCartney" />
     <edge source="Toto (band)" target="Pink Floyd" />
@@ -5990,7 +5677,6 @@
     <edge source="Traffic (band)" target="Joe Cocker" />
     <edge source="Traffic (band)" target="Grateful Dead" />
     <edge source="Traffic (band)" target="Jimi Hendrix" />
-    <edge source="Traffic (band)" target="AllMusic" />
     <edge source="Traffic (band)" target="Tom Petty" />
     <edge source="Traffic (band)" target="Three Dog Night" />
     <edge source="Traffic (band)" target="Steve Winwood" />
@@ -6008,7 +5694,6 @@
     <edge source="Train (band)" target="Hall &amp; Oates" />
     <edge source="Train (band)" target="Hootie &amp; the Blowfish" />
     <edge source="Train (band)" target="Elton John" />
-    <edge source="Train (band)" target="AllMusic" />
     <edge source="Train (band)" target="Led Zeppelin" />
     <edge source="Train (band)" target="John Mayer" />
     <edge source="Train (band)" target="Pearl Jam" />
@@ -6023,7 +5708,6 @@
     <edge source="Traveling Wilburys" target="Duane Eddy" />
     <edge source="Traveling Wilburys" target="Electric Light Orchestra" />
     <edge source="Traveling Wilburys" target="George Harrison" />
-    <edge source="Traveling Wilburys" target="AllMusic" />
     <edge source="Traveling Wilburys" target="Roy Orbison" />
     <edge source="Traveling Wilburys" target="Tom Petty" />
     <edge source="Traveling Wilburys" target="Tom Petty and the Heartbreakers" />
@@ -6045,7 +5729,6 @@
     <edge source="Trivium (band)" target="Iron Maiden" />
     <edge source="Trivium (band)" target="Judas Priest" />
     <edge source="Trivium (band)" target="Killswitch Engage" />
-    <edge source="Trivium (band)" target="AllMusic" />
     <edge source="Trivium (band)" target="Korn" />
     <edge source="Trivium (band)" target="Led Zeppelin" />
     <edge source="Trivium (band)" target="Megadeth" />
@@ -6060,7 +5743,6 @@
     <edge source="Twenty One Pilots" target="Fall Out Boy" />
     <edge source="Twenty One Pilots" target="Foo Fighters" />
     <edge source="Twenty One Pilots" target="Green Day" />
-    <edge source="Twenty One Pilots" target="AllMusic" />
     <edge source="Twenty One Pilots" target="My Chemical Romance" />
     <edge source="Twenty One Pilots" target="Panic! at the Disco" />
     <edge source="Twenty One Pilots" target="Paramore" />
@@ -6075,7 +5757,6 @@
     <edge source="Twisted Sister" target="Iron Maiden" />
     <edge source="Twisted Sister" target="Joan Jett" />
     <edge source="Twisted Sister" target="Billy Joel" />
-    <edge source="Twisted Sister" target="AllMusic" />
     <edge source="Twisted Sister" target="Led Zeppelin" />
     <edge source="Twisted Sister" target="Metallica" />
     <edge source="Twisted Sister" target="Mot\u00f6rhead" />
@@ -6088,7 +5769,6 @@
     <edge source="U2" target="Echo &amp; the Bunnymen" />
     <edge source="U2" target="Green Day" />
     <edge source="U2" target="Joy Division" />
-    <edge source="U2" target="AllMusic" />
     <edge source="U2" target="Led Zeppelin" />
     <edge source="U2" target="Van Morrison" />
     <edge source="U2" target="Roy Orbison" />
@@ -6110,7 +5790,6 @@
     <edge source="Uriah Heep (band)" target="Iron Maiden" />
     <edge source="Uriah Heep (band)" target="Elton John" />
     <edge source="Uriah Heep (band)" target="Judas Priest" />
-    <edge source="Uriah Heep (band)" target="AllMusic" />
     <edge source="Uriah Heep (band)" target="Manfred Mann's Earth Band" />
     <edge source="Uriah Heep (band)" target="Ozzy Osbourne" />
     <edge source="Uriah Heep (band)" target="Three Dog Night" />
@@ -6118,14 +5797,12 @@
     <edge source="The Used" target="David Bowie" />
     <edge source="The Used" target="Good Charlotte" />
     <edge source="The Used" target="Jimmy Eat World" />
-    <edge source="The Used" target="AllMusic" />
     <edge source="The Used" target="My Chemical Romance" />
     <edge source="The Used" target="Panic! at the Disco" />
     <edge source="The Used" target="Talking Heads" />
     <edge source="The Used" target="Three Days Grace" />
     <edge source="Steve Vai" target="Alice Cooper" />
     <edge source="Steve Vai" target="Jimi Hendrix" />
-    <edge source="Steve Vai" target="AllMusic" />
     <edge source="Steve Vai" target="Korn" />
     <edge source="Steve Vai" target="Led Zeppelin" />
     <edge source="Steve Vai" target="Limp Bizkit" />
@@ -6149,7 +5826,6 @@
     <edge source="Vampire Weekend" target="The Black Keys" />
     <edge source="Vampire Weekend" target="Fleetwood Mac" />
     <edge source="Vampire Weekend" target="Grateful Dead" />
-    <edge source="Vampire Weekend" target="AllMusic" />
     <edge source="Vampire Weekend" target="Pearl Jam" />
     <edge source="Vampire Weekend" target="Radiohead" />
     <edge source="Vampire Weekend" target="Bruce Springsteen" />
@@ -6159,7 +5835,6 @@
     <edge source="Van Halen" target="Bon Jovi" />
     <edge source="Van Halen" target="Chris Cornell" />
     <edge source="Van Halen" target="Hall &amp; Oates" />
-    <edge source="Van Halen" target="AllMusic" />
     <edge source="Van Halen" target="Roy Orbison" />
     <edge source="Van Halen" target="Ozzy Osbourne" />
     <edge source="Van Halen" target="Robert Plant" />
@@ -6176,7 +5851,6 @@
     <edge source="Stevie Ray Vaughan" target="Chris Cornell" />
     <edge source="Stevie Ray Vaughan" target="Jimi Hendrix" />
     <edge source="Stevie Ray Vaughan" target="The Kinks" />
-    <edge source="Stevie Ray Vaughan" target="AllMusic" />
     <edge source="Stevie Ray Vaughan" target="John Mayer" />
     <edge source="Stevie Ray Vaughan" target="The Moody Blues" />
     <edge source="Stevie Ray Vaughan" target="Ted Nugent" />
@@ -6192,7 +5866,6 @@
     <edge source="Velvet Revolver" target="Days of the New" />
     <edge source="Velvet Revolver" target="Faith No More" />
     <edge source="Velvet Revolver" target="Guns N' Roses" />
-    <edge source="Velvet Revolver" target="AllMusic" />
     <edge source="Velvet Revolver" target="Lenny Kravitz" />
     <edge source="Velvet Revolver" target="John Lennon" />
     <edge source="Velvet Revolver" target="Linkin Park" />
@@ -6205,14 +5878,12 @@
     <edge source="The Velvet Underground" target="Deep Purple" />
     <edge source="The Velvet Underground" target="Bo Diddley" />
     <edge source="The Velvet Underground" target="Echo &amp; the Bunnymen" />
-    <edge source="The Velvet Underground" target="AllMusic" />
     <edge source="The Velvet Underground" target="Jerry Lee Lewis" />
     <edge source="The Velvet Underground" target="Lou Reed" />
     <edge source="The Velvet Underground" target="Roxy Music" />
     <edge source="The Velvet Underground" target="Sonic Youth" />
     <edge source="The Velvet Underground" target="U2" />
     <edge source="The Verve" target="Beck" />
-    <edge source="The Verve" target="AllMusic" />
     <edge source="The Verve" target="The Smashing Pumpkins" />
     <edge source="Gene Vincent" target="Eddie Cochran" />
     <edge source="Gene Vincent" target="Deep Purple" />
@@ -6220,7 +5891,6 @@
     <edge source="Gene Vincent" target="Duane Eddy" />
     <edge source="Gene Vincent" target="Gary Glitter" />
     <edge source="Gene Vincent" target="Bill Haley &amp; His Comets" />
-    <edge source="Gene Vincent" target="AllMusic" />
     <edge source="Gene Vincent" target="Little Richard" />
     <edge source="Gene Vincent" target="Elvis Presley" />
     <edge source="Gene Vincent" target="Linda Ronstadt" />
@@ -6230,7 +5900,6 @@
     <edge source="Volbeat" target="Black Sabbath" />
     <edge source="Volbeat" target="Iron Maiden" />
     <edge source="Volbeat" target="Judas Priest" />
-    <edge source="Volbeat" target="AllMusic" />
     <edge source="Volbeat" target="Lacuna Coil" />
     <edge source="Volbeat" target="Megadeth" />
     <edge source="Volbeat" target="Metallica" />
@@ -6248,7 +5917,6 @@
     <edge source="Joe Walsh" target="Glenn Frey" />
     <edge source="Joe Walsh" target="Jimi Hendrix" />
     <edge source="Joe Walsh" target="Don Henley" />
-    <edge source="Joe Walsh" target="AllMusic" />
     <edge source="Joe Walsh" target="Led Zeppelin" />
     <edge source="Joe Walsh" target="Little Richard" />
     <edge source="Joe Walsh" target="Manfred Mann" />
@@ -6264,7 +5932,6 @@
     <edge source="Warrant (American band)" target="Deep Purple" />
     <edge source="Warrant (American band)" target="Great White" />
     <edge source="Warrant (American band)" target="Iron Maiden" />
-    <edge source="Warrant (American band)" target="AllMusic" />
     <edge source="Warrant (American band)" target="M\u00f6tley Cr\u00fce" />
     <edge source="Warrant (American band)" target="Ted Nugent" />
     <edge source="Warrant (American band)" target="Queensr\u00ffche" />
@@ -6274,7 +5941,6 @@
     <edge source="W.A.S.P. (band)" target="Five Finger Death Punch" />
     <edge source="W.A.S.P. (band)" target="Great White" />
     <edge source="W.A.S.P. (band)" target="Iron Maiden" />
-    <edge source="W.A.S.P. (band)" target="AllMusic" />
     <edge source="W.A.S.P. (band)" target="Metallica" />
     <edge source="W.A.S.P. (band)" target="Queensr\u00ffche" />
     <edge source="W.A.S.P. (band)" target="Quiet Riot" />
@@ -6289,7 +5955,6 @@
     <edge source="Weezer" target="The Fray" />
     <edge source="Weezer" target="Green Day" />
     <edge source="Weezer" target="Jimmy Eat World" />
-    <edge source="Weezer" target="AllMusic" />
     <edge source="Weezer" target="Metallica" />
     <edge source="Weezer" target="Harry Nilsson" />
     <edge source="Weezer" target="Panic! at the Disco" />
@@ -6301,7 +5966,6 @@
     <edge source="Weezer" target="Van Halen" />
     <edge source="Jack White" target="Bob Dylan" />
     <edge source="Jack White" target="Elton John" />
-    <edge source="Jack White" target="AllMusic" />
     <edge source="Jack White" target="Led Zeppelin" />
     <edge source="Jack White" target="Pink Floyd" />
     <edge source="Jack White" target="Elvis Presley" />
@@ -6313,7 +5977,6 @@
     <edge source="The White Stripes" target="Arctic Monkeys" />
     <edge source="The White Stripes" target="Bob Dylan" />
     <edge source="The White Stripes" target="Foo Fighters" />
-    <edge source="The White Stripes" target="AllMusic" />
     <edge source="The White Stripes" target="Led Zeppelin" />
     <edge source="The White Stripes" target="Rage Against the Machine" />
     <edge source="The White Stripes" target="Gene Vincent" />
@@ -6321,7 +5984,6 @@
     <edge source="White Zombie (band)" target="AC/DC" />
     <edge source="White Zombie (band)" target="Black Sabbath" />
     <edge source="White Zombie (band)" target="The Cult" />
-    <edge source="White Zombie (band)" target="AllMusic" />
     <edge source="White Zombie (band)" target="Megadeth" />
     <edge source="White Zombie (band)" target="Metallica" />
     <edge source="White Zombie (band)" target="Pantera" />
@@ -6340,7 +6002,6 @@
     <edge source="Whitesnake" target="Billy Idol" />
     <edge source="Whitesnake" target="Iron Maiden" />
     <edge source="Whitesnake" target="Judas Priest" />
-    <edge source="Whitesnake" target="AllMusic" />
     <edge source="Whitesnake" target="Led Zeppelin" />
     <edge source="Whitesnake" target="John Mayall &amp; the Bluesbreakers" />
     <edge source="Whitesnake" target="M\u00f6tley Cr\u00fce" />
@@ -6369,7 +6030,6 @@
     <edge source="The Who" target="Billy Idol" />
     <edge source="The Who" target="The Jam" />
     <edge source="The Who" target="Elton John" />
-    <edge source="The Who" target="AllMusic" />
     <edge source="The Who" target="John Lennon" />
     <edge source="The Who" target="Paul McCartney" />
     <edge source="The Who" target="Panic! at the Disco" />
@@ -6396,21 +6056,18 @@
     <edge source="Steve Winwood" target="George Harrison" />
     <edge source="Steve Winwood" target="Jimi Hendrix" />
     <edge source="Steve Winwood" target="Billy Joel" />
-    <edge source="Steve Winwood" target="AllMusic" />
     <edge source="Steve Winwood" target="Lou Reed" />
     <edge source="Steve Winwood" target="Rod Stewart" />
     <edge source="X (American band)" target="Pearl Jam" />
     <edge source="X Ambassadors" target="Joe Cocker" />
     <edge source="X Ambassadors" target="Imagine Dragons" />
     <edge source="X Ambassadors" target="Jimmy Eat World" />
-    <edge source="X Ambassadors" target="AllMusic" />
     <edge source="X Ambassadors" target="Panic! at the Disco" />
     <edge source="The Yardbirds" target="Eric Clapton" />
     <edge source="The Yardbirds" target="Bo Diddley" />
     <edge source="The Yardbirds" target="Donovan" />
     <edge source="The Yardbirds" target="Bob Dylan" />
     <edge source="The Yardbirds" target="Herman's Hermits" />
-    <edge source="The Yardbirds" target="AllMusic" />
     <edge source="The Yardbirds" target="Led Zeppelin" />
     <edge source="The Yardbirds" target="John Mayall &amp; the Bluesbreakers" />
     <edge source="The Yardbirds" target="Harry Nilsson" />
@@ -6425,7 +6082,6 @@
     <edge source="Yes (band)" target="Foo Fighters" />
     <edge source="Yes (band)" target="Peter Frampton" />
     <edge source="Yes (band)" target="Elton John" />
-    <edge source="Yes (band)" target="AllMusic" />
     <edge source="Yes (band)" target="Led Zeppelin" />
     <edge source="Yes (band)" target="Robert Plant" />
     <edge source="Yes (band)" target="Roxy Music" />
@@ -6442,7 +6098,6 @@
     <edge source="Neil Young" target="The Byrds" />
     <edge source="Neil Young" target="Fats Domino" />
     <edge source="Neil Young" target="Bob Dylan" />
-    <edge source="Neil Young" target="AllMusic" />
     <edge source="Neil Young" target="Jerry Lee Lewis" />
     <edge source="Neil Young" target="Little Richard" />
     <edge source="Neil Young" target="Lynyrd Skynyrd" />
@@ -6469,7 +6124,6 @@
     <edge source="Frank Zappa" target="Bob Dylan" />
     <edge source="Frank Zappa" target="Grand Funk Railroad" />
     <edge source="Frank Zappa" target="Jimi Hendrix" />
-    <edge source="Frank Zappa" target="AllMusic" />
     <edge source="Frank Zappa" target="Led Zeppelin" />
     <edge source="Frank Zappa" target="John Lennon" />
     <edge source="Frank Zappa" target="Living Colour" />
@@ -6485,7 +6139,6 @@
     <edge source="Rob Zombie" target="Gary Glitter" />
     <edge source="Rob Zombie" target="Elton John" />
     <edge source="Rob Zombie" target="Judas Priest" />
-    <edge source="Rob Zombie" target="AllMusic" />
     <edge source="Rob Zombie" target="Metallica" />
     <edge source="Rob Zombie" target="Nine Inch Nails" />
     <edge source="Rob Zombie" target="Ozzy Osbourne" />
@@ -6496,13 +6149,11 @@
     <edge source="Rob Zombie" target="Slayer" />
     <edge source="Rob Zombie" target="Twisted Sister" />
     <edge source="The Zombies" target="The Beach Boys" />
-    <edge source="The Zombies" target="AllMusic" />
     <edge source="The Zombies" target="Ringo Starr" />
     <edge source="The Zombies" target="ZZ Top" />
     <edge source="ZZ Top" target="Beck" />
     <edge source="ZZ Top" target="Depeche Mode" />
     <edge source="ZZ Top" target="Jimi Hendrix" />
-    <edge source="ZZ Top" target="AllMusic" />
     <edge source="ZZ Top" target="Lynyrd Skynyrd" />
     <edge source="ZZ Top" target="Stevie Ray Vaughan" />
   </graph>

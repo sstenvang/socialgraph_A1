@@ -1,484 +1,1441 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.name="content_length" attr.type="long" />
   <graph edgedefault="directed">
-    <node id="10cc" />
-    <node id="10 Years (band)" />
-    <node id="3 Doors Down" />
-    <node id="311 (band)" />
-    <node id="38 Special (band)" />
-    <node id="ABBA" />
-    <node id="Accept (band)" />
-    <node id="AC/DC" />
-    <node id="Bryan Adams" />
-    <node id="Aerosmith" />
-    <node id="AFI (band)" />
-    <node id="Air Supply" />
-    <node id="The Alan Parsons Project" />
-    <node id="Alice in Chains" />
-    <node id="The All-American Rejects" />
-    <node id="The Allman Brothers Band" />
-    <node id="Alter Bridge" />
-    <node id="Ambrosia (band)" />
-    <node id="America (band)" />
-    <node id="The Animals" />
-    <node id="Adam Ant" />
-    <node id="Anthrax (American band)" />
-    <node id="April Wine" />
-    <node id="Arcade Fire" />
-    <node id="Arctic Monkeys" />
-    <node id="Asia (band)" />
-    <node id="Audioslave" />
-    <node id="Avenged Sevenfold" />
-    <node id="Awolnation" />
-    <node id="Bachman\u2013Turner Overdrive" />
-    <node id="Bad Company" />
-    <node id="Badfinger" />
-    <node id="The Band" />
-    <node id="The Bangles" />
-    <node id="Barenaked Ladies" />
-    <node id="Bay City Rollers" />
-    <node id="The Beach Boys" />
-    <node id="Beastie Boys" />
-    <node id="The Beatles" />
-    <node id="Bee Gees" />
-    <node id="Beck" />
-    <node id="Ben Folds Five" />
-    <node id="Pat Benatar" />
-    <node id="Chuck Berry" />
-    <node id="The Big Bopper" />
-    <node id="Billy Talent" />
-    <node id="The Black Crowes" />
-    <node id="The Black Keys" />
-    <node id="Black Sabbath" />
-    <node id="Black Stone Cherry" />
-    <node id="Black Veil Brides" />
-    <node id="Blink-182" />
-    <node id="Blondie (band)" />
-    <node id="Bloodhound Gang" />
-    <node id="Blue October" />
-    <node id="Blue \u00d6yster Cult" />
-    <node id="Blues Traveler" />
-    <node id="James Blunt" />
-    <node id="Blur (band)" />
-    <node id="Bon Jovi" />
-    <node id="Boston (band)" />
-    <node id="David Bowie" />
-    <node id="Bowling for Soup" />
-    <node id="The Boxtones" />
-    <node id="Boys Like Girls" />
-    <node id="Bread (band)" />
-    <node id="Breaking Benjamin" />
-    <node id="Bring Me the Horizon" />
-    <node id="Jackson Browne" />
-    <node id="Buckcherry" />
-    <node id="Jeff Buckley" />
-    <node id="Bullet for My Valentine" />
-    <node id="Chris de Burgh" />
-    <node id="Bush (British band)" />
-    <node id="The Byrds" />
-    <node id="Cage the Elephant" />
-    <node id="Cake (band)" />
-    <node id="Canned Heat" />
-    <node id="The Cab" />
-    <node id="The Cardigans" />
-    <node id="The Cars" />
-    <node id="Catfish and the Bottlemen" />
-    <node id="Harry Chapin" />
-    <node id="Tracy Chapman" />
-    <node id="Cheap Trick" />
-    <node id="Chevelle (band)" />
-    <node id="Chicago (band)" />
-    <node id="Chubby Checker" />
-    <node id="Cinderella (band)" />
-    <node id="Eric Clapton" />
-    <node id="The Clash" />
-    <node id="Eddie Cochran" />
-    <node id="Joe Cocker" />
-    <node id="Coheed and Cambria" />
-    <node id="Cold Chisel" />
-    <node id="Coldplay" />
-    <node id="Collective Soul" />
-    <node id="Phil Collins" />
-    <node id="Alice Cooper" />
-    <node id="Alice Cooper (band)" />
-    <node id="Chris Cornell" />
-    <node id="Elvis Costello" />
-    <node id="Counting Crows" />
-    <node id="The Cranberries" />
-    <node id="Crash Test Dummies" />
-    <node id="Cream (band)" />
-    <node id="Creed (band)" />
-    <node id="Creedence Clearwater Revival" />
-    <node id="Jim Croce" />
-    <node id="Christopher Cross" />
-    <node id="Sheryl Crow" />
-    <node id="Crowded House" />
-    <node id="The Cult" />
-    <node id="The Cure" />
-    <node id="Damn Yankees (band)" />
-    <node id="Charlie Daniels" />
-    <node id="Dashboard Confessional" />
-    <node id="Daughtry (band)" />
-    <node id="The Dave Clark Five" />
-    <node id="Dave Matthews Band" />
-    <node id="Days of the New" />
-    <node id="Death Cab for Cutie" />
-    <node id="Deep Purple" />
-    <node id="Def Leppard" />
-    <node id="Deftones" />
-    <node id="Depeche Mode" />
-    <node id="Bo Diddley" />
-    <node id="Dio (band)" />
-    <node id="Dire Straits" />
-    <node id="Disturbed (band)" />
-    <node id="Fats Domino" />
-    <node id="Donovan" />
-    <node id="The Doobie Brothers" />
-    <node id="The Doors" />
-    <node id="Dropkick Murphys" />
-    <node id="Drowning Pool" />
-    <node id="Duran Duran" />
-    <node id="Ian Dury" />
-    <node id="Bob Dylan" />
-    <node id="Eagles (band)" />
-    <node id="Echo &amp; the Bunnymen" />
-    <node id="Duane Eddy" />
-    <node id="Edgar Winter" />
-    <node id="Electric Light Orchestra" />
-    <node id="Melissa Etheridge" />
-    <node id="Europe (band)" />
-    <node id="Evanescence" />
-    <node id="Everclear (band)" />
-    <node id="Everlast" />
-    <node id="The Everly Brothers" />
-    <node id="Extreme (band)" />
-    <node id="Faces (band)" />
-    <node id="Faith No More" />
-    <node id="Fall Out Boy" />
-    <node id="Bryan Ferry" />
-    <node id="Filter (band)" />
-    <node id="Finger Eleven" />
-    <node id="FireHouse" />
-    <node id="Five Finger Death Punch" />
-    <node id="Five for Fighting" />
-    <node id="The Fixx" />
-    <node id="The Flaming Lips" />
-    <node id="Fleetwood Mac" />
-    <node id="Flogging Molly" />
-    <node id="Florence and the Machine" />
-    <node id="Flyleaf (band)" />
-    <node id="Foals (band)" />
-    <node id="Dan Fogelberg" />
-    <node id="John Fogerty" />
-    <node id="Foo Fighters" />
-    <node id="Foreigner (band)" />
-    <node id="Foster the People" />
-    <node id="The Four Seasons (band)" />
-    <node id="Peter Frampton" />
-    <node id="Franz Ferdinand (band)" />
-    <node id="The Fray" />
-    <node id="Glenn Frey" />
-    <node id="Fuel (band)" />
-    <node id="Fun (band)" />
-    <node id="Funkadelic" />
-    <node id="Peter Gabriel" />
-    <node id="Garbage (band)" />
-    <node id="Genesis (band)" />
-    <node id="Ghost (Swedish band)" />
-    <node id="Gin Blossoms" />
-    <node id="Gary Glitter" />
-    <node id="The Go-Go's" />
-    <node id="Godsmack" />
-    <node id="Golden Earring" />
-    <node id="Goo Goo Dolls" />
-    <node id="Good Charlotte" />
-    <node id="Grand Funk Railroad" />
-    <node id="Grateful Dead" />
-    <node id="Great White" />
-    <node id="Green Day" />
-    <node id="Greta Van Fleet" />
-    <node id="The Guess Who" />
-    <node id="Guns N' Roses" />
-    <node id="Halestorm" />
-    <node id="Bill Haley &amp; His Comets" />
-    <node id="Hall &amp; Oates" />
-    <node id="George Harrison" />
-    <node id="Heart (band)" />
-    <node id="Jimi Hendrix" />
-    <node id="Don Henley" />
-    <node id="Herman's Hermits" />
-    <node id="Highly Suspect" />
-    <node id="Hinder" />
-    <node id="The Hives" />
-    <node id="Hole (band)" />
-    <node id="The Hollies" />
-    <node id="Buddy Holly" />
-    <node id="Hoobastank" />
-    <node id="Hootie &amp; the Blowfish" />
-    <node id="Icehouse (band)" />
-    <node id="Billy Idol" />
-    <node id="Imagine Dragons" />
-    <node id="Incubus (band)" />
-    <node id="Interpol (band)" />
-    <node id="INXS" />
-    <node id="Iron Maiden" />
-    <node id="The J. Geils Band" />
-    <node id="The Jam" />
-    <node id="Tommy James and the Shondells" />
-    <node id="Jane's Addiction" />
-    <node id="Jefferson Airplane" />
-    <node id="Jefferson Starship" />
-    <node id="The Jesus and Mary Chain" />
-    <node id="Jethro Tull (band)" />
-    <node id="Joan Jett" />
-    <node id="Jimmy Eat World" />
-    <node id="Billy Joel" />
-    <node id="Elton John" />
-    <node id="Janis Joplin" />
-    <node id="Journey (band)" />
-    <node id="Joy Division" />
-    <node id="Judas Priest" />
-    <node id="Kaiser Chiefs" />
-    <node id="Kaleo (band)" />
-    <node id="Kansas (band)" />
-    <node id="Keane (band)" />
-    <node id="Kid Rock" />
-    <node id="The Killers" />
-    <node id="Killswitch Engage" />
-    <node id="Kings of Leon" />
-    <node id="The Kinks" />
-    <node id="Kiss (band)" />
-    <node id="Korn" />
-    <node id="Lenny Kravitz" />
-    <node id="Lacuna Coil" />
-    <node id="Lamb of God (band)" />
-    <node id="Avril Lavigne" />
-    <node id="Led Zeppelin" />
-    <node id="John Lennon" />
-    <node id="Huey Lewis and the News" />
-    <node id="Jerry Lee Lewis" />
-    <node id="Lifehouse (band)" />
-    <node id="Limp Bizkit" />
-    <node id="Linkin Park" />
-    <node id="Little Richard" />
-    <node id="Little River Band" />
-    <node id="Live (band)" />
-    <node id="Living Colour" />
-    <node id="Kenny Loggins" />
-    <node id="Loverboy" />
-    <node id="The Lovin' Spoonful" />
-    <node id="The Lumineers" />
-    <node id="Lynyrd Skynyrd" />
-    <node id="The Mamas &amp; the Papas" />
-    <node id="Manfred Mann" />
-    <node id="Manfred Mann (musician)" />
-    <node id="Manfred Mann's Earth Band" />
-    <node id="Manfred Mann Chapter Three" />
-    <node id="Marilyn Manson" />
-    <node id="Marilyn Manson (band)" />
-    <node id="The Marshall Tucker Band" />
-    <node id="Matchbox Twenty" />
-    <node id="John Mayer" />
-    <node id="John Mayall" />
-    <node id="John Mayall &amp; the Bluesbreakers" />
-    <node id="Paul McCartney" />
-    <node id="Meat Loaf" />
-    <node id="Megadeth" />
-    <node id="John Mellencamp" />
-    <node id="Men at Work" />
-    <node id="Metallica" />
-    <node id="Midnight Oil" />
-    <node id="Mike and the Mechanics" />
-    <node id="Modest Mouse" />
-    <node id="Eddie Money" />
-    <node id="The Monkees" />
-    <node id="Montgomery Gentry" />
-    <node id="The Moody Blues" />
-    <node id="Alanis Morissette" />
-    <node id="Van Morrison" />
-    <node id="Morrissey" />
-    <node id="The Mothers of Invention" />
-    <node id="M\u00f6tley Cr\u00fce" />
-    <node id="Mot\u00f6rhead" />
-    <node id="Mudvayne" />
-    <node id="Mumford &amp; Sons" />
-    <node id="Michael Martin Murphey" />
-    <node id="Muse (band)" />
-    <node id="My Chemical Romance" />
-    <node id="New York Dolls" />
-    <node id="Nickelback" />
-    <node id="Stevie Nicks" />
-    <node id="Harry Nilsson" />
-    <node id="Nine Inch Nails" />
-    <node id="Nirvana (band)" />
-    <node id="No Doubt" />
-    <node id="Ted Nugent" />
-    <node id="Oasis (band)" />
-    <node id="The Offspring" />
-    <node id="Roy Orbison" />
-    <node id="Ozzy Osbourne" />
-    <node id="Our Lady Peace" />
-    <node id="The Outfield" />
-    <node id="P.O.D." />
-    <node id="Panic! at the Disco" />
-    <node id="Pantera" />
-    <node id="Papa Roach" />
-    <node id="Paramore" />
-    <node id="Parliament (band)" />
-    <node id="Parliament-Funkadelic" />
-    <node id="Pearl Jam" />
-    <node id="A Perfect Circle" />
-    <node id="Tom Petty" />
-    <node id="Tom Petty and the Heartbreakers" />
-    <node id="Pink Floyd" />
-    <node id="Pixies (band)" />
-    <node id="Robert Plant" />
-    <node id="The Police" />
-    <node id="Iggy Pop" />
-    <node id="Pop Evil" />
-    <node id="The Presidents of the United States of America (band)" />
-    <node id="The Pretenders" />
-    <node id="Elvis Presley" />
-    <node id="The Pretty Reckless" />
-    <node id="Primus (band)" />
-    <node id="Puddle of Mudd" />
-    <node id="Queen (band)" />
-    <node id="Queens of the Stone Age" />
-    <node id="Queensr\u00ffche" />
-    <node id="Quiet Riot" />
-    <node id="R.E.M." />
-    <node id="Radiohead" />
-    <node id="Rage Against the Machine" />
-    <node id="Rainbow (rock band)" />
-    <node id="Rammstein" />
-    <node id="Ramones" />
-    <node id="Ratt" />
-    <node id="Red Hot Chili Peppers" />
-    <node id="Lou Reed" />
-    <node id="REO Speedwagon" />
-    <node id="Chris Rea" />
-    <node id="Rise Against" />
-    <node id="Sixto Rodriguez" />
-    <node id="The Rolling Stones" />
-    <node id="Linda Ronstadt" />
-    <node id="Roxy Music" />
-    <node id="Royal Blood (band)" />
-    <node id="Run-DMC" />
-    <node id="Rush (band)" />
-    <node id="Mitch Ryder" />
-    <node id="Saliva (band)" />
-    <node id="Sam Fender" />
-    <node id="Santana (band)" />
-    <node id="Joe Satriani" />
-    <node id="Saving Abel" />
-    <node id="Scorpions (band)" />
-    <node id="The Script" />
-    <node id="Seether" />
-    <node id="Bob Seger" />
-    <node id="Sepultura" />
-    <node id="Sex Pistols" />
-    <node id="Shinedown" />
-    <node id="Silverchair" />
-    <node id="Simon &amp; Garfunkel" />
-    <node id="Simple Minds" />
-    <node id="Simple Plan" />
-    <node id="Skid Row (American band)" />
-    <node id="Skillet (band)" />
-    <node id="Slade" />
-    <node id="Slayer" />
-    <node id="Slipknot (band)" />
-    <node id="Sly and the Family Stone" />
-    <node id="Small Faces" />
-    <node id="Smash Mouth" />
-    <node id="The Smashing Pumpkins" />
-    <node id="The Smiths" />
-    <node id="Smokie (band)" />
-    <node id="Snow Patrol" />
-    <node id="Social Distortion" />
-    <node id="Sonic Youth" />
-    <node id="Soundgarden" />
-    <node id="Bruce Springsteen" />
-    <node id="Billy Squier" />
-    <node id="Staind" />
-    <node id="Ringo Starr" />
-    <node id="Starset" />
-    <node id="Starship (band)" />
-    <node id="Status Quo (band)" />
-    <node id="Steely Dan" />
-    <node id="Steppenwolf (band)" />
-    <node id="Steve Miller Band" />
-    <node id="Rod Stewart" />
-    <node id="Sting (musician)" />
-    <node id="The Stone Roses" />
-    <node id="Stone Sour" />
-    <node id="Stone Temple Pilots" />
-    <node id="The Strokes" />
-    <node id="Styx (band)" />
-    <node id="Sublime (band)" />
-    <node id="Sublime with Rome" />
-    <node id="Sum 41" />
-    <node id="Supertramp" />
-    <node id="Survivor (band)" />
-    <node id="The Sweet" />
-    <node id="System of a Down" />
-    <node id="T. Rex (band)" />
-    <node id="Talking Heads" />
-    <node id="James Taylor" />
-    <node id="Ten Years After" />
-    <node id="Tenacious D" />
-    <node id="Tesla (band)" />
-    <node id="Theory of a Deadman" />
-    <node id="Thin Lizzy" />
-    <node id="Third Eye Blind" />
-    <node id="Thirty Seconds to Mars" />
-    <node id="George Thorogood" />
-    <node id="Thousand Foot Krutch" />
-    <node id="Three Days Grace" />
-    <node id="Three Dog Night" />
-    <node id="Tool (band)" />
-    <node id="Toto (band)" />
-    <node id="Traffic (band)" />
-    <node id="The Tragically Hip" />
-    <node id="Train (band)" />
-    <node id="Traveling Wilburys" />
-    <node id="Travis (band)" />
-    <node id="Trivium (band)" />
-    <node id="Twenty One Pilots" />
-    <node id="Twisted Sister" />
-    <node id="U2" />
-    <node id="UB40" />
-    <node id="Uriah Heep (band)" />
-    <node id="The Used" />
-    <node id="Steve Vai" />
-    <node id="Ritchie Valens" />
-    <node id="Vampire Weekend" />
-    <node id="Van Halen" />
-    <node id="Stevie Ray Vaughan" />
-    <node id="Velvet Revolver" />
-    <node id="The Velvet Underground" />
-    <node id="The Verve" />
-    <node id="Gene Vincent" />
-    <node id="Volbeat" />
-    <node id="Joe Walsh" />
-    <node id="Warrant (American band)" />
-    <node id="W.A.S.P. (band)" />
-    <node id="Weezer" />
-    <node id="Jack White" />
-    <node id="The White Stripes" />
-    <node id="White Zombie (band)" />
-    <node id="Whitesnake" />
-    <node id="The Who" />
-    <node id="Paul McCartney and Wings" />
-    <node id="Steve Winwood" />
-    <node id="X (American band)" />
-    <node id="X Ambassadors" />
-    <node id="The Yardbirds" />
-    <node id="Yes (band)" />
-    <node id="Neil Young" />
-    <node id="Frank Zappa" />
-    <node id="Rob Zombie" />
-    <node id="The Zombies" />
-    <node id="ZZ Top" />
+    <node id="10cc">
+      <data key="d0">8609</data>
+    </node>
+    <node id="10 Years (band)">
+      <data key="d0">2836</data>
+    </node>
+    <node id="3 Doors Down">
+      <data key="d0">5020</data>
+    </node>
+    <node id="311 (band)">
+      <data key="d0">5737</data>
+    </node>
+    <node id="38 Special (band)">
+      <data key="d0">3390</data>
+    </node>
+    <node id="ABBA">
+      <data key="d0">17474</data>
+    </node>
+    <node id="Accept (band)">
+      <data key="d0">4879</data>
+    </node>
+    <node id="AC/DC">
+      <data key="d0">17377</data>
+    </node>
+    <node id="Bryan Adams">
+      <data key="d0">21943</data>
+    </node>
+    <node id="Aerosmith">
+      <data key="d0">19097</data>
+    </node>
+    <node id="AFI (band)">
+      <data key="d0">5800</data>
+    </node>
+    <node id="Air Supply">
+      <data key="d0">6152</data>
+    </node>
+    <node id="The Alan Parsons Project">
+      <data key="d0">2847</data>
+    </node>
+    <node id="Alice in Chains">
+      <data key="d0">19881</data>
+    </node>
+    <node id="The All-American Rejects">
+      <data key="d0">5976</data>
+    </node>
+    <node id="The Allman Brothers Band">
+      <data key="d0">10089</data>
+    </node>
+    <node id="Alter Bridge">
+      <data key="d0">7332</data>
+    </node>
+    <node id="Ambrosia (band)">
+      <data key="d0">3375</data>
+    </node>
+    <node id="America (band)">
+      <data key="d0">6867</data>
+    </node>
+    <node id="The Animals">
+      <data key="d0">3786</data>
+    </node>
+    <node id="Adam Ant">
+      <data key="d0">10269</data>
+    </node>
+    <node id="Anthrax (American band)">
+      <data key="d0">9181</data>
+    </node>
+    <node id="April Wine">
+      <data key="d0">3918</data>
+    </node>
+    <node id="Arcade Fire">
+      <data key="d0">10577</data>
+    </node>
+    <node id="Arctic Monkeys">
+      <data key="d0">14017</data>
+    </node>
+    <node id="Asia (band)">
+      <data key="d0">7659</data>
+    </node>
+    <node id="Audioslave">
+      <data key="d0">7750</data>
+    </node>
+    <node id="Avenged Sevenfold">
+      <data key="d0">10183</data>
+    </node>
+    <node id="Awolnation">
+      <data key="d0">5267</data>
+    </node>
+    <node id="Bachman\u2013Turner Overdrive">
+      <data key="d0">3</data>
+    </node>
+    <node id="Bad Company">
+      <data key="d0">4560</data>
+    </node>
+    <node id="Badfinger">
+      <data key="d0">9861</data>
+    </node>
+    <node id="The Band">
+      <data key="d0">10204</data>
+    </node>
+    <node id="The Bangles">
+      <data key="d0">3657</data>
+    </node>
+    <node id="Barenaked Ladies">
+      <data key="d0">8026</data>
+    </node>
+    <node id="Bay City Rollers">
+      <data key="d0">8795</data>
+    </node>
+    <node id="The Beach Boys">
+      <data key="d0">25741</data>
+    </node>
+    <node id="Beastie Boys">
+      <data key="d0">11161</data>
+    </node>
+    <node id="The Beatles">
+      <data key="d0">23908</data>
+    </node>
+    <node id="Bee Gees">
+      <data key="d0">15467</data>
+    </node>
+    <node id="Beck">
+      <data key="d0">11931</data>
+    </node>
+    <node id="Ben Folds Five">
+      <data key="d0">2600</data>
+    </node>
+    <node id="Pat Benatar">
+      <data key="d0">7064</data>
+    </node>
+    <node id="Chuck Berry">
+      <data key="d0">7401</data>
+    </node>
+    <node id="The Big Bopper">
+      <data key="d0">3611</data>
+    </node>
+    <node id="Billy Talent">
+      <data key="d0">5356</data>
+    </node>
+    <node id="The Black Crowes">
+      <data key="d0">4534</data>
+    </node>
+    <node id="The Black Keys">
+      <data key="d0">9318</data>
+    </node>
+    <node id="Black Sabbath">
+      <data key="d0">21563</data>
+    </node>
+    <node id="Black Stone Cherry">
+      <data key="d0">2107</data>
+    </node>
+    <node id="Black Veil Brides">
+      <data key="d0">8463</data>
+    </node>
+    <node id="Blink-182">
+      <data key="d0">12178</data>
+    </node>
+    <node id="Blondie (band)">
+      <data key="d0">8464</data>
+    </node>
+    <node id="Bloodhound Gang">
+      <data key="d0">3773</data>
+    </node>
+    <node id="Blue October">
+      <data key="d0">4842</data>
+    </node>
+    <node id="Blue \u00d6yster Cult">
+      <data key="d0">5</data>
+    </node>
+    <node id="Blues Traveler">
+      <data key="d0">3636</data>
+    </node>
+    <node id="James Blunt">
+      <data key="d0">7660</data>
+    </node>
+    <node id="Blur (band)">
+      <data key="d0">7337</data>
+    </node>
+    <node id="Bon Jovi">
+      <data key="d0">10077</data>
+    </node>
+    <node id="Boston (band)">
+      <data key="d0">6077</data>
+    </node>
+    <node id="David Bowie">
+      <data key="d0">24381</data>
+    </node>
+    <node id="Bowling for Soup">
+      <data key="d0">7547</data>
+    </node>
+    <node id="The Boxtones">
+      <data key="d0">1344</data>
+    </node>
+    <node id="Boys Like Girls">
+      <data key="d0">5421</data>
+    </node>
+    <node id="Bread (band)">
+      <data key="d0">4132</data>
+    </node>
+    <node id="Breaking Benjamin">
+      <data key="d0">10300</data>
+    </node>
+    <node id="Bring Me the Horizon">
+      <data key="d0">13838</data>
+    </node>
+    <node id="Jackson Browne">
+      <data key="d0">6100</data>
+    </node>
+    <node id="Buckcherry">
+      <data key="d0">3120</data>
+    </node>
+    <node id="Jeff Buckley">
+      <data key="d0">8015</data>
+    </node>
+    <node id="Bullet for My Valentine">
+      <data key="d0">8711</data>
+    </node>
+    <node id="Chris de Burgh">
+      <data key="d0">3102</data>
+    </node>
+    <node id="Bush (British band)">
+      <data key="d0">4790</data>
+    </node>
+    <node id="The Byrds">
+      <data key="d0">19066</data>
+    </node>
+    <node id="Cage the Elephant">
+      <data key="d0">5228</data>
+    </node>
+    <node id="Cake (band)">
+      <data key="d0">6007</data>
+    </node>
+    <node id="Canned Heat">
+      <data key="d0">5855</data>
+    </node>
+    <node id="The Cab">
+      <data key="d0">4666</data>
+    </node>
+    <node id="The Cardigans">
+      <data key="d0">2909</data>
+    </node>
+    <node id="The Cars">
+      <data key="d0">3056</data>
+    </node>
+    <node id="Catfish and the Bottlemen">
+      <data key="d0">5965</data>
+    </node>
+    <node id="Harry Chapin">
+      <data key="d0">4915</data>
+    </node>
+    <node id="Tracy Chapman">
+      <data key="d0">3955</data>
+    </node>
+    <node id="Cheap Trick">
+      <data key="d0">4532</data>
+    </node>
+    <node id="Chevelle (band)">
+      <data key="d0">7036</data>
+    </node>
+    <node id="Chicago (band)">
+      <data key="d0">20001</data>
+    </node>
+    <node id="Chubby Checker">
+      <data key="d0">3961</data>
+    </node>
+    <node id="Cinderella (band)">
+      <data key="d0">2768</data>
+    </node>
+    <node id="Eric Clapton">
+      <data key="d0">20528</data>
+    </node>
+    <node id="The Clash">
+      <data key="d0">11238</data>
+    </node>
+    <node id="Eddie Cochran">
+      <data key="d0">5275</data>
+    </node>
+    <node id="Joe Cocker">
+      <data key="d0">5423</data>
+    </node>
+    <node id="Coheed and Cambria">
+      <data key="d0">6833</data>
+    </node>
+    <node id="Cold Chisel">
+      <data key="d0">8871</data>
+    </node>
+    <node id="Coldplay">
+      <data key="d0">23526</data>
+    </node>
+    <node id="Collective Soul">
+      <data key="d0">4163</data>
+    </node>
+    <node id="Phil Collins">
+      <data key="d0">19223</data>
+    </node>
+    <node id="Alice Cooper">
+      <data key="d0">17699</data>
+    </node>
+    <node id="Alice Cooper (band)">
+      <data key="d0">4538</data>
+    </node>
+    <node id="Chris Cornell">
+      <data key="d0">19245</data>
+    </node>
+    <node id="Elvis Costello">
+      <data key="d0">19794</data>
+    </node>
+    <node id="Counting Crows">
+      <data key="d0">6092</data>
+    </node>
+    <node id="The Cranberries">
+      <data key="d0">9773</data>
+    </node>
+    <node id="Crash Test Dummies">
+      <data key="d0">4034</data>
+    </node>
+    <node id="Cream (band)">
+      <data key="d0">5117</data>
+    </node>
+    <node id="Creed (band)">
+      <data key="d0">7219</data>
+    </node>
+    <node id="Creedence Clearwater Revival">
+      <data key="d0">7819</data>
+    </node>
+    <node id="Jim Croce">
+      <data key="d0">3147</data>
+    </node>
+    <node id="Christopher Cross">
+      <data key="d0">4254</data>
+    </node>
+    <node id="Sheryl Crow">
+      <data key="d0">8642</data>
+    </node>
+    <node id="Crowded House">
+      <data key="d0">7512</data>
+    </node>
+    <node id="The Cult">
+      <data key="d0">10798</data>
+    </node>
+    <node id="The Cure">
+      <data key="d0">11482</data>
+    </node>
+    <node id="Damn Yankees (band)">
+      <data key="d0">1846</data>
+    </node>
+    <node id="Charlie Daniels">
+      <data key="d0">4897</data>
+    </node>
+    <node id="Dashboard Confessional">
+      <data key="d0">3473</data>
+    </node>
+    <node id="Daughtry (band)">
+      <data key="d0">5536</data>
+    </node>
+    <node id="The Dave Clark Five">
+      <data key="d0">2875</data>
+    </node>
+    <node id="Dave Matthews Band">
+      <data key="d0">8791</data>
+    </node>
+    <node id="Days of the New">
+      <data key="d0">3604</data>
+    </node>
+    <node id="Death Cab for Cutie">
+      <data key="d0">6478</data>
+    </node>
+    <node id="Deep Purple">
+      <data key="d0">15550</data>
+    </node>
+    <node id="Def Leppard">
+      <data key="d0">11575</data>
+    </node>
+    <node id="Deftones">
+      <data key="d0">11695</data>
+    </node>
+    <node id="Depeche Mode">
+      <data key="d0">14564</data>
+    </node>
+    <node id="Bo Diddley">
+      <data key="d0">8183</data>
+    </node>
+    <node id="Dio (band)">
+      <data key="d0">3400</data>
+    </node>
+    <node id="Dire Straits">
+      <data key="d0">9540</data>
+    </node>
+    <node id="Disturbed (band)">
+      <data key="d0">7539</data>
+    </node>
+    <node id="Fats Domino">
+      <data key="d0">5602</data>
+    </node>
+    <node id="Donovan">
+      <data key="d0">9038</data>
+    </node>
+    <node id="The Doobie Brothers">
+      <data key="d0">9126</data>
+    </node>
+    <node id="The Doors">
+      <data key="d0">11167</data>
+    </node>
+    <node id="Dropkick Murphys">
+      <data key="d0">10288</data>
+    </node>
+    <node id="Drowning Pool">
+      <data key="d0">3421</data>
+    </node>
+    <node id="Duran Duran">
+      <data key="d0">13725</data>
+    </node>
+    <node id="Ian Dury">
+      <data key="d0">6037</data>
+    </node>
+    <node id="Bob Dylan">
+      <data key="d0">30141</data>
+    </node>
+    <node id="Eagles (band)">
+      <data key="d0">12307</data>
+    </node>
+    <node id="Echo &amp; the Bunnymen">
+      <data key="d0">690</data>
+    </node>
+    <node id="Duane Eddy">
+      <data key="d0">5974</data>
+    </node>
+    <node id="Edgar Winter">
+      <data key="d0">3298</data>
+    </node>
+    <node id="Electric Light Orchestra">
+      <data key="d0">6892</data>
+    </node>
+    <node id="Melissa Etheridge">
+      <data key="d0">5702</data>
+    </node>
+    <node id="Europe (band)">
+      <data key="d0">5242</data>
+    </node>
+    <node id="Evanescence">
+      <data key="d0">16297</data>
+    </node>
+    <node id="Everclear (band)">
+      <data key="d0">4451</data>
+    </node>
+    <node id="Everlast">
+      <data key="d0">2973</data>
+    </node>
+    <node id="The Everly Brothers">
+      <data key="d0">6384</data>
+    </node>
+    <node id="Extreme (band)">
+      <data key="d0">3082</data>
+    </node>
+    <node id="Faces (band)">
+      <data key="d0">3955</data>
+    </node>
+    <node id="Faith No More">
+      <data key="d0">9899</data>
+    </node>
+    <node id="Fall Out Boy">
+      <data key="d0">17274</data>
+    </node>
+    <node id="Bryan Ferry">
+      <data key="d0">7895</data>
+    </node>
+    <node id="Filter (band)">
+      <data key="d0">4931</data>
+    </node>
+    <node id="Finger Eleven">
+      <data key="d0">3626</data>
+    </node>
+    <node id="FireHouse">
+      <data key="d0">2585</data>
+    </node>
+    <node id="Five Finger Death Punch">
+      <data key="d0">8558</data>
+    </node>
+    <node id="Five for Fighting">
+      <data key="d0">6943</data>
+    </node>
+    <node id="The Fixx">
+      <data key="d0">1448</data>
+    </node>
+    <node id="The Flaming Lips">
+      <data key="d0">8127</data>
+    </node>
+    <node id="Fleetwood Mac">
+      <data key="d0">13469</data>
+    </node>
+    <node id="Flogging Molly">
+      <data key="d0">1956</data>
+    </node>
+    <node id="Florence and the Machine">
+      <data key="d0">9439</data>
+    </node>
+    <node id="Flyleaf (band)">
+      <data key="d0">4440</data>
+    </node>
+    <node id="Foals (band)">
+      <data key="d0">4574</data>
+    </node>
+    <node id="Dan Fogelberg">
+      <data key="d0">2556</data>
+    </node>
+    <node id="John Fogerty">
+      <data key="d0">5953</data>
+    </node>
+    <node id="Foo Fighters">
+      <data key="d0">11209</data>
+    </node>
+    <node id="Foreigner (band)">
+      <data key="d0">9234</data>
+    </node>
+    <node id="Foster the People">
+      <data key="d0">7224</data>
+    </node>
+    <node id="The Four Seasons (band)">
+      <data key="d0">9941</data>
+    </node>
+    <node id="Peter Frampton">
+      <data key="d0">6375</data>
+    </node>
+    <node id="Franz Ferdinand (band)">
+      <data key="d0">5904</data>
+    </node>
+    <node id="The Fray">
+      <data key="d0">5934</data>
+    </node>
+    <node id="Glenn Frey">
+      <data key="d0">5048</data>
+    </node>
+    <node id="Fuel (band)">
+      <data key="d0">4098</data>
+    </node>
+    <node id="Fun (band)">
+      <data key="d0">2670</data>
+    </node>
+    <node id="Funkadelic">
+      <data key="d0">2217</data>
+    </node>
+    <node id="Peter Gabriel">
+      <data key="d0">13315</data>
+    </node>
+    <node id="Garbage (band)">
+      <data key="d0">10929</data>
+    </node>
+    <node id="Genesis (band)">
+      <data key="d0">15975</data>
+    </node>
+    <node id="Ghost (Swedish band)">
+      <data key="d0">11839</data>
+    </node>
+    <node id="Gin Blossoms">
+      <data key="d0">3173</data>
+    </node>
+    <node id="Gary Glitter">
+      <data key="d0">8804</data>
+    </node>
+    <node id="The Go-Go's">
+      <data key="d0">4230</data>
+    </node>
+    <node id="Godsmack">
+      <data key="d0">6716</data>
+    </node>
+    <node id="Golden Earring">
+      <data key="d0">2788</data>
+    </node>
+    <node id="Goo Goo Dolls">
+      <data key="d0">4914</data>
+    </node>
+    <node id="Good Charlotte">
+      <data key="d0">7013</data>
+    </node>
+    <node id="Grand Funk Railroad">
+      <data key="d0">3983</data>
+    </node>
+    <node id="Grateful Dead">
+      <data key="d0">13320</data>
+    </node>
+    <node id="Great White">
+      <data key="d0">6942</data>
+    </node>
+    <node id="Green Day">
+      <data key="d0">18402</data>
+    </node>
+    <node id="Greta Van Fleet">
+      <data key="d0">4595</data>
+    </node>
+    <node id="The Guess Who">
+      <data key="d0">4923</data>
+    </node>
+    <node id="Guns N' Roses">
+      <data key="d0">29293</data>
+    </node>
+    <node id="Halestorm">
+      <data key="d0">3598</data>
+    </node>
+    <node id="Bill Haley &amp; His Comets">
+      <data key="d0">3240</data>
+    </node>
+    <node id="Hall &amp; Oates">
+      <data key="d0">1188</data>
+    </node>
+    <node id="George Harrison">
+      <data key="d0">16747</data>
+    </node>
+    <node id="Heart (band)">
+      <data key="d0">7440</data>
+    </node>
+    <node id="Jimi Hendrix">
+      <data key="d0">19545</data>
+    </node>
+    <node id="Don Henley">
+      <data key="d0">6885</data>
+    </node>
+    <node id="Herman's Hermits">
+      <data key="d0">4426</data>
+    </node>
+    <node id="Highly Suspect">
+      <data key="d0">2999</data>
+    </node>
+    <node id="Hinder">
+      <data key="d0">4500</data>
+    </node>
+    <node id="The Hives">
+      <data key="d0">4245</data>
+    </node>
+    <node id="Hole (band)">
+      <data key="d0">10174</data>
+    </node>
+    <node id="The Hollies">
+      <data key="d0">5577</data>
+    </node>
+    <node id="Buddy Holly">
+      <data key="d0">9711</data>
+    </node>
+    <node id="Hoobastank">
+      <data key="d0">3019</data>
+    </node>
+    <node id="Hootie &amp; the Blowfish">
+      <data key="d0">50</data>
+    </node>
+    <node id="Icehouse (band)">
+      <data key="d0">6202</data>
+    </node>
+    <node id="Billy Idol">
+      <data key="d0">6633</data>
+    </node>
+    <node id="Imagine Dragons">
+      <data key="d0">9454</data>
+    </node>
+    <node id="Incubus (band)">
+      <data key="d0">8365</data>
+    </node>
+    <node id="Interpol (band)">
+      <data key="d0">4261</data>
+    </node>
+    <node id="INXS">
+      <data key="d0">9404</data>
+    </node>
+    <node id="Iron Maiden">
+      <data key="d0">15911</data>
+    </node>
+    <node id="The J. Geils Band">
+      <data key="d0">3866</data>
+    </node>
+    <node id="The Jam">
+      <data key="d0">5767</data>
+    </node>
+    <node id="Tommy James and the Shondells">
+      <data key="d0">2995</data>
+    </node>
+    <node id="Jane's Addiction">
+      <data key="d0">9615</data>
+    </node>
+    <node id="Jefferson Airplane">
+      <data key="d0">8722</data>
+    </node>
+    <node id="Jefferson Starship">
+      <data key="d0">5705</data>
+    </node>
+    <node id="The Jesus and Mary Chain">
+      <data key="d0">6918</data>
+    </node>
+    <node id="Jethro Tull (band)">
+      <data key="d0">9607</data>
+    </node>
+    <node id="Joan Jett">
+      <data key="d0">7915</data>
+    </node>
+    <node id="Jimmy Eat World">
+      <data key="d0">5134</data>
+    </node>
+    <node id="Billy Joel">
+      <data key="d0">18405</data>
+    </node>
+    <node id="Elton John">
+      <data key="d0">24401</data>
+    </node>
+    <node id="Janis Joplin">
+      <data key="d0">15045</data>
+    </node>
+    <node id="Journey (band)">
+      <data key="d0">8887</data>
+    </node>
+    <node id="Joy Division">
+      <data key="d0">6444</data>
+    </node>
+    <node id="Judas Priest">
+      <data key="d0">14337</data>
+    </node>
+    <node id="Kaiser Chiefs">
+      <data key="d0">4663</data>
+    </node>
+    <node id="Kaleo (band)">
+      <data key="d0">3773</data>
+    </node>
+    <node id="Kansas (band)">
+      <data key="d0">5957</data>
+    </node>
+    <node id="Keane (band)">
+      <data key="d0">6711</data>
+    </node>
+    <node id="Kid Rock">
+      <data key="d0">10002</data>
+    </node>
+    <node id="The Killers">
+      <data key="d0">10928</data>
+    </node>
+    <node id="Killswitch Engage">
+      <data key="d0">7349</data>
+    </node>
+    <node id="Kings of Leon">
+      <data key="d0">5365</data>
+    </node>
+    <node id="The Kinks">
+      <data key="d0">13643</data>
+    </node>
+    <node id="Kiss (band)">
+      <data key="d0">20027</data>
+    </node>
+    <node id="Korn">
+      <data key="d0">14945</data>
+    </node>
+    <node id="Lenny Kravitz">
+      <data key="d0">7913</data>
+    </node>
+    <node id="Lacuna Coil">
+      <data key="d0">4771</data>
+    </node>
+    <node id="Lamb of God (band)">
+      <data key="d0">8668</data>
+    </node>
+    <node id="Avril Lavigne">
+      <data key="d0">20405</data>
+    </node>
+    <node id="Led Zeppelin">
+      <data key="d0">13132</data>
+    </node>
+    <node id="John Lennon">
+      <data key="d0">20557</data>
+    </node>
+    <node id="Huey Lewis and the News">
+      <data key="d0">4381</data>
+    </node>
+    <node id="Jerry Lee Lewis">
+      <data key="d0">9876</data>
+    </node>
+    <node id="Lifehouse (band)">
+      <data key="d0">4032</data>
+    </node>
+    <node id="Limp Bizkit">
+      <data key="d0">17353</data>
+    </node>
+    <node id="Linkin Park">
+      <data key="d0">15639</data>
+    </node>
+    <node id="Little Richard">
+      <data key="d0">16431</data>
+    </node>
+    <node id="Little River Band">
+      <data key="d0">12554</data>
+    </node>
+    <node id="Live (band)">
+      <data key="d0">3965</data>
+    </node>
+    <node id="Living Colour">
+      <data key="d0">3520</data>
+    </node>
+    <node id="Kenny Loggins">
+      <data key="d0">4971</data>
+    </node>
+    <node id="Loverboy">
+      <data key="d0">2724</data>
+    </node>
+    <node id="The Lovin' Spoonful">
+      <data key="d0">17964</data>
+    </node>
+    <node id="The Lumineers">
+      <data key="d0">5919</data>
+    </node>
+    <node id="Lynyrd Skynyrd">
+      <data key="d0">6883</data>
+    </node>
+    <node id="The Mamas &amp; the Papas">
+      <data key="d0">1246</data>
+    </node>
+    <node id="Manfred Mann">
+      <data key="d0">3217</data>
+    </node>
+    <node id="Manfred Mann (musician)">
+      <data key="d0">1727</data>
+    </node>
+    <node id="Manfred Mann's Earth Band">
+      <data key="d0">4792</data>
+    </node>
+    <node id="Manfred Mann Chapter Three">
+      <data key="d0">347</data>
+    </node>
+    <node id="Marilyn Manson">
+      <data key="d0">19156</data>
+    </node>
+    <node id="Marilyn Manson (band)">
+      <data key="d0">24144</data>
+    </node>
+    <node id="The Marshall Tucker Band">
+      <data key="d0">5143</data>
+    </node>
+    <node id="Matchbox Twenty">
+      <data key="d0">3834</data>
+    </node>
+    <node id="John Mayer">
+      <data key="d0">16327</data>
+    </node>
+    <node id="John Mayall">
+      <data key="d0">4854</data>
+    </node>
+    <node id="John Mayall &amp; the Bluesbreakers">
+      <data key="d0">4856</data>
+    </node>
+    <node id="Paul McCartney">
+      <data key="d0">26345</data>
+    </node>
+    <node id="Meat Loaf">
+      <data key="d0">11952</data>
+    </node>
+    <node id="Megadeth">
+      <data key="d0">17371</data>
+    </node>
+    <node id="John Mellencamp">
+      <data key="d0">11659</data>
+    </node>
+    <node id="Men at Work">
+      <data key="d0">5490</data>
+    </node>
+    <node id="Metallica">
+      <data key="d0">17732</data>
+    </node>
+    <node id="Midnight Oil">
+      <data key="d0">12156</data>
+    </node>
+    <node id="Mike and the Mechanics">
+      <data key="d0">2995</data>
+    </node>
+    <node id="Modest Mouse">
+      <data key="d0">4227</data>
+    </node>
+    <node id="Eddie Money">
+      <data key="d0">4005</data>
+    </node>
+    <node id="The Monkees">
+      <data key="d0">12003</data>
+    </node>
+    <node id="Montgomery Gentry">
+      <data key="d0">5501</data>
+    </node>
+    <node id="The Moody Blues">
+      <data key="d0">11125</data>
+    </node>
+    <node id="Alanis Morissette">
+      <data key="d0">11520</data>
+    </node>
+    <node id="Van Morrison">
+      <data key="d0">19231</data>
+    </node>
+    <node id="Morrissey">
+      <data key="d0">20447</data>
+    </node>
+    <node id="The Mothers of Invention">
+      <data key="d0">5765</data>
+    </node>
+    <node id="M\u00f6tley Cr\u00fce">
+      <data key="d0">3</data>
+    </node>
+    <node id="Mot\u00f6rhead">
+      <data key="d0">1</data>
+    </node>
+    <node id="Mudvayne">
+      <data key="d0">3987</data>
+    </node>
+    <node id="Mumford &amp; Sons">
+      <data key="d0">80</data>
+    </node>
+    <node id="Michael Martin Murphey">
+      <data key="d0">5188</data>
+    </node>
+    <node id="Muse (band)">
+      <data key="d0">9185</data>
+    </node>
+    <node id="My Chemical Romance">
+      <data key="d0">12065</data>
+    </node>
+    <node id="New York Dolls">
+      <data key="d0">7339</data>
+    </node>
+    <node id="Nickelback">
+      <data key="d0">7615</data>
+    </node>
+    <node id="Stevie Nicks">
+      <data key="d0">14067</data>
+    </node>
+    <node id="Harry Nilsson">
+      <data key="d0">6997</data>
+    </node>
+    <node id="Nine Inch Nails">
+      <data key="d0">22226</data>
+    </node>
+    <node id="Nirvana (band)">
+      <data key="d0">9725</data>
+    </node>
+    <node id="No Doubt">
+      <data key="d0">6541</data>
+    </node>
+    <node id="Ted Nugent">
+      <data key="d0">10976</data>
+    </node>
+    <node id="Oasis (band)">
+      <data key="d0">12650</data>
+    </node>
+    <node id="The Offspring">
+      <data key="d0">9329</data>
+    </node>
+    <node id="Roy Orbison">
+      <data key="d0">13185</data>
+    </node>
+    <node id="Ozzy Osbourne">
+      <data key="d0">18867</data>
+    </node>
+    <node id="Our Lady Peace">
+      <data key="d0">6341</data>
+    </node>
+    <node id="The Outfield">
+      <data key="d0">4676</data>
+    </node>
+    <node id="P.O.D.">
+      <data key="d0">5279</data>
+    </node>
+    <node id="Panic! at the Disco">
+      <data key="d0">11586</data>
+    </node>
+    <node id="Pantera">
+      <data key="d0">11776</data>
+    </node>
+    <node id="Papa Roach">
+      <data key="d0">8379</data>
+    </node>
+    <node id="Paramore">
+      <data key="d0">12264</data>
+    </node>
+    <node id="Parliament (band)">
+      <data key="d0">1328</data>
+    </node>
+    <node id="Parliament-Funkadelic">
+      <data key="d0">4123</data>
+    </node>
+    <node id="Pearl Jam">
+      <data key="d0">15008</data>
+    </node>
+    <node id="A Perfect Circle">
+      <data key="d0">8680</data>
+    </node>
+    <node id="Tom Petty">
+      <data key="d0">7970</data>
+    </node>
+    <node id="Tom Petty and the Heartbreakers">
+      <data key="d0">4937</data>
+    </node>
+    <node id="Pink Floyd">
+      <data key="d0">20869</data>
+    </node>
+    <node id="Pixies (band)">
+      <data key="d0">8013</data>
+    </node>
+    <node id="Robert Plant">
+      <data key="d0">10532</data>
+    </node>
+    <node id="The Police">
+      <data key="d0">8807</data>
+    </node>
+    <node id="Iggy Pop">
+      <data key="d0">11900</data>
+    </node>
+    <node id="Pop Evil">
+      <data key="d0">2865</data>
+    </node>
+    <node id="The Presidents of the United States of America (band)">
+      <data key="d0">2855</data>
+    </node>
+    <node id="The Pretenders">
+      <data key="d0">3245</data>
+    </node>
+    <node id="Elvis Presley">
+      <data key="d0">23989</data>
+    </node>
+    <node id="The Pretty Reckless">
+      <data key="d0">5695</data>
+    </node>
+    <node id="Primus (band)">
+      <data key="d0">9278</data>
+    </node>
+    <node id="Puddle of Mudd">
+      <data key="d0">5215</data>
+    </node>
+    <node id="Queen (band)">
+      <data key="d0">26625</data>
+    </node>
+    <node id="Queens of the Stone Age">
+      <data key="d0">9583</data>
+    </node>
+    <node id="Queensr\u00ffche">
+      <data key="d0">1</data>
+    </node>
+    <node id="Quiet Riot">
+      <data key="d0">7887</data>
+    </node>
+    <node id="R.E.M.">
+      <data key="d0">12938</data>
+    </node>
+    <node id="Radiohead">
+      <data key="d0">18692</data>
+    </node>
+    <node id="Rage Against the Machine">
+      <data key="d0">12508</data>
+    </node>
+    <node id="Rainbow (rock band)">
+      <data key="d0">4615</data>
+    </node>
+    <node id="Rammstein">
+      <data key="d0">12430</data>
+    </node>
+    <node id="Ramones">
+      <data key="d0">11969</data>
+    </node>
+    <node id="Ratt">
+      <data key="d0">4942</data>
+    </node>
+    <node id="Red Hot Chili Peppers">
+      <data key="d0">15622</data>
+    </node>
+    <node id="Lou Reed">
+      <data key="d0">10661</data>
+    </node>
+    <node id="REO Speedwagon">
+      <data key="d0">4482</data>
+    </node>
+    <node id="Chris Rea">
+      <data key="d0">7316</data>
+    </node>
+    <node id="Rise Against">
+      <data key="d0">10319</data>
+    </node>
+    <node id="Sixto Rodriguez">
+      <data key="d0">4778</data>
+    </node>
+    <node id="The Rolling Stones">
+      <data key="d0">25706</data>
+    </node>
+    <node id="Linda Ronstadt">
+      <data key="d0">20239</data>
+    </node>
+    <node id="Roxy Music">
+      <data key="d0">6994</data>
+    </node>
+    <node id="Royal Blood (band)">
+      <data key="d0">3240</data>
+    </node>
+    <node id="Run-DMC">
+      <data key="d0">6408</data>
+    </node>
+    <node id="Rush (band)">
+      <data key="d0">16842</data>
+    </node>
+    <node id="Mitch Ryder">
+      <data key="d0">2029</data>
+    </node>
+    <node id="Saliva (band)">
+      <data key="d0">4138</data>
+    </node>
+    <node id="Sam Fender">
+      <data key="d0">13763</data>
+    </node>
+    <node id="Santana (band)">
+      <data key="d0">5134</data>
+    </node>
+    <node id="Joe Satriani">
+      <data key="d0">5664</data>
+    </node>
+    <node id="Saving Abel">
+      <data key="d0">1715</data>
+    </node>
+    <node id="Scorpions (band)">
+      <data key="d0">7591</data>
+    </node>
+    <node id="The Script">
+      <data key="d0">4656</data>
+    </node>
+    <node id="Seether">
+      <data key="d0">4883</data>
+    </node>
+    <node id="Bob Seger">
+      <data key="d0">6181</data>
+    </node>
+    <node id="Sepultura">
+      <data key="d0">8996</data>
+    </node>
+    <node id="Sex Pistols">
+      <data key="d0">12288</data>
+    </node>
+    <node id="Shinedown">
+      <data key="d0">7516</data>
+    </node>
+    <node id="Silverchair">
+      <data key="d0">10050</data>
+    </node>
+    <node id="Simon &amp; Garfunkel">
+      <data key="d0">347</data>
+    </node>
+    <node id="Simple Minds">
+      <data key="d0">13583</data>
+    </node>
+    <node id="Simple Plan">
+      <data key="d0">6254</data>
+    </node>
+    <node id="Skid Row (American band)">
+      <data key="d0">4841</data>
+    </node>
+    <node id="Skillet (band)">
+      <data key="d0">8006</data>
+    </node>
+    <node id="Slade">
+      <data key="d0">15090</data>
+    </node>
+    <node id="Slayer">
+      <data key="d0">15654</data>
+    </node>
+    <node id="Slipknot (band)">
+      <data key="d0">14966</data>
+    </node>
+    <node id="Sly and the Family Stone">
+      <data key="d0">7102</data>
+    </node>
+    <node id="Small Faces">
+      <data key="d0">5122</data>
+    </node>
+    <node id="Smash Mouth">
+      <data key="d0">4529</data>
+    </node>
+    <node id="The Smashing Pumpkins">
+      <data key="d0">13915</data>
+    </node>
+    <node id="The Smiths">
+      <data key="d0">10597</data>
+    </node>
+    <node id="Smokie (band)">
+      <data key="d0">3645</data>
+    </node>
+    <node id="Snow Patrol">
+      <data key="d0">5801</data>
+    </node>
+    <node id="Social Distortion">
+      <data key="d0">6799</data>
+    </node>
+    <node id="Sonic Youth">
+      <data key="d0">7776</data>
+    </node>
+    <node id="Soundgarden">
+      <data key="d0">12580</data>
+    </node>
+    <node id="Bruce Springsteen">
+      <data key="d0">19545</data>
+    </node>
+    <node id="Billy Squier">
+      <data key="d0">3470</data>
+    </node>
+    <node id="Staind">
+      <data key="d0">4638</data>
+    </node>
+    <node id="Ringo Starr">
+      <data key="d0">15183</data>
+    </node>
+    <node id="Starset">
+      <data key="d0">4484</data>
+    </node>
+    <node id="Starship (band)">
+      <data key="d0">3179</data>
+    </node>
+    <node id="Status Quo (band)">
+      <data key="d0">7586</data>
+    </node>
+    <node id="Steely Dan">
+      <data key="d0">7215</data>
+    </node>
+    <node id="Steppenwolf (band)">
+      <data key="d0">2898</data>
+    </node>
+    <node id="Steve Miller Band">
+      <data key="d0">2894</data>
+    </node>
+    <node id="Rod Stewart">
+      <data key="d0">15037</data>
+    </node>
+    <node id="Sting (musician)">
+      <data key="d0">12537</data>
+    </node>
+    <node id="The Stone Roses">
+      <data key="d0">6944</data>
+    </node>
+    <node id="Stone Sour">
+      <data key="d0">4385</data>
+    </node>
+    <node id="Stone Temple Pilots">
+      <data key="d0">6881</data>
+    </node>
+    <node id="The Strokes">
+      <data key="d0">7258</data>
+    </node>
+    <node id="Styx (band)">
+      <data key="d0">6495</data>
+    </node>
+    <node id="Sublime (band)">
+      <data key="d0">5126</data>
+    </node>
+    <node id="Sublime with Rome">
+      <data key="d0">4201</data>
+    </node>
+    <node id="Sum 41">
+      <data key="d0">13021</data>
+    </node>
+    <node id="Supertramp">
+      <data key="d0">5810</data>
+    </node>
+    <node id="Survivor (band)">
+      <data key="d0">5615</data>
+    </node>
+    <node id="The Sweet">
+      <data key="d0">8945</data>
+    </node>
+    <node id="System of a Down">
+      <data key="d0">10251</data>
+    </node>
+    <node id="T. Rex (band)">
+      <data key="d0">7252</data>
+    </node>
+    <node id="Talking Heads">
+      <data key="d0">5379</data>
+    </node>
+    <node id="James Taylor">
+      <data key="d0">10513</data>
+    </node>
+    <node id="Ten Years After">
+      <data key="d0">1922</data>
+    </node>
+    <node id="Tenacious D">
+      <data key="d0">11904</data>
+    </node>
+    <node id="Tesla (band)">
+      <data key="d0">3040</data>
+    </node>
+    <node id="Theory of a Deadman">
+      <data key="d0">3543</data>
+    </node>
+    <node id="Thin Lizzy">
+      <data key="d0">10482</data>
+    </node>
+    <node id="Third Eye Blind">
+      <data key="d0">8512</data>
+    </node>
+    <node id="Thirty Seconds to Mars">
+      <data key="d0">6534</data>
+    </node>
+    <node id="George Thorogood">
+      <data key="d0">4021</data>
+    </node>
+    <node id="Thousand Foot Krutch">
+      <data key="d0">4733</data>
+    </node>
+    <node id="Three Days Grace">
+      <data key="d0">11180</data>
+    </node>
+    <node id="Three Dog Night">
+      <data key="d0">4493</data>
+    </node>
+    <node id="Tool (band)">
+      <data key="d0">13483</data>
+    </node>
+    <node id="Toto (band)">
+      <data key="d0">8412</data>
+    </node>
+    <node id="Traffic (band)">
+      <data key="d0">3720</data>
+    </node>
+    <node id="The Tragically Hip">
+      <data key="d0">7016</data>
+    </node>
+    <node id="Train (band)">
+      <data key="d0">8434</data>
+    </node>
+    <node id="Traveling Wilburys">
+      <data key="d0">7159</data>
+    </node>
+    <node id="Travis (band)">
+      <data key="d0">5072</data>
+    </node>
+    <node id="Trivium (band)">
+      <data key="d0">7736</data>
+    </node>
+    <node id="Twenty One Pilots">
+      <data key="d0">13217</data>
+    </node>
+    <node id="Twisted Sister">
+      <data key="d0">5553</data>
+    </node>
+    <node id="U2">
+      <data key="d0">24503</data>
+    </node>
+    <node id="UB40">
+      <data key="d0">6885</data>
+    </node>
+    <node id="Uriah Heep (band)">
+      <data key="d0">8386</data>
+    </node>
+    <node id="The Used">
+      <data key="d0">5487</data>
+    </node>
+    <node id="Steve Vai">
+      <data key="d0">12075</data>
+    </node>
+    <node id="Ritchie Valens">
+      <data key="d0">4473</data>
+    </node>
+    <node id="Vampire Weekend">
+      <data key="d0">5994</data>
+    </node>
+    <node id="Van Halen">
+      <data key="d0">12395</data>
+    </node>
+    <node id="Stevie Ray Vaughan">
+      <data key="d0">12613</data>
+    </node>
+    <node id="Velvet Revolver">
+      <data key="d0">8199</data>
+    </node>
+    <node id="The Velvet Underground">
+      <data key="d0">10775</data>
+    </node>
+    <node id="The Verve">
+      <data key="d0">5013</data>
+    </node>
+    <node id="Gene Vincent">
+      <data key="d0">4946</data>
+    </node>
+    <node id="Volbeat">
+      <data key="d0">3518</data>
+    </node>
+    <node id="Joe Walsh">
+      <data key="d0">8889</data>
+    </node>
+    <node id="Warrant (American band)">
+      <data key="d0">3668</data>
+    </node>
+    <node id="W.A.S.P. (band)">
+      <data key="d0">4167</data>
+    </node>
+    <node id="Weezer">
+      <data key="d0">14714</data>
+    </node>
+    <node id="Jack White">
+      <data key="d0">13832</data>
+    </node>
+    <node id="The White Stripes">
+      <data key="d0">16353</data>
+    </node>
+    <node id="White Zombie (band)">
+      <data key="d0">3186</data>
+    </node>
+    <node id="Whitesnake">
+      <data key="d0">19840</data>
+    </node>
+    <node id="The Who">
+      <data key="d0">17211</data>
+    </node>
+    <node id="Paul McCartney and Wings">
+      <data key="d0">7646</data>
+    </node>
+    <node id="Steve Winwood">
+      <data key="d0">5243</data>
+    </node>
+    <node id="X (American band)">
+      <data key="d0">3743</data>
+    </node>
+    <node id="X Ambassadors">
+      <data key="d0">3545</data>
+    </node>
+    <node id="The Yardbirds">
+      <data key="d0">6719</data>
+    </node>
+    <node id="Yes (band)">
+      <data key="d0">14512</data>
+    </node>
+    <node id="Neil Young">
+      <data key="d0">19055</data>
+    </node>
+    <node id="Frank Zappa">
+      <data key="d0">23122</data>
+    </node>
+    <node id="Rob Zombie">
+      <data key="d0">11704</data>
+    </node>
+    <node id="The Zombies">
+      <data key="d0">6341</data>
+    </node>
+    <node id="ZZ Top">
+      <data key="d0">7308</data>
+    </node>
     <edge source="10cc" target="ABBA" />
     <edge source="10cc" target="The Clash" />
     <edge source="10cc" target="Duran Duran" />
